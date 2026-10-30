@@ -1,0 +1,4 @@
+**/deck/build/
+__pycache__/
+*.pyc
+cn/print/cards_duplex_*.pdf
