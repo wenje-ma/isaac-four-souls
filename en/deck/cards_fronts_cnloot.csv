@@ -1,0 +1,74 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,0 - The Fool,Loot Card,,"结束回合, 取消所有尚未结算的事.",,Base Game V2,b2-o_the_fool
+2,2¢!,Loot Card,,获得 2 ¢.,,Requiem,r-two_cents
+3,2 of Diamonds,Loot Card,,"选一名玩家, 他获得 x ¢, x 是他拥有的 ¢ 数.",,Gold Box V2,g2-two_of_diamonds
+4,2 of Spades,Loot Card,,"选另一名玩家, loot x, x 是他手里的 loot 牌数.",,Requiem,r-two_of_spades
+5,3¢!,Loot Card,,获得 3 ¢.,,Requiem,r-three_cents
+6,4¢!,Loot Card,,获得 4 ¢.,,Requiem,r-four_cents
+7,? Card,Loot Card,,"打出本牌时选一件 item, 复制它的一项 TAP 能力.",,Four Souls+ V2,fsp2-questionmark_card
+8,A Dime!!,Loot Card,,获得 10 ¢.,,Base Game V2,b2-a_dime
+9,A Lucky Penny!,Loot Card,,"获得 1 ¢. 直到回合结束, reward 翻倍.",,Requiem,r-a_lucky_penny
+10,A Nickel!,Loot Card,,获得 5 ¢.,,Requiem,r-a_nickel
+11,A Penny!,Loot Card,,获得 1 ¢.,,Base Game V2,b2-a_penny_6
+12,A Sack,Loot Card,,loot 3.,,Requiem,r-a_sack
+13,Ace Of Diamonds,Loot Card,,"获得 x ¢, x 是怪物槽位数加上你手里的 loot 牌数.",,Requiem,r-ace_of_diamonds
+14,Algiz,Loot Card,,"选一名玩家, 直到回合结束他控制的每件 item 都获得 eternal.",,Requiem,r-algiz
+15,Ansuz,Loot Card,,"查看某个牌堆顶 4 张牌, 再以任意顺序放回.",,Four Souls+ V2,fsp2-ansuz
+16,Berkano,Loot Card,,"毁灭一件 item. 若该 item 由一名玩家控制, 他从商店夺取一件 item.",,Requiem,r-berkano
+17,Black Heart,Loot Card,,"选一名玩家, 防止他本回合接下来受到的 1 damage. 直到回合结束, 该玩家死亡时, 对他和你以外的每名玩家各造成 2 damage.",,Requiem,r-black_heart
+18,Black Rune,Loot Card,,"掷骰 — ①-②: 对每只怪物各造成 1 damage. ③-④: 重掷一件 item. ⑤-⑥: 弃掉手牌, 然后 loot 3.",,Four Souls+ V2,fsp2-black_rune
+19,Blank Loot,Loot Card,,,,Blank,blank-loot
+20,Blank Rune,Loot Card,,掷骰 — ①: 每名玩家各获得 1 ¢. ②: 每名玩家各 loot 2. ③: 每名玩家各受到 3 damage. ④: 每名玩家各获得 4 ¢. ⑤: 每名玩家各 loot 5. ⑥: 每名玩家各获得 6 ¢.,,Base Game V2,b2-blank_rune
+21,Bomb!,Loot Card,,对一只怪物或一名玩家造成 1 damage.,,Requiem,r-bomb
+22,Butt Penny!,Loot Card,,"获得 1 ¢, 然后掷骰.",,The Unboxing of Isaac,box-butt_penny
+23,Butter Bean!,Loot Card,,"取消一件 item 的 TAP 或 ¢ 能力, 或取消一张正在打出的 loot.",,Requiem,r-butter_bean
+24,Charged Penny,Loot Card,,"获得 1 ¢, 然后为一件 item 充能.",,Gold Box V2,g2-charged_penny
+25,Cracked Key,Loot Card,,"选一件非 eternal item, 它变成一张 room. room 槽位 +1, 并把它放进新槽位.",,10th Anniversary,anni-cracked_key
+26,Credit Card,Loot Card,,本回合一名玩家购买的第一件商店 item 花费 0 ¢.,,Gold Box V2,g2-credit_card
+27,Dad's Note,Loot Card,,"从弃牌堆里选至多 3 张非事件怪物牌, 放进一个或多个未被攻击的怪物槽位.",,Requiem,r-dads_note
+28,Dagaz,Loot Card,,"任选: 毁灭一个 curse. / 选一名玩家, 防止他本回合接下来受到的 1 damage.",,Base Game V2,b2-dagaz
+29,Dice Shard,Loot Card,,"选一次掷骰, 由它的控制者重掷.",,Requiem,r-dice_shard
+30,Ehwaz,Loot Card,,"把每只未被攻击的怪物都放入弃牌堆, 并用怪物牌堆顶的牌各自替换.",,Base Game V2,b2-ehwaz
+31,Emergency Contact,Loot Card,,"取消一次对怪物的攻击, 并把那张怪物牌放到怪物牌堆底部.",,Requiem,r-emergency_contact
+32,Era Walk,Loot Card,,掷骰 — 把接下来 4 次掷骰的结果都改成这次的结果.,,Summer of Isaac,soi-era_walk
+33,Get Out Of Jail Card,Loot Card,,"直到回合结束, 其他玩家不能打出 loot 牌, 也不能启动 item.",,Four Souls+ V2,fsp2-get_out_of_jail_card
+34,Gold Bomb!!,Loot Card,,对一只怪物或一名玩家造成 3 damage.,,Base Game V2,b2-gold_bomb
+35,Gold Key,Loot Card,,"直到回合结束, 行动玩家可以任意次攻击怪物牌堆.",,Four Souls+ V2,fsp2-gold_key
+36,Hagalaz,Loot Card,,"查看怪物牌堆或 room 牌堆顶 5 张牌, 以任意顺序放回, 然后把一张未被攻击的 room 或怪物放入弃牌堆.",,Requiem,r-hagalaz
+37,Holy Card,Loot Card,,"选一名玩家, 本回合他下一次本该死亡时, 防止死亡. 若正轮到他的回合, 取消所有尚未结算的事并结束它.",,Gold Box V2,g2-holy_card
+38,I. The Magician,Loot Card,,把一次掷骰的结果改成你指定的数.,,Base Game V2,b2-i_the_magician
+39,II. The High Priestess,Loot Card,,"选一名玩家或一只怪物, 然后掷骰 — 对它们造成等于结果的 damage.",,Base Game V2,b2-ii_the_high_priestess
+40,III. The Empress,Loot Card,,"选一名玩家, 直到回合结束他 +1 atk, 掷骰也 +1.",,Base Game V2,b2-iii_the_empress
+41,IV. The Emperor,Loot Card,,"查看怪物牌堆顶 5 张牌, 1 张放回顶上, 其余放到底部.",,Base Game V2,b2-iv_the_emperor
+42,IX. The Hermit,Loot Card,,"查看 treasure 牌堆顶 5 张牌, 1 张放回顶上, 其余放到底部.",,Base Game V2,b2-ix_the_hermit
+43,Jera,Loot Card,,"loot x, x 是你手里的 loot 牌数.",,Gold Box V2,g2-jera
+44,Joker,Loot Card,,"查看一名玩家的手牌, 你可以从他那里夺取一张 loot 牌.",,Gold Box V2,g2-joker
+45,Key,Loot Card,,任选: 本回合行动玩家可以额外攻击一次. / 把怪物牌堆顶的一张牌放进一个未被攻击的怪物槽位.,,Requiem,r-key
+46,lil Battery,Loot Card,,为一件 item 充能.,,Requiem,r-lil_battery
+47,Magic Marker,Loot Card,,"直到回合结束, 把场上一张牌或一张正在打出的 loot 的效果文本里的一个数字改动 1. 数字不能低于 1, 也不能高于 6.",,Requiem,r-magic_marker
+48,Mega Battery,Loot Card,,"选一名玩家, 为他控制的每件 item 充能.",,Base Game V2,b2-mega_battery
+49,Mega Bean!,Loot Card,,"取消一件 item 或一张正在打出的 loot 的 TAP, ¢ 或触发能力, 但该能力须以你或你控制的东西为目标. 若如此做, 对控制该 item 或该 loot 的玩家造成 2 damage.",,Summer of Isaac,soi-mega_bean
+50,Mega Bomb!,Loot Card,,对一只怪物或一名玩家造成 2 damage.,,Requiem,r-mega_bomb
+51,Mugger Bean!,Loot Card,,"取消一张正在打出的 loot, 并把它收入你的手牌.",,Summer of Isaac,soi-mugger_bean
+52,Perthro,Loot Card,,重掷一件 item.,,Four Souls+ V2,fsp2-perthro
+53,Pills!,Loot Card,,"掷骰 — ①-②: loot 3, 然后把你手里的 3 张牌以任意顺序放到 loot 牌堆顶. ③-④: loot 3, 然后把你手里的一张牌放到 loot 牌堆顶. ⑤-⑥: loot 3.",,Requiem,r-pills
+54,Soul Heart,Loot Card,,"选一名玩家, 防止他本回合接下来受到的 1 damage.",,Requiem,r-soul_heart
+55,Sticky Nickel,Loot Card,,掷骰 — ①-③: 把本牌交给你左边的玩家. ④-⑥: 获得 5 ¢.,,Requiem,r-sticky_nickel
+56,Two Of Diamonds,Loot Card,,把一名玩家拥有的 ¢ 数翻倍.,,Gold Box,g-two_of_diamonds
+57,V. The Hierophant,Loot Card,,"选一名玩家或一只怪物, 防止他们本回合接下来受到的至多 2 damage(只防这一次).",,Base Game V2,b2-v_the_hierophant
+58,VI. The Lovers,Loot Card,,"选一名玩家, 直到回合结束他 +2 hp.",,Base Game V2,b2-vi_the_lovers
+59,VII. The Chariot,Loot Card,,"选一名玩家, 直到回合结束他 +1 atk 和 +1 hp.",,Base Game V2,b2-vii_the_chariot
+60,VIII. Justice,Loot Card,,"选一名玩家, 一直 loot 并获得 ¢, 直到你手里的 loot 牌数和 ¢ 数都与他相同.",,Base Game V2,b2-viii_justice
+61,X. Wheel Of Fortune,Loot Card,,掷骰 — ①: 获得 1 ¢. ②: 受到 2 damage. ③: loot 3. ④: 失去 4 ¢. ⑤: 获得 5 ¢. ⑥: 获得 +1 treasure.,,Base Game V2,b2-x_wheel_of_fortune
+62,XI. Strength,Loot Card,,"选一名玩家, 直到回合结束他 +1 atk, 且本回合可以额外攻击一次.",,Base Game V2,b2-xi_strength
+63,XII. The Hanged Man,Loot Card,,"查看每个牌堆顶的一张牌, 你可以把其中任意张放到各自牌堆底部, 然后 loot 2.",,Base Game V2,b2-xii_the_hanged_man
+64,XIII. Death,Loot Card,,杀死一名玩家.,,Base Game V2,b2-xiii_death
+65,XIV. Temperance,Loot Card,,任选: 受到 1 damage 并获得 4 ¢. / 受到 2 damage 并获得 8 ¢.,,Base Game V2,b2-xiv_temperance
+66,XIX. The Sun,Loot Card,,"把本牌放到 loot 牌堆底部. 若如此做, 且正轮到你的回合, 本回合之后再额外进行一个回合.",,Base Game V2,b2-xix_the_sun
+67,XV. The Devil,Loot Card,,"毁灭你控制的一件 item. 若如此做, 从一名玩家或商店夺取一件非 eternal item.",,Base Game V2,b2-xv_the_devil
+68,XVI. The Tower,Loot Card,,掷骰 — ①-②: 每名玩家各受到 1 damage. ③-④: 每只怪物各受到 1 damage. ⑤-⑥: 每名玩家各受到 2 damage.,,Base Game V2,b2-xvi_the_tower
+69,XVII. The Stars,Loot Card,,获得 +1 treasure.,,Base Game V2,b2-xvii_the_stars
+70,XVIII. The Moon,Loot Card,,"查看 loot 牌堆顶 5 张牌, 1 张放回顶上, 其余放到底部.",,Base Game V2,b2-xviii_the_moon
+71,XX. Judgement,Loot Card,,"选 soul 最多(并列也算) 的一名玩家, 他毁灭自己控制的一张 soul.",,Base Game V2,b2-xx_judgement
+72,XXI. The World,Loot Card,,"查看每名玩家的手牌, 然后 loot 2.",,Base Game V2,b2-xxi_the_world
+73,Lost Soul,Lost Soul Card,,"本牌进场时, 获得 +2 treasure, 并把它交给另一名玩家, 它成为一张 soul. (它不再是一件 item.)",,Promo,p-lost_soul

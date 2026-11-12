@@ -1,0 +1,18 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,???,Character Card,HP 2 / ATK 1,,STARTING ITEM: Forever Alone,Base Game V2,b2-blue_baby
+2,Apollyon,Character Card,HP 2 / ATK 1,,STARTING ITEM: Void,Gold Box V2,g2-apollyon
+3,Azazel,Character Card,HP 2 / ATK 1,,STARTING ITEM: Lord of the Pit,Gold Box V2,g2-azazel
+4,Bethany,Character Card,HP 2 / ATK 1,,STARTING ITEM: Book of Virtues,Requiem,r-bethany
+5,Cain,Character Card,HP 2 / ATK 1,"If you control this as the game starts, you go first.",STARTING ITEM: Sleight of Hand,Base Game V2,b2-cain
+6,Eden,Character Card,HP 2 / ATK 1,"When you start the game, look at the top 3 cards of the treasure deck and choose one. It becomes your starting item and gains eternal. Put the rest on the bottom of the treasure deck.",,Requiem,r-eden
+7,Eve,Character Card,HP 2 / ATK 1,,STARTING ITEM: The Curse,Base Game V2,b2-eve
+8,Isaac,Character Card,HP 2 / ATK 1,,STARTING ITEM: The D6,Base Game V2,b2-isaac
+9,Jacob and Esau,Character Card,HP 2 / ATK 1,,STARTING ITEM: Sibling Rivalry,Requiem,r-jacob_and_esau
+10,Judas,Character Card,HP 2 / ATK 1,,STARTING ITEM: Book of Belial,Base Game V2,b2-judas
+11,Keeper,Character Card,HP 2 / ATK 1,,STARTING ITEM: Wooden Nickel,Gold Box V2,g2-the_keeper
+12,Lazarus,Character Card,HP 2 / ATK 1,,STARTING ITEM: Lazarus' Rags,Base Game V2,b2-lazarus
+13,Lilith,Character Card,HP 2 / ATK 1,,STARTING ITEM: Incubus,Base Game V2,b2-lilith
+14,Magdalene,Character Card,HP 2 / ATK 1,,STARTING ITEM: Yum Heart,Base Game V2,b2-maggy
+15,Samson,Character Card,HP 2 / ATK 1,,STARTING ITEM: Blood Lust,Base Game V2,b2-samson
+16,The Forgotten,Character Card,HP 2 / ATK 1,,STARTING ITEM: The Bone,Base Game V2,b2-the_forgotten
+17,The Lost,Character Card,HP 1 / ATK 1,"At the end of your turn, recharge up to 1 character.",STARTING ITEM: Holy Mantle +1,Gold Box V2,g2-the_lost

@@ -1,0 +1,38 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,SETUP,Rule Card,,"把 treasure, loot, 怪物和 room 四个牌堆各自洗好, 每堆各配一个弃牌堆. 公共池里至少放 100 ¢. 在各自槽位里明置 2 件商店 item, 2 只怪物和 1 张 room; 为怪物槽位抽到事件就放到底部再重抽. 发给每名玩家一张角色卡, 该角色的起始 item, 3 张 loot 和 3 ¢. 角色一开始是停用的, 起始 item 已充能, 回合顺序从先手玩家起按顺时针走.",,REFERENCE,rule-1
+2,START PHASE,Rule Card,,1. 为你控制的每样东西充能; 游戏拥有的商店 item 保持停用. 2. 回合开始时触发的 abilities 结算. 3. loot 1.,,REFERENCE,rule-2
+3,ACTION PHASE,Rule Card,,"你有一次打出 loot 的机会. 堆叠为空时, 你可以宣布一次攻击, 一次购买, 或者结束回合. 任何时候只要你有 priority, 你还可以启动 abilities, 打出 loot.",,REFERENCE,rule-3
+4,END PHASE,Rule Card,,"1. 回合结束时触发的 abilities 结算. 2. 弃牌到手牌上限 10. 3. 本回合若有怪物死亡, 你可以把一张 room 放入弃牌堆. 4. 回合移交; 所有带 hp 数值的物件回复到满, 包括已死亡的玩家.",,REFERENCE,rule-4
+5,ATTACK / ATK,Rule Card,,"在堆叠为空时, 于你的行动阶段宣布一次攻击. 先让 priority 走一圈, 然后你挑一个槽位里的怪物, 或挑怪物牌堆顶的牌; 牌堆顶会被翻开并放进你指定的槽位, 盖住原来那张. 一次攻击就是一串攻击掷骰. 掷一个 D6 与目标的闪避值比较: 等于或更高算命中, 它受到等于你 atk 的战斗伤害; 更低算落空, 它对你造成等于它 atk 的战斗伤害. 攻击只在三种时候结束: 一方死亡, 下一次掷骰前任一方已到 0 hp, 或被取消. 用 TRACK 卡记你正在打的怪物的 hp. atk 就是一次攻击造成的伤害.",,REFERENCE,rule-5
+6,DAMAGE,Rule Card,,"damage 会扣 hp. hp 到 0, 玩家死亡, 怪物也死亡, 死掉的怪物支付它的 reward. 来源造成 damage, 被打到的东西承受它, 所以没写明承受方的 damage 落在行动玩家身上. 来源够不到的 damage 就不会造成.",,REFERENCE,rule-6
+7,PURCHASE,Rule Card,,"在堆叠为空时, 于你的行动阶段宣布. priority 走一圈后, 你挑一件商店 item, 或 treasure 牌堆顶的牌. 默认花费 10 ¢; 付不出钱, 这次购买就失败.",,REFERENCE,rule-7
+8,SLOTS,Rule Card,,"商店, 怪物和 room 的每个槽位都必须有牌. 空槽位会在下一次任何玩家该获得 priority 时, 从各自的牌堆补上.",,REFERENCE,rule-8
+9,CROWD SLOT,Rule Card,,"怪物行旁边多出来的一个小怪槽位, 由点名它的牌造出来. 它不属于商店, 怪物或 room 的槽位, 所以没有东西会补它; 里面的怪物可以被攻击, 死亡时支付它的 reward.",,REFERENCE,rule-9
+10,ROOM,Rule Card,,"room 牌放进 room 槽位, 在场期间为所有玩家改变规则. 怪物死亡时, 行动玩家可以把一张 room 牌放入弃牌堆.",,REFERENCE,rule-10
+11,DEATH,Rule Card,,"hp 到 0, 死亡就进入堆叠. 死亡惩罚: 毁灭你控制的一件非 eternal item, 弃一张 loot, 失去 1 ¢, 停用你控制的每个带 TAP 能力的物件, 付不出的部分跳过. 若死的是行动玩家, 回合直接进入结束阶段. 每回合只能死一次.",,REFERENCE,rule-11
+12,WIN,Rule Card,,控制总值 4 的 soul 即获胜; 在事物结算之间检查.,,REFERENCE,rule-12
+13,DICE / DC,Rule Card,,"除非牌上另说, 每次掷骰都是 D6, 结果永远落在 1 到 6 之间. 掷骰进入堆叠, 由发起它的东西读取. dc 是怪物卡上印的骰值, 你要掷出这个数或更高才能打中它, 落空的攻击不造成 damage.",,REFERENCE,rule-13
+14,ABILITY,Rule Card,,"牌上会做点什么的文字. 静止型 ability 一直生效; 触发型会交代触发时机, 例如 ""每当一名玩家死亡""; 启动型把代价写在冒号前面, 任何你有 priority 的时候都能用.",,REFERENCE,rule-14
+15,STACK,Rule Card,,"loot, abilities 和掷骰都在堆叠上等, 后进先出地结算, 且每一样都要等所有玩家都让过 priority 才结算.",,REFERENCE,rule-15
+16,PRIORITY,Rule Card,,"先归行动玩家, 然后按顺时针传; 拿着它的人可以一直回应, 直到他让过. 选目标发生在东西进入堆叠的那一刻, 而不是结算时; 结算时目标已不在, 这个 ability 就空放. 拿 ¢ 做交易, 许下承诺, 从不进堆叠.",,REFERENCE,rule-16
+17,SOUL,Rule Card,,"来自 soul 牌堆的 reward 牌. 控制总值 4 的 soul 即获胜; 除非牌上另说, 每张 soul 值 1. soul 一直留在获得它的人场上.",,REFERENCE,rule-17
+18,REWARD,Rule Card,,"怪物卡底部的方框. 该怪物死亡或被毁灭时, 不管最后一下 damage 是谁打的, 框里的每项 reward 都归行动玩家: +1 treasure 取 treasure 牌堆顶的一张, +1 ¢ 从公共池里拿, +1 soul 从 soul 牌堆拿. 会往上加 reward 的 ability 也照这种方式支付, 会改动 reward 的则按它写明的时长持续.",,REFERENCE,rule-18
+19,COUNTER,Rule Card,,"放在牌上的标记, 以及桌上的一颗骰子. 它本身什么也不做, 由点名它的 ability 来读取. 只写 counter 的是通用 counter; 像 atk counter 这种带名字的, 只要它还在, 就改变那个数值. 骰子显示 1 到 6, 所以更大的一堆就用 6 加第二颗骰子: 9 个 counter 就是 6 和 3.",,REFERENCE,rule-19
+20,TRACK,Rule Card,,"从 8 到 0 的阶梯, 一张始终摆在眼前的牌. 单人和合作模式里它是计时器: 从 8 开始, 两个角色的回合都走完减 1, 每死一个角色再减 1, 减到 0 这局就算输. 任何模式里它也用来显示怪物的 hp: 把标记放在剩余血量那一行. 没有怪物的 hp 超过 8, 九行足够用.",,REFERENCE,rule-20
+21,ETERNAL,Rule Card,,"静止型. 这个物件不能被毁灭, 也不能放入弃牌堆. 只在场上时才起作用.",,REFERENCE,rule-21
+22,INDOMITABLE,Rule Card,,"怪物上的两个静止型 ability: 若本牌本该放进怪物槽位, 改为把怪物槽位 +1, 放进新槽位; 并且本牌不能被盖住, 所以永远没有牌会压在它上面.",,REFERENCE,rule-22
+23,ROLL,Rule Card,,"造出一次掷骰, 外加一个检查这次掷骰结果的触发型 ability; 掷骰做出后, 这个触发进堆叠, 两者都归掷骰的人.",,REFERENCE,rule-23
+24,FLIP,Rule Card,,"把牌翻过去, 读另一面. 只有写明有第二面的牌才能翻转; 这次印刷里只有 Trick/Treat, 它的两面就印在同一张卡的两侧.",,REFERENCE,rule-24
+25,TAP,Rule Card,,"这个标记表示代价是停用该物件, 也就是把它转 90 度. 只有物件处于充能(即竖直) 时才能用; 它在你的开始阶段充能.",,REFERENCE,rule-25
+26,LOOT,Rule Card,,"既是牌, 也是动词. 你打出的一张 loot 牌结算后进入弃牌堆, 除非它的 ability 说它变成别的东西; Loot 2 就是从 loot 牌堆抓两张牌.",,REFERENCE,rule-26
+27,TREASURE,Rule Card,,"来自 treasure 牌堆的 item. treasure 牌留在场上, 只要它已充能, 就一直保有它的 ability. 商店 item 是游戏拥有的 treasure 牌, 不是你拥有的.",,REFERENCE,rule-27
+28,ITEM,Rule Card,,"任何在场上的 treasure 卡都是一件 item, 不管归谁控制. 商店里的那几件也照算, 只是归游戏控制; item 得到 eternal 就一直毁不掉. 角色卡不是 item; loot 卡要等正文把它变成 item 才算.",,REFERENCE,rule-28
+29,BOSS,Rule Card,,"标了 boss 的怪物牌. 它像别的怪物一样占一个怪物槽位, 但只有带这个词的牌才算 boss, 所以要求翻出 2 张 boss 的效果只认这些.",,REFERENCE,rule-29
+30,EVENT,Rule Card,,"没有数值栏的怪物牌. 在场时它是事件: 占着一个怪物槽位, 但不能被攻击. 它的 abilities 全是触发型, 进场时一起触发, 结算完或被取消之后, 这张牌就进怪物弃牌堆.",,REFERENCE,rule-30
+31,CURSE,Rule Card,,"两个触发型 ability, 只印一个词: 本牌进场时它变成一个 curse, 由行动玩家指定谁拿到它; 你死亡时, 把它放入弃牌堆. 它明置在那个玩家的角色卡旁; 叫你翻出 curse 的牌, 由行动玩家决定给谁.",,REFERENCE,rule-31
+32,TRINKET,Rule Card,,"loot 牌上的一个触发型 ability: loot 结算时它变成一件 item, 你获得它. 牌上的其他文字只在它进场之后才生效, 所以作为 trinket 的 loot 在堆叠上时还不是 item.",,REFERENCE,rule-32
+33,AMBUSH,Rule Card,,"loot 牌上的一个触发型 ability: loot 结算时你选一个怪物槽位, 这张牌在那个槽位变成一只怪物, 行动玩家本回合必须再对它攻击一次. 牌上的其他文字只在它进场之后才生效.",,REFERENCE,rule-33
+34,GUPPY,Rule Card,,"静止型且本身没有效果: 这个词自己什么都不做, 只是给别的牌查找用的标记, 所以 guppy item 就是名字或正文里带着它的任何 item.",,REFERENCE,rule-34
+35,CENT,Rule Card,,"¢ 的一种代价, 或一种数量.",,REFERENCE,rule-35
+36,HP,Rule Card,,"一个物件在死之前能承受的 damage 量. 怪物的 hp 印在卡上; 玩家的 hp 在角色卡上, 两者都用心形标记或骰子记录, 每回合结束时回复到满.",,REFERENCE,rule-36
+37,EVERY CHARACTER,Rule Card,,"每张角色卡都有这项 ability, 所以不再印在卡上: TAP: 本回合额外打出一张 loot 牌. TAP 就是停用该角色, 把它转 90 度; 它在你的开始阶段充能.",,REFERENCE,rule-37

@@ -1,0 +1,24 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,Beggar,Room Card,,¢ 支付 3 ¢: 掷骰 — ③-④: 获得 2 ¢. ⑤: loot 2. ⑥: 获得 +1 treasure. 把本牌放入弃牌堆.,,Requiem,r-beggar
+2,Black Market,Room Card,,¢ 支付 2 hp: 从商店夺取一件 item.,,Promo,p-black_market
+3,Blind Rage,Room Card,,"只要能, 行动玩家每回合都必须攻击怪物牌堆一次.",,Requiem,r-blind_rage
+4,Bomb Bum,Room Card,,"¢ 弃一张 loot 牌: 掷骰. 若弃掉的牌名字里带 ""Bomb"", 改为掷 3 倍 — ①-④: 对一只怪物或一名玩家造成 1 damage. ⑤-⑥: 受到 1 damage.",,Requiem,r-bomb_bum
+5,Challenge Room,Room Card,,"每当一只怪物死亡, 行动玩家掷骰 — ④-⑥: 本回合他必须额外攻击一次.",,Requiem,r-challenge_room
+6,Daily Run,Room Card,HP 4 / DC 4+ / ATK 1,"Indomitable
+本 room 可以被攻击. 每次本牌受到 damage, 获得 4 ¢ 或 loot 1, 然后你可以取消对它的攻击.",,10th Anniversary,anni-daily_run
+7,Devil Beggar,Room Card,,¢ 支付 1 hp: 掷骰 — ①-②: loot 2. ③-④: loot 1. ⑤-⑥: 受到 1 damage.,,Requiem,r-devil_beggar
+8,Dice Room I,Room Card,,"本牌进场时, 行动玩家重掷他控制的每件 item. 回合结束时, 把本牌放入弃牌堆.",,Requiem,r-dice_room_1
+9,Dice Room II,Room Card,,"本牌进场时, 每名玩家弃掉自己的手牌, 然后 loot 3. 回合结束时, 把本牌放入弃牌堆.",,Requiem,r-dice_room_2
+10,Dice Room III,Room Card,,"本牌进场时, 把每件商店 item 都放入弃牌堆. 回合结束时, 把本牌放入弃牌堆.",,Requiem,r-dice_room_3
+11,Dice Room IV,Room Card,,"本牌进场时, 每名玩家重掷自己的每件 item. 回合结束时, 把本牌放入弃牌堆.",,Requiem,r-dice_room_4
+12,Dice Room V,Room Card,,"本牌进场时, 把每只怪物都放入弃牌堆. 回合结束时, 把本牌放入弃牌堆.",,Requiem,r-dice_room_5
+13,Dice Room VI,Room Card,,"本牌进场时, 重掷场上的每件 item, 每名玩家弃掉手牌并 loot 3, 把每只怪物都放入弃牌堆. 回合结束时, 把本牌放入弃牌堆.",,Requiem,r-dice_room_6
+14,Eden's Blessing,Room Card,,"回合开始时, 行动玩家可以重掷他控制的一件 item.",,Requiem,r-edens_blessing
+15,Equality,Room Card,,"玩家本该获得若干 ¢ 时, 改为每名玩家各获得这么多 ¢.",,Requiem,r-equality
+16,Eternal Chest,Room Card,,¢ 弃一张 loot 牌: 掷骰 — ③: 获得 4 ¢. ④-⑤: 获得 7 ¢. ⑥: 获得 +1 treasure 并 loot 1.,,Requiem,r-eternal_chest
+17,Fortune Teller,Room Card,,¢ 支付 3 ¢: 掷骰 — ③: loot 1. ④: loot 2. ⑤: loot 3. ⑥: loot 6. 把本牌放入弃牌堆.,,Requiem,r-fortune_teller
+18,Greed Mode,Room Card,,"每当一只怪物死亡, 行动玩家获得等于其 hp 的 ¢. item 或角色上的每项 TAP 能力都变成以 ""支付 3 ¢"" 为代价的 ¢ 能力.",,10th Anniversary,anni-greed_mode
+19,I Am Error,Room Card,,"你的回合开始时掷骰 — ①-②: 把一只怪物放入弃牌堆, 再用怪物牌堆顶的牌补上那个槽位. ③-④: 重掷你控制的一件 item. ⑤: 弃掉手牌并 loot 3. ⑥: 以上全部照做.",,Requiem,r-i_am_error
+20,Key Master,Room Card,,"¢ 弃一张 loot 牌: 掷骰. 若弃掉的牌名字里带 ""key"", 改为掷 3 倍 — ⑤-⑥: 获得 +1 treasure.",,Requiem,r-key_master
+21,Planetarium,Room Card,,"回合开始时, 行动玩家可以获得 +1 treasure.",,Requiem,r-planetarium
+22,Restock Machine,Room Card,,"¢ 支付 2 ¢: 把每件商店 item, 或每只未被攻击的怪物放入弃牌堆.",,Requiem,r-restock_machine

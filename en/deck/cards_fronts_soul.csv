@@ -1,0 +1,9 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,Soul Of Envy,Soul Card,,"The first time a player controls their 3rd soul, the active player chooses a player who controls the fewest souls or tied for fewest. That player gains this soul.",,Requiem,r-soul_of_envy
+2,Soul Of Gluttony,Soul Card,,The first player to have 10 or more loot cards in their hand gains this soul.,,Base Game V2,b2-soul_of_gluttony
+3,Soul Of Greed,Soul Card,,The first player to have 25¢ or more gains this soul.,,Base Game V2,b2-soul_of_greed
+4,Soul Of Guppy,Soul Card,,The first player to control 2 or more guppy items gains this soul.,,Base Game V2,b2-soul_of_guppy
+5,Soul Of Lust,Soul Card,,"Each time a player kills a monster, put a counter on this. When the 6th counter is put on this, the active player gains this soul.",,Requiem,r-soul_of_lust
+6,Soul Of Pride,Soul Card,,"Each time a player gains a treasure, put a counter on this. When the 6th counter is put on this, the active player gains this soul.",,Requiem,r-soul_of_pride
+7,Soul Of Sloth,Soul Card,,"The first time a player controls 4 items, the active player chooses a player who controls the fewest items or tied for fewest. That player gains this soul.",,Requiem,r-soul_of_sloth
+8,Soul Of Wrath,Soul Card,,"Each time a player dies, put a counter on this. When the 6th counter is put on this, the active player gains this soul.",,Requiem,r-soul_of_wrath

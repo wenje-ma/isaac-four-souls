@@ -1,0 +1,303 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,1Up,Treasure Card,,"If you would die during your turn, destroy this, prevent death, heal to full HP and cancel your attack if able. You may attack an additional time this turn.",,Retro,ret-1_up
+2,20/20,Treasure Card,,Tap: Add up to 2 to an attack roll.,,Four Souls+ V2,fsp2-20_20
+3,9 Volt,Treasure Card,,"At the end of your turn, you may recharge up to 2 items you control.",,Gold Box V2,g2-9_volt
+4,A Dollar!,Treasure Card,,¢ Destroy this: Steal all shop items.,,The Unboxing of Isaac,box-a_dollar
+5,A Lump of Coal,Treasure Card,,"After the third attack roll you make each turn, you gain +1 ATK till end of turn.",,Promo,p-lump_of_coal
+6,A Missing Page,Treasure Card,,"Each time a player would roll a 5, you may force that player to reroll it.",,Gold Box V2,g2-the_missing_page
+7,A Quarter!,Treasure Card,,¢ Destroy this: Gain 25¢.,,The Unboxing of Isaac,box-a_quarter
+8,AAA Battery,Treasure Card,,"Trinket
+At the end of your turn, roll- 4-6: Recharge an item.",,Four Souls+ V2,fsp2-aaa_battery
+9,Abaddon,Treasure Card,,"+3 ATK
+Each time you take damage, die!",,Four Souls+ V2,fsp2-abaddon
+10,Abel,Treasure Card,,"Each time you deal combat damage to a monster, roll- 4-6: Deal 1 damage to another monster or player.",,Requiem,r-abel
+11,Abyss,Treasure Card,,"Eternal
+¢ Destroy an item you control. If you do, put a counter on this. You have +1 ATK for every 2 counters on this.",,Requiem,r-abyss
+12,Alabaster Box,Treasure Card,,"At the start of your turn, put a counter on this. When the 2nd counter is put on this, gain 10¢. When the 4th counter is put on this, loot 4. When the 6th counter is put on this, gain +2 treasure.",,Requiem,r-alabaster_box
+13,Athame,Treasure Card,,¢ Discard a loot card: Force a player to discard 2 loot cards.,,Four Souls+ V2,fsp2-athame
+14,Backstabber,Treasure Card,,"You may attack players who control more souls than you. They have +3 DC for the attack. Each time you kill a player, loot 1.",,Requiem,r-backstabber
+15,Bag Lunch,Treasure Card,,"Trinket
+If this would be destroyed, if it has no counters on it, put a counter on it instead. You have +1 HP while this has a counter on it.",,Requiem,r-bag_lunch
+16,Bag Of Crafting,Treasure Card,,"Eternal
+¢ Discard a loot card: Put a counter on this. ¢ Remove 4 counters from this: Gain +1 treasure.",,Requiem,r-bag_of_crafting
+17,Ball Of Bandages,Treasure Card,,You take no combat damage on attack rolls of 3.,,Requiem,r-ball_of_bandages
+18,Ball of Tar,Treasure Card,,"Eternal
+¢ Discard a loot card: Choose one: Copy a non-trinket, non-ambush loot being played by another player that hasn't already been copied this turn. / Put a monster not being attacked into discard. / Prevent the next 1 damage you would take this turn.",,Summer of Isaac,soi-ball_of_tar
+19,Battery Pack,Treasure Card,,"At the end of your turn, put a counter on this. ¢ Remove 2 counters from this: Recharge each item a player controls.",,Requiem,r-battery_pack
+20,Belly Button,Treasure Card,,"You may play an additional loot card on your turn. Each time you take damage, you may recharge your character.",,Base Game V2,b2-belly_button
+21,Berserk,Treasure Card,,"Eternal
+You may attack an additional time on your turn. Each time you kill a monster, gain +1 HP till end of turn.",,Requiem,r-berserk
+22,Birthright,Treasure Card,,Tap: This becomes a copy of an eternal item you control. This loses eternal.,,Requiem,r-birthright
+23,Black Candle,Treasure Card,,Tap: Reveal the top 6 cards of the monster deck. Give any curse cards revealed to the player or players of your choosing. Put the rest on the bottom of the deck in any order.,,Four Souls+ V2,fsp2-black_candle
+24,Blood Lust,Treasure Card,,"Eternal
+Tap: Choose a player or monster. They gain +1 ATK till end of turn. At the end of your turn, recharge this.",,Base Game V2,b2-blood_lust
+25,Blood Puppy,Treasure Card,,"Each time a player dies, this levels up. LV4 You have +1 ATK. LV8 At the start of your turn, deal 1 damage to a monster or player. LV10 At the start of your turn roll- 1-3: You die.",,Requiem,r-blood_puppy
+26,Bloody Lust,Treasure Card,,"Eternal
+Tap: Choose a player or monster. They gain +1 ATK till end of turn. At the end of your turn, recharge this.",,Base Game V2,b2-blood_lust
+27,Bloody Penny,Treasure Card,,"Trinket
+Each time a player dies, before paying penalties, loot 1.",,Base Game V2,b2-bloody_penny
+28,Bob's Brain,Treasure Card,,"Each time you declare an attack, roll- 1-2: Deal 1 damage to a monster. 3-4: Deal 1 damage to a player. 5-6: Take 1 damage.",,Base Game V2,b2-bobs_brain
+29,Bobby Bomb,Treasure Card,,"When you gain or purchase this, reveal the top 10 cards of the loot deck. Put each card with “Bomb” in its name in your hand and the rest on the bottom of the loot deck. At the start of your turn, put a card with “Bomb” in its name from the loot discard into your hand.",,Requiem,r-bobby_bomb
+30,Book Of Belial,Treasure Card,,"Eternal
+Add or subtract 1 from a roll. At the end of your turn, recharge this.",,Base Game V2,b2-book_of_belial
+31,Book Of The Dead,Treasure Card,,Tap: Put a non-event monster card in discard in a monster slot not being attacked.,,Requiem,r-book_of_the_dead
+32,Book Of Virtues,Treasure Card,,"Eternal
+Each time you deal combat damage, roll- 5-6: Deal 1 damage to a monster or player. Each time you kill a monster, choose another player. You and that player each loot 1.",,Requiem,r-book_of_virtues
+33,Booster Pack,Treasure Card,,"Tap: Destroy this. If you do, reveal the top 5 cards of the loot deck. You may play any number of them without using a loot play. Put the rest into discard.",,10th Anniversary,anni-booster_pack
+34,Breakfast,Treasure Card,,+1 HP,,Base Game V2,b2-breakfast
+35,Brimstone,Treasure Card,,"+1 ATK
+Each time you roll a 6, deal 1 damage to a monster or another player.",,G-Fuel,gf-brimstone
+36,Broken Ankh,Treasure Card,,"Trinket
+When you would die, roll- 6: Prevent death. If it's your turn, cancel everything that hasn't resolved and end it.",,Base Game V2,b2-broken_ankh
+37,Broken Remote,Treasure Card,,"Trinket
+Each time you activate an item, you may put a room or monster not being attacked into discard.",,Requiem,r-broken_remote
+38,Cain's Eye,Treasure Card,,"Trinket
+At the start of your turn, look at the top card of the loot deck. You may put it on the bottom.",,Base Game V2,b2-cains_eye
+39,Callus,Treasure Card,,"Trinket
+Prevent all non-combat damage you would take.",,Requiem,r-callus
+40,Cambion Conception,Treasure Card,,"Each time you take damage, put counters on this equal to the amount of damage taken. Then, if this has 6+ counters, remove 6 counters from this and gain +1 treasure.",,Base Game V2,b2-cambion_conception
+41,Cancer,Treasure Card,,"Trinket
+You have +1 to your first dice roll each turn.",,Gold Box V2,g2-cancer
+42,Car Battery,Treasure Card,,This can't be recharged except by its own abilities. Tap: Recharge up to 3 other items in play. ¢ Pay 7¢: Recharge this.,,Requiem,r-car_battery
+43,Champion Belt,Treasure Card,,You have +1 ATK for your first attack roll each turn. You may attack an additional time on your turn.,,Base Game V2,b2-champion_belt
+44,Charged Baby,Treasure Card,,"Each time a player rolls a 2, you may recharge an item.",,Base Game V2,b2-charged_baby
+45,Chocolate Milk,Treasure Card,,"At the start of your turn, put a counter on this. Then if this has 3+ counters, remove all counters from this and deal 1 damage to a player or monster. While this has 2 counters on it, you have +1 ATK.",,Requiem,r-chocolate_milk
+46,Consolation Prize,Treasure Card,,"At the start of your turn, loot x, where x is the number of souls the player with the most souls controls minus the number of souls you control.",,Requiem,r-consolation_prize
+47,Counterfeit Penny,Treasure Card,,"Trinket
+If you would gain any number of ¢, gain that much +1¢ instead.",,Base Game V2,b2-counterfeit_penny
+48,Crooked Penny,Treasure Card,,"Tap: Choose a player, then roll- 1-3: Double the amount of ¢ they have. 4-6: That player loses all ¢.",,Gold Box V2,g2-crooked_penny
+49,Cube Of Meat,Treasure Card,,"You take no combat damage on attack rolls of 1. While you control another item or soul named Cube Of Meat or Ultra Flesh Kid!, you have +1 ATK.",,The Unboxing of Isaac,box-cube_of_meat
+50,Curse Of The Tower,Treasure Card,,"Each time you take damage, roll- 1-3: Each other player takes 1 damage. 4-6: Deal 1 damage to a monster.",,Base Game V2,b2-curse_of_the_tower
+51,Cursed Eye,Treasure Card,,"Combat damage you deal on attack rolls of 6 is increased by 3. When you roll an attack roll of 1, end your turn. Cancel everything that hasn't resolved.",,Four Souls+ V2,fsp2-cursed_eye
+52,Curved Horn,Treasure Card,,"Trinket
+Gain +1 ATK for your first attack roll each turn.",,Base Game V2,b2-curved_horn
+53,Dad's Key,Treasure Card,,¢ Discard a loot card: Put the top card of the monster deck in a monster slot not being attacked.,,Gold Box V2,g2-dads_key
+54,Dad's Lost Coin,Treasure Card,,"Each time a player would roll a 1, you may force that player to reroll it.",,Base Game V2,b2-dads_lost_coin
+55,Dad's Ring,Treasure Card,,Each time you declare an attack on a monster roll- 5-6: That monster gains -1 DC till end of turn.,,Promo,p-dads_ring
+56,Daddy Longlegs,Treasure Card,,"At the start of your turn, deal 1 damage to a monster or player.",,Four Souls+ V2,fsp2-daddy_long_legs
+57,Damocles,Treasure Card,,"If you would gain any number of treasures, instead gain that many +1. When you die, before paying penalties, destroy this.",,Requiem,r-damocles
+58,Dark Arts,Treasure Card,,"Eternal
+Each time a player rolls a 6, gain 2¢. Each time another player dies, loot 1.",,Four Souls+ V2,fsp2-dark_arts
+59,Dark Bum,Treasure Card,,"At the start of your turn, roll- 1-2: Gain 3¢. 3-4: Loot 1. 5-6: Take 1 damage.",,Base Game V2,b2-dark_bum
+60,Dataminer,Treasure Card,,"Tap: Roll- 1: Each monsters' ATK becomes 1. 2: Destroy this. If you do, put 1 ATK counter on your character. 3: Deactivate all cards in play. 4: Your max hand size becomes 0 till the start of your next turn. 5: Each monsters' ATK becomes 9. 6: Destroy this. If you do, your ATK becomes 9 till end of turn.",,10th Anniversary,anni-dataminer
+61,Dead Bird,Treasure Card,,"Each time a player rolls a 3, you may look at their hand and steal a loot card from them.",,Base Game V2,b2-dead_bird
+62,Dead Eye,Treasure Card,,Each time you deal damage to a monster gain +1 ATK till the end of turn.,,Target,t-dead_eye
+63,Dinner,Treasure Card,,+1 HP,,Base Game V2,b2-dinner
+64,Distant Admiration,Treasure Card,,"Tap: Choose another player. They give you a loot card. Reveal it, then you must play that loot card if able. This doesn't use a loot play.",,Four Souls+ V2,fsp2-distant_admiration
+65,Divorce Papers,Treasure Card,,"Tap: Destroy this. If you do, choose another player. They give you half of their ¢ and loot cards rounded down, then gives you an item.",,Four Souls+ V2,fsp2-divorce_papers
+66,Dry Baby,Treasure Card,,Damage you would take is reduced to 1.,,Base Game V2,b2-dry_baby
+67,Eden's Blessing,Treasure Card,,"At the end of your turn, if you have 0¢, gain 6¢.",,Base Game V2,b2-edens_blessing
+68,Eden's Soul,Treasure Card,,"This enters play deactivated. Tap: Destroy this. If you do, look at the top 7 cards of the treasure deck. Gain 2 of them, then put the rest on the bottom of the deck in a random order.",,The Unboxing of Isaac,box-edens_soul
+69,Empty Vessel,Treasure Card,,"When you have 0 loot cards in your hand, you have +1 ATK. While you have 0¢, you have +1 to your attack rolls.",,Base Game V2,b2-empty_vessel
+70,Epic Fetus!,Treasure Card,,"Tap: Deal 1 damage to a monster, player and yourself.",,Target,t-epic_fetus
+71,Eternal D6,Treasure Card,,"Tap: Put a counter on this. ¢ Remove 2 counters from this: Till end of turn, if a player would roll a 2 or 3, it becomes a 1 instead.",,Requiem,r-eternal_d6
+72,Euthanasia,Treasure Card,,"Each time you roll the same result twice in a row on an attack roll on the same turn, kill the monster you're attacking.",,Four Souls+ V2,fsp2-euthanasia
+73,Experimental Treatment,Treasure Card,,¢ Destroy this: roll- 1: You die. 2: Loot 3. 3: Gain 9. 4: Gain +1 treasure. 5: Gain +2 treasure. 6: This becomes a soul. Gain it.,,Requiem,r-experimental_treatment
+74,Eye Of Greed,Treasure Card,,"Each time a player rolls a 5, gain 3¢.",,Base Game V2,b2-eye_of_greed
+75,Fanny Pack,Treasure Card,,"Each time you take damage, loot 1.",,Base Game V2,b2-fanny_pack
+76,Finger!,Treasure Card,,"Each time a player rolls a 2, you may swap a non-eternal item you control with a non-eternal item they control.",,Base Game V2,b2-finger
+77,Fire Mind,Treasure Card,,Combat damage you deal is doubled on attack rolls of 6. Combat damage you take is doubled on attack rolls of 1.,,Requiem,r-fire_mind
+78,Flip,Treasure Card,,"Eternal
+Each time you die, after paying penalties, flip your character if able. Then recharge it. Discard your hand and loot 3.",,Requiem,r-flip
+79,Forever Alone,Treasure Card,,"Eternal
+Tap: Choose one- Steal 1¢ from another player. Look at the top card of a deck. Discard a loot card, then loot 1. Each time you take damage, recharge this.",,Base Game V2,b2-forever_alone
+80,Forget Me Now,Treasure Card,,"Tap: Destroy this. If you do, each player destroys a soul they control.",,Four Souls+ V2,fsp2-forget_me_now
+81,Found Soul,Treasure Card,,"Trinket
++1 ATK When a soul enters your control, give this item to another player.",,Summer of Isaac,soi-found_soul
+82,Friendly Ball,Treasure Card,,Tap: Put a monster not being attacked under this if there are no cards under this. Tap: Put a monster from under this in a monster slot not being attacked. The active player must make an additional attack on it this turn.,,Requiem,r-friendly_ball
+83,Fruit Cake,Treasure Card,,"Tap: Roll- 1: Loot 1. 2-3: Gain 1¢. 4-6: Look at the top card of a deck. Each time a player rolls the same result twice in a row on the same turn, recharge this.",,Gold Box V2,g2-fruitcake
+84,G Fuel!,Treasure Card,,"Tap: Recharge a character. At the end of your turn, you may recharge an item.",,G-Fuel,gf-g_fuel-red
+85,Gello,Treasure Card,,"Eternal
+Tap: Choose a monster being attacked. Heal that monster to full HP, then deal damage equal to the number of HP healed in this way to another monster. If it's not your turn, cancel the attack and the active player may make an additional attack this turn.",,Requiem,r-gello
+86,Gimpy,Treasure Card,,"Eternal
+Each time you take damage, choose one- Gain 2¢. Loot 1, then discard a loot card. Gain +2 ATK till end of turn.",,Four Souls+ V2,fsp2-gimpy
+87,Glitter Bombs,Treasure Card,,Tap: Play with the top card of the loot deck revealed till end of turn. You may play the top card of the loot deck till end of turn.,,The Unboxing of Isaac,box-glitter_bombs
+88,Gnawed Leaf,Treasure Card,,"Prevent all damage you would take while it's not your turn. The first time each turn another player plays a loot card that targets you or something you control, you may cancel it.",,Requiem,r-gnawed_leaf
+89,Goat Head,Treasure Card,,"At the end of your turn, you may discard any number of loot cards, then loot equal to the number of cards discarded in this way.",,Base Game V2,b2-goat_head
+90,Godhead,Treasure Card,,Tap: Flip a dice roll. (The roll become 7 - the current result.),,Alt Art,aa-godhead
+91,Golden Horseshoe,Treasure Card,,"Trinket
+At the start of your turn, look at the top card of the treasure deck, you may put it on the bottom.",,Base Game V2,b2-golden_horseshoe
+92,Golden Trinket,Treasure Card,,"Trinket
+When this enters play put a gold counter on another non-eternal item you control. This has the abilities of other items with gold counters on them.",,Requiem,r-golden_trinket
+93,Greed's Gullet,Treasure Card,,"Each time you die, before paying penalties, gain 8¢.",,Base Game V2,b2-greeds_gullet
+94,Guppy's Collar,Treasure Card,,"Guppy
+Each time you would die, roll- 1-3: Prevent death. If it's your turn, cancel everything that hasn't resolved and end your turn.",,Base Game V2,b2-guppys_collar
+95,Guppy's Eye,Treasure Card,,"Guppy
+Each other player plays with their hand revealed.",,Four Souls+ V2,fsp2-guppys_eye
+96,Guppy's Hairball,Treasure Card,,"Guppy
+Trinket
+Each time you would take damage, roll- 6: Prevent 1 of that damage.",,Base Game V2,b2-guppys_hairball
+97,Guppy's Head,Treasure Card,,"Eternal
+Guppy
+Tap: Give a loot card to another player. If you do, look at the top 2 cards of the loot deck. Put them back in any order, then loot 1. Each time a player rolls a 4, recharge this.",,Nendoroid,nen-guppys-head
+98,Guppy's Paw,Treasure Card,,"Guppy
+Tap: Destroy an item you control. If you do, put a counter on this. You have +1 HP for each counter on this.",,Alt Art,aa-guppys_paw
+99,Guppy's Tail,Treasure Card,,"Guppy
+Loot +1 during your loot step. At the end of your turn, discard a loot card.",,Gold Box V2,g2-guppys_tail
+100,Hallowed Ground,Treasure Card,,"Each time a player rolls a 2, put a counter on this. ¢ Remove 3 counters from this: Put the top card of the loot discard into your hand.",,Requiem,r-hallowed_ground
+101,Halo Of Flies,Treasure Card,,You take no combat damage on attack rolls of 1 or 6.,,Requiem,r-halo_of_flies
+102,Head Of Krampus,Treasure Card,,Tap: Roll- 1-3: Deal 1 damage to each player. 4-6: Deal 1 damage to each monster.,,Four Souls+ V2,fsp2-head_of_krampus
+103,Head Of The Keeper,Treasure Card,,"Each time you deal damage, gain 1¢. Each time you kill a monster or player, gain 2¢.",,Four Souls+ V2,fsp2-head_of_the_keeper
+104,Hemoptysis,Treasure Card,,"Eternal
+Tap: Put a counter on this. ¢ Remove a counter from this: Choose a monster. Its ATK becomes 1. ¢ Remove 2 counters from this: Deal 1 damage to up to 2 monsters or players.",,Requiem,r-hemoptysis
+105,Holy Mantle,Treasure Card,,"Eternal
+Tap: Choose a player. The next time that player would die this turn, prevent it. If it's their turn, cancel everything that hasn't resolved and end it. At the end of your turn, recharge this.",,Gold Box V2,g2-holy_mantle
+106,Hourglass,Treasure Card,,"Each time a player rolls a 2, you may deactivate an item.",,Four Souls+ V2,fsp2-hourglass
+107,Hypercoagulation,Treasure Card,,"Eternal
+At the start of your turn put a counter on this. You have +1 HP for each counter on this. At the end of your turn, if this has 3+ counters, remove all of them and loot 3.",,Requiem,r-hypercoagulation
+108,I Can't Believe It's Not Butter Bean,Treasure Card,,Tap: Cancel the Tap or ¢ ability of an item or a loot card being played that targets an item or dice roll you control.,,Gold Box V2,g2-i_cant_believe_its_not_butter_bean
+109,IBS,Treasure Card,,"Eternal
+¢ Discard a loot card: Choose one- Cancel your attack on a monster. Gain 3¢. ¢ Discard 2 loot cards: Cancel the Tap or ¢ ability of an item or loot being played.",,Requiem,r-ibs
+110,Incubus,Treasure Card,,"Eternal
+Tap: Choose one- Look at a player's hand. You may swap a card from your hand with one of theirs. Loot 1, then put a card from your hand on top of the loot deck.",,Base Game V2,b2-incubus
+111,Infamy,Treasure Card,,You take no combat damage on attack rolls of 1.,,Gold Box V2,g2-infamy
+112,Infestation,Treasure Card,,"Eternal
+Tap: Loot 2, then discard 1 loot card.",,Four Souls+ V2,fsp2-infestation
+113,Ipecac,Treasure Card,,"+1 ATK
+Each time you roll an attack roll of 6, deal 1 damage to each other player.",,Base Game V2,b2-ipecac
+114,Isaac's Last Will,Treasure Card,,"Each time another player pays the death penalty, gain 2¢ and put their death penalty item under this. Tap: Choose 1: Put a card from under this on top of its deck. / Gain 1¢ for each card under this.",,Summer of Isaac,soi-isaacs_last_will
+115,Isaac's Tears,Treasure Card,,"Each time you roll a dice, put a counter on this. ¢ Remove 6 counters from this: Deal 1 damage to each other player and each monster.",,G-Fuel,gf-isaacs_tears
+116,Jar Of Flies,Treasure Card,,"Each time a monster dies, put a counter on this. Tap: Remove 1 or more counters from this: Loot 1. If 3+ counters were removed, deal 1 damage to a monster instead.",,Requiem,r-jar_of_flies
+117,Judas' Shadow,Treasure Card,,"Each time you die, before paying penalties, put 2 counters on this. When this is destroyed, gain x¢ and loot x, where x is equal to the number of counters on this.",,Requiem,r-judas_shadow
+118,Karma,Treasure Card,,"Each time a soul enters another player's control, choose 2 players. They each steal a shop item and loot 1.",,Summer of Isaac,soi-karma
+119,Keeper's Bargain,Treasure Card,,"Eternal
+Tap: Each other player may choose to gain 1¢. Gain 1¢ + 1¢ for each player who did. Shop items you purchase cost 3¢ less.",,Requiem,r-keepers_bargain
+120,Keeper's Box,Treasure Card,,"When this enters play, expand shop slots by 2. Each time another player purchases a shop item, gain 2¢ and loot 1.",,Requiem,r-keepers_box
+121,Keeper's Sack,Treasure Card,,"Eternal
+When you gain or purchase this, gain 14¢. ¢ Pay 4¢: Give this to another player. At the end of your turn, discard a loot card. If you can't, take 2 damage.",,Requiem,r-keepers_sack
+122,Lard,Treasure Card,,"+2 HP
+Each time you take damage, discard a loot card.",,Four Souls+ V2,fsp2-lard
+123,Lazarus' Rags,Treasure Card,,"Eternal
+Each time you die, after paying penalties, gain +1 treasure.",,Base Game V2,b2-lazarus_rags
+124,Lazarus' Rags,Treasure Card,,"Eternal
+Each time you die, after paying penalties, gain +1 treasure.",,Base Game V2,b2-lazarus_rags
+125,Lemegeton,Treasure Card,,"Eternal
+Tap: Gain +1 treasure. The next time your turn ends, destroy a non-eternal item you control.",,Requiem,r-lemegeton
+126,Lemon Mishap,Treasure Card,,"Tap: Till end of turn, each time a player rolls an attack roll of 1 or 2, deal 1 damage to each monster.",,Gold Box V2,g2-lemon_mishap
+127,Libra,Treasure Card,,Tap: Change the result of a dice roll to a 3.,,Four Souls+ V2,fsp2-libra
+128,Lil Chest,Treasure Card,,"Each time you kill a monster, roll- 1-2: Gain 2¢. 3-4: Loot 2, then put a loot card from your hand on top of the loot deck. 5-6: Recharge each item you control.",,Requiem,r-lil_chest
+129,Lil Delirium,Treasure Card,,"At the start of your turn, look at the top 3 cards of the treasure deck and reveal one. This becomes a copy of the revealed card till end of turn. Put the cards on the bottom of the deck in a random order.",,The Unboxing of Isaac,box-lil_delirium
+130,Little Gish,Treasure Card,,Tap: Choose a deactivated item in play. That item does not recharge at the start of its controllers next turn.,,Gish,gi-lil_gish
+131,Lodestone,Treasure Card,,"Each time a player rolls a 3, choose a monster. It gains -1 DC, till end of turn.",,Requiem,r-lodestone
+132,Lord Of The Pit,Treasure Card,,"Eternal
+Tap: Cancel an attack. That player may attack an additional time this turn.",,Gold Box V2,g2-lord_of_the_pit
+133,Lucky Toe,Treasure Card,,"Trinket
+If you would loot, except during the loot step, instead loot that much +1.",,Requiem,r-lucky_toe
+134,Lunch,Treasure Card,,+1 HP,,Requiem,r-lunch
+135,Magic Mushroom,Treasure Card,,This starts with 3 counters. ¢ Remove a counter from this: Choose one: Gain +1 ATK for your next attack roll this turn. / Prevent the next 1 damage you would take this turn. Your character has “Tap: Put a counter on an item named Magic Mushroom.”,,Summer of Isaac,soi-magic_mushroom
+136,Magic Skin,Treasure Card,,"Tap: Gain +1 treasure, put a counter on this, then give this to another player. At the start of your turn, roll- If the roll is less than the number of counters on this, destroy it and all other items you control.",,Requiem,r-magic_skin
+137,Magnet,Treasure Card,,"Each time another player gains ¢, they must give you 1¢.",,Four Souls+ V2,fsp2-magnet
+138,Mama Mega,Treasure Card,,"Tap: Destroy this. If you do, deal 3 damage to each monster and player.",,Requiem,r-mama_mega
+139,Marbles,Treasure Card,,Tap: Choose a non-eternal card in play. Put a counter on it of a type already on it or remove a counter from it.,,Requiem,r-marbles
+140,Marked,Treasure Card,,"Each time you make your first attack roll for your turn, you may change the dice result into a 5.",,Target,t-marked
+141,Meat!,Treasure Card,,You have +1 to attack rolls.,,Base Game V2,b2-meat
+142,Member Card,Treasure Card,,"Tap: Look at the top 3 cards of the treasure deck. Put them back in any order, then put a shop item into discard. Shop items you purchase cost 4¢ less.",,Requiem,r-member_card
+143,Mom's Bottle of Pills,Treasure Card,,"When you gain or purchase this, reveal the top 10 cards of the loot deck. Put each card named Pills! in your hand and the rest on the bottom of the deck. At the start of your turn, put a card named Pills! from the loot discard into your hand.",,Requiem,r-moms_bottle_of_pills
+144,Mom's Box,Treasure Card,,"Each time a player rolls a 4, you may loot 1, then discard a loot card.",,Base Game V2,b2-moms_box
+145,Mom's Coin Purse,Treasure Card,,Loot +1 during your loot step.,,Base Game V2,b2-moms_coin_purse
+146,Mom's Eyeshadow,Treasure Card,,"If another player declares an attack on a monster, you may choose which monster they attack.",,Four Souls+ V2,fsp2-moms_eye_shadow
+147,Mom's Heels,Treasure Card,,You may attack an additional time on your turn. Prevent the first instance of combat damage you would take each turn.,,The Unboxing of Isaac,box-moms_heels
+148,Mom's Knife,Treasure Card,,"+1 ATK
+Each time you deal combat damage to a monster on an attack roll of 6, deal 1 damage to each other monster.",,Gold Box V2,g2-moms_knife
+149,Mom's Lipstick,Treasure Card,,You may attack an additional time on your turn. You have +1 to the first attack roll you make each turn.,,The Unboxing of Isaac,box-moms_lipstick
+150,Mom's Purse,Treasure Card,,Loot +1 during your loot step.,,Base Game V2,b2-moms_purse
+151,Mom's Razor,Treasure Card,,"Each time a player rolls a 6, you may deal 1 damage to them.",,Base Game V2,b2-moms_razor
+152,Mom's Ring,Treasure Card,,"+1 ATK
+When you gain or purchase this, loot 1.",,Promo,p-moms_ring
+153,Mom's Underwear,Treasure Card,,You may attack an additional time on your turn. You have +2 ATK for the second attack you make each turn.,,The Unboxing of Isaac,box-moms_underwear
+154,Monstro's Tooth,Treasure Card,,"At the start of your turn, choose a player at random. That player destroys an item they control.",,Base Game V2,b2-monstros_tooth
+155,More Options,Treasure Card,,"At the start of your turn, you may look at the top 2 cards of the treasure deck. You may purchase an additional time on your turn.",,Gold Box V2,g2-more_options
+156,Mutant Spider,Treasure Card,,"Tap: The next time a player would roll a dice, they instead roll 4 dice. You choose one of the rolls as the result.",,Four Souls+ V2,fsp2-mutant_spider
+157,My Little Unicorn,Treasure Card,,"Tap: Prevent all damage you would take till end of turn. When you roll a 1-3 this turn, cancel everything that hasn't resolved and end the turn.",,The Unboxing of Isaac,box-my_little_unicorn
+158,Mystery Gift,Treasure Card,,"¢ Destroy this: Choose any number of players. Look at the top x cards of the treasure deck, where x is the number of chosen players, and put any of them back or on the bottom of the deck in any order. Gain +1 treasure, then each chosen player gains +1 treasure.",,Promo,p-mystery_gift
+159,Number One,Treasure Card,,Monsters have -1 DC on your turn. Your attack rolls of 1 or 6 count as misses.,,The Unboxing of Isaac,box-number_one
+160,Number Two,Treasure Card,,"Each time a player rolls a 2, you may deal 1 damage to a monster or player.",,The Unboxing of Isaac,box-number_two
+161,Ouija Board,Treasure Card,,Tap: Reveal the top 4 cards of the monster deck. You may put an event card revealed this way in a monster slot not being attacked. Put the rest on the bottom of the deck in a random order.,,Gold Box V2,g2-ouija_board
+162,Pinky Eye,Treasure Card,,"Trinket
+Each time you take combat damage from a monster or player on an attack roll of 1, deal 1 damage to them.",,Gold Box V2,g2-pink_eye
+163,Placenta,Treasure Card,,"+1 HP
+You take no combat damage on attack rolls of 4.",,Gold Box V2,g2-placenta
+164,Plan C,Treasure Card,,"Tap: Destroy this. If you do, kill a monster. At the end of the turn, kill all players.",,Gold Box V2,g2-plan_c
+165,Playdough Cookie,Treasure Card,,"At the start of your turn, you may choose a non-eternal item. Put a counter on that item or remove one from it. Otherwise, gain 1¢.",,Requiem,r-playdough_cookie
+166,Poker Chip,Treasure Card,,"Trinket
+The first time you would gain ¢ on each of your turns, roll- 1-3: Gain 1 ¢ instead. 4-6: Gain double the number of ¢ you would've gained.",,Four Souls+ V2,fsp2-poker_chip
+167,Polydactyly,Treasure Card,,You may play an additional loot card on your turn. You have +1 ATK for your first attack roll each turn.,,Base Game V2,b2-polydactyly
+168,Polyphemus,Treasure Card,,"+2 ATK
+Monsters have +1 DC on your turn.",,Four Souls+ V2,fsp2-polyphemus
+169,Punching Bag,Treasure Card,HP 2 / DC 5 / ATK 1,You have +2 HP. This item can be attacked.,,Requiem,r-punching_bag
+170,Pyromaniac,Treasure Card,,"When you gain this, search the loot deck for up to 2 cards named Bomb!, reveal them, put them in your hand, then shuffle the deck. If you would deal any amount of non-combat damage, deal that much damage +1 instead.",,Promo,p-pyromaniac
+171,R Key,Treasure Card,,"This enters play deactivated. Tap: Destroy this. If you do, destroy all souls. Each player discards their hand and loots 3.",,Requiem,r-r_key
+172,Rainbow Baby,Treasure Card,,Tap: Choose one- Each player loots 1. Each player gains 2¢. Each player takes 1 damage.,,Four Souls+ V2,fsp2-rainbow_baby
+173,Red Candle,Treasure Card,,"Tap: Before a dice is rolled, choose a number. Till the end of turn, each time that number is rolled, deal 1 damage to a monster or player.",,Four Souls+ V2,fsp2-red_candle
+174,Red Key,Treasure Card,,Tap: Look at the top 3 cards of the room or monster deck. You may put one of those in a slot and the rest back. This can't be activated during an attack.,,Requiem,r-red_key
+175,Restock,Treasure Card,,"At the start of your turn, you may put any number of shop items into discard.",,Base Game V2,b2-restock
+176,Rib Of Greed,Treasure Card,,"Trinket
+Abilities and the death penalty can't make you discard loot cards or lose ¢.",,Requiem,r-rib_of_greed
+177,Rock Bottom,Treasure Card,,"When you gain or purchase this, put counters on it equal to the number of loot cards in your hand. At the end of your turn, if you have fewer loot cards in your hand than there are counters on this, loot 2.",,Requiem,r-rock_bottom
+178,Rubber Cement,Treasure Card,,"Each time you miss an attack roll, roll- 1-3: Deal 1 damage to a monster or player.",,Four Souls+ V2,fsp2-rubber_cement
+179,Sacred Heart,Treasure Card,,"When you would roll a 1, you may change the result to a 6.",,Base Game V2,b2-sacred_heart
+180,Satanic Bible,Treasure Card,,¢ Pay 1 HP: Choose a monster. Prevent the next instance of damage it would take this turn.,,The Unboxing of Isaac,box-satanic_bible
+181,Seraphim,Treasure Card,,"You have +1 to the 1st, 3rd and 5th attack roll you make each turn.",,The Unboxing of Isaac,box-seraphim
+182,Shiny Rock,Treasure Card,,"Each time you activate an item, gain 1¢.",,Base Game V2,b2-shiny_rock
+183,Short Fuse,Treasure Card,,"Trinket
+When this is destroyed, deal 2 damage to a monster or player.",,Promo,p-short_fuse
+184,Sibling Rivalry,Treasure Card,,"Eternal
+Tap: Choose a non-active player. The next time the active player declares an attack this turn, the chosen player must make an attack roll after each attack roll the active player makes for the attack. If that monster dies this attack, the chosen player also gains the rewards.",,Requiem,r-sibling_rivalry
+185,Skeleton Key,Treasure Card,,You may attack up to 99 times during your turn.,,Gold Box V2,g2-skeleton_key
+186,Sleight Of Hand,Treasure Card,,"Eternal
+Tap: Look at the top 5 cards of a deck. Put them back in any order.",,Base Game V2,b2-sleight_of_hand
+187,Smart Fly,Treasure Card,,"Tap: Look at the top card of a deck. You may put it into discard or put it back on top. Each time you take damage, you may recharge this.",,Four Souls+ V2,fsp2-smart_fly
+188,Soy Milk,Treasure Card,,"Monsters have +1 DC on your turn. Each time you deal combat damage to a monster, deal 1 damage to each other monster.",,Gold Box V2,g2-soy_milk
+189,Spelunker Hat,Treasure Card,,"At the start of your turn, you may look at the top 3 cards of a deck and put them back in any order.",,Requiem,r-spelunker_hat
+190,Spider Mod,Treasure Card,,"Each time a player rolls a 5, you may put a monster not being attacked into discard and replace it with the top card of the monster deck.",,Base Game V2,b2-spider_mod
+191,Spindown Dice,Treasure Card,,"Eternal
+Tap: Destroy an item. If it was controlled by a player, they may steal an item from the shop. At the end of your turn, roll- 4-6: Recharge this.",,Requiem,r-spindown_dice
+192,Starter Deck,Treasure Card,,"At the end of your turn, if you have 8 or more loot cards in your hand, loot 2.",,Base Game V2,b2-starter_deck
+193,Succubus,Treasure Card,,¢ Pay 3¢: You may play up to 2 additional loot cards this turn.,,Gold Box V2,g2-succubus
+194,Suicide King,Treasure Card,,"Each time you die, before paying penalties, loot 3.",,Base Game V2,b2-suicide_king
+195,Sumptorium,Treasure Card,,"Eternal
+Each time you take damage, put a counter on this. ¢ Remove 2 counters from this: A monster gains -1 DC till end of turn.",,Requiem,r-sumptorium
+196,Synthoil,Treasure Card,,You have +1 to attack rolls.,,Base Game V2,b2-synthoil
+197,Tape Worm,Treasure Card,,"Trinket
+Each time you miss an attack roll, deal 1 damage to another player.",,Four Souls+ V2,fsp2-tape_worm
+198,Tarot Cloth,Treasure Card,,"Each time a player rolls a 4, they must give you a loot card.",,Base Game V2,b2-tarot_cloth
+199,Telekinesis,Treasure Card,,"Tap: Choose a Tap or ¢ ability on an item another player controls. They must activate that ability if able. At the start of your turn, you may look at the top 2 cards of a deck. Put any number of them into discard and the rest back in any order.",,Summer of Isaac,soi-telekinesis
+200,Telepathy For Dummies,Treasure Card,,"At the start of your turn, roll- You may change the result of your next roll this turn to this result.",,Four Souls+ V2,fsp2-telepathy_for_dummies
+201,The Bible,Treasure Card,,"Tap: Choose one- Destroy a curse. Cancel your attack. Kill a monster named Mom!, Mom's Heart!, or It Lives!",,Gold Box V2,g2-the_bible
+202,The Blue Map,Treasure Card,,"At the end of your turn, look at the top 4 cards of the treasure deck. You may put them back in any order.",,Base Game V2,b2-the_blue_map
+203,The Bone,Treasure Card,,"Eternal
+Tap: Put a counter on this. ¢ Remove 1 counter from this: Add +1 to a dice roll. ¢ Remove 2 counters from this: Deal 1 damage to a monster or player. ¢ Remove 5 counters from this: This becomes a soul and loses all abilities.",,Base Game V2,b2-the_bone
+204,The Butter Bean,Treasure Card,,Tap: Roll- 6: Recharge this.,,Gold Box V2,g2-the_butter_bean
+205,The Chest,Treasure Card,,"if this would be destroyed, it becomes a soul instead.",,Base Game V2,b2-the_chest
+206,The Clicker,Treasure Card,,"Tap: Destroy this. If you do, choose a character card from outside the game. Replace your character with it and your starting item with the chosen card's starting item.",,Requiem,r-the_clicker
+207,The Compass,Treasure Card,,"At the end of your turn, look at the top 4 cards of the loot deck. Put them back in any order.",,Base Game V2,b2-the_compass
+208,The Curse,Treasure Card,,"Eternal
+At the start of your turn, put the top card of a deck into discard. Tap: Put the top card of any discard on top of its deck.",,Base Game V2,b2-the_curse
+209,The D10,Treasure Card,,"Each time a player rolls a 3, you may put the top card of the Monster Deck in a monster slot not being attacked.",,Base Game V2,b2-the_d10
+210,The D6,Treasure Card,,"Eternal
+Tap: Choose a dice roll. Its controller rerolls it. At the end of your turn, recharge this.",,Base Game V2,b2-the_d6
+211,The Dead Cat,Treasure Card,,"Guppy
+This item starts with 9 counters on it. If you would take damage while this has counters on it, remove that many counters and prevent that much damage.",,Base Game V2,b2-the_dead_cat
+212,The Habit,Treasure Card,,"The first time you take damage each turn, you may recharge an item.",,Base Game V2,b2-the_habit
+213,The Left Hand,Treasure Card,,"Trinket
+Each time another player dies, you may recharge an item.",,Four Souls+ V2,fsp2-the_left_hand
+214,The Map,Treasure Card,,"At the end of your turn, look at the top 4 cards of the monster deck. Put them back in any order.",,Base Game V2,b2-the_map
+215,The Mark,Treasure Card,ATK +1,"You have 5+ DC and can be attacked. On your turn, other players have 5+ DC and can be attacked.",,The Unboxing of Isaac,box-the_mark
+216,The Monster,Treasure Card,,"While this is charged, other players can't choose you or something you control as the target of a loot or ability. ¢ Cancel your attack and heal to full HP.",,Summer of Isaac,soi-the_monster
+217,The Nail,Treasure Card,,"Tap: Till end of turn, each player has 4+ DC and can be attacked. Each time a player is killed by another player, loot 1.",,The Unboxing of Isaac,box-the_nail
+218,The Stairway,Treasure Card,,"Each time you declare a purchase, before choosing what to purchase, you may look at the top 7 cards of the treasure deck and put them back in any order.",,The Unboxing of Isaac,box-the_stairway
+219,The Wiz,Treasure Card,,"Monsters have +1 DC on your turn. Each time you deal combat damage, deal 1 damage to another monster or player.",,Four Souls+ V2,fsp2-the_wiz
+220,Three Dollar Bill,Treasure Card,,"Each time you would deal damage to a monster or player, roll- 4-5; You heal 1 HP. 6: Add 1 to that instance of damage.",,The Unboxing of Isaac,box-three_dollar_bill
+221,Tick,Treasure Card,,"Eternal
+Trinket
+The first time you kill a monster on your turn, heal +1 HP and you may attack an additional time this turn.",,Requiem,r-tick
+222,Undefined,Treasure Card,,Tap: Choose a shop item. This becomes a copy of that item till the start of your next turn. Recharge this. At the start of your turn you may put a shop item into discard.,,Requiem,r-undefined
+223,Void,Treasure Card,,"Eternal
+Tap: Choose one: Discard your hand, then loot equal to the number of cards discarded. / Put a monster not being attacked or a shop item into discard.",,Gold Box V2,g2-void
+224,Wishbone,Treasure Card,,"Trinket
+When this is destroyed, gain +1 treasure.",,Requiem,r-wishbone
+225,Wooden Nickel,Treasure Card,,"Eternal
+Tap: Choose a player, then roll- That player gains ¢ equal to the result.",,Gold Box V2,g2-wooden_nickel
+226,X-Ray Vision,Treasure Card,,"Tap: Look at a player's hand and the top card of a deck. You may put the top card of a deck into discard. At the end of your turn, recharge this.",,Requiem,r-x_ray_vision
+227,Yum Heart,Treasure Card,,"Eternal
+Tap: Choose a player or monster. Prevent the next instance of damage they would take this turn. At the end of your turn, recharge this.",,Base Game V2,b2-yum_heart

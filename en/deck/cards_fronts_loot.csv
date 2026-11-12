@@ -1,0 +1,74 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,0 - The Fool,Loot Card,,End the turn. Cancel everything that hasn't resolved.,,Base Game V2,b2-o_the_fool
+2,2¢!,Loot Card,,Gain 2¢.,,Requiem,r-two_cents
+3,2 of Diamonds,Loot Card,,"Choose a player. They gain x¢, where x is the number of ¢ they have.",,Gold Box V2,g2-two_of_diamonds
+4,2 of Spades,Loot Card,,"Choose another player. Loot x, where x is the number of loot cards in that player's hand.",,Requiem,r-two_of_spades
+5,3¢!,Loot Card,,Gain 3¢.,,Requiem,r-three_cents
+6,4¢!,Loot Card,,Gain 4¢.,,Requiem,r-four_cents
+7,? Card,Loot Card,,"As you play this, choose an item. This copies one of that item's Tap abilities.",,Four Souls+ V2,fsp2-questionmark_card
+8,A Dime!!,Loot Card,,Gain 10¢.,,Base Game V2,b2-a_dime
+9,A Lucky Penny!,Loot Card,,Gain 1¢. Rewards are doubled till end of turn.,,Requiem,r-a_lucky_penny
+10,A Nickel!,Loot Card,,Gain 5¢.,,Requiem,r-a_nickel
+11,A Penny!,Loot Card,,Gain 1¢.,,Base Game V2,b2-a_penny_6
+12,A Sack,Loot Card,,Loot 3.,,Requiem,r-a_sack
+13,Ace Of Diamonds,Loot Card,,"Gain x¢, where x is the number of monster slots plus the number of loot cards in your hand.",,Requiem,r-ace_of_diamonds
+14,Algiz,Loot Card,,Choose a player. Each item they control gains eternal till end of turn.,,Requiem,r-algiz
+15,Ansuz,Loot Card,,Look at the top 4 cards of a deck and put them back in any order.,,Four Souls+ V2,fsp2-ansuz
+16,Berkano,Loot Card,,"Destroy an item. If that item was controlled by a player, they steal an item from the shop.",,Requiem,r-berkano
+17,Black Heart,Loot Card,,"Choose a player. Prevent the next 1 damage they would take this turn. Till end of turn, when that player dies, deal 2 damage to each player other than that player and you.",,Requiem,r-black_heart
+18,Black Rune,Loot Card,,"Roll- 1-2: Deal 1 damage to each monster. 3-4: Reroll an item. 5-6: Discard your hand, then loot 3.",,Four Souls+ V2,fsp2-black_rune
+19,Blank Loot,Loot Card,,,,Blank,blank-loot
+20,Blank Rune,Loot Card,,Roll- 1: Each player gains 1¢. 2: Each player loots 2. 3: Each player takes 3 damage. 4: Each player gains 4¢. 5: Each player loots 5. 6: Each player gains 6¢.,,Base Game V2,b2-blank_rune
+21,Bomb!,Loot Card,,Deal 1 damage to a Monster or Player.,,Requiem,r-bomb
+22,Butt Penny!,Loot Card,,"Gain 1¢, then roll.",,The Unboxing of Isaac,box-butt_penny
+23,Butter Bean!,Loot Card,,Cancel the Tap or ¢ ability of an item or a loot being played.,,Requiem,r-butter_bean
+24,Charged Penny,Loot Card,,"Gain 1¢, then recharge an item.",,Gold Box V2,g2-charged_penny
+25,Cracked Key,Loot Card,,Choose a non-eternal item. It becomes a room. Expand room slots by 1 and put it in the new slot.,,10th Anniversary,anni-cracked_key
+26,Credit Card,Loot Card,,The first shop item a player purchases this turn costs 0¢.,,Gold Box V2,g2-credit_card
+27,Dad's Note,Loot Card,,Choose up to 3 non-event monster cards in discard. Put them in one or more monster slots not being attacked.,,Requiem,r-dads_note
+28,Dagaz,Loot Card,,Choose one- Destroy a curse. / Choose a player. Prevent the next 1 damage they would take this turn.,,Base Game V2,b2-dagaz
+29,Dice Shard,Loot Card,,Choose a dice roll. Its controller rerolls it.,,Requiem,r-dice_shard
+30,Ehwaz,Loot Card,,Put each monster not being attacked into discard and replace each with the top card of the monster deck.,,Base Game V2,b2-ehwaz
+31,Emergency Contact,Loot Card,,Cancel an attack on a monster and put that monster card on the bottom of the monster deck.,,Requiem,r-emergency_contact
+32,Era Walk,Loot Card,,Roll- Change the result of the next 4 dice rolls to this result.,,Summer of Isaac,soi-era_walk
+33,Get Out Of Jail Card,Loot Card,,Other players can't play loot cards or activate items till end of turn.,,Four Souls+ V2,fsp2-get_out_of_jail_card
+34,Gold Bomb!!,Loot Card,,Deal 3 damage to a monster or player.,,Base Game V2,b2-gold_bomb
+35,Gold Key,Loot Card,,The active player may attack the monster deck any number of times till end of turn.,,Four Souls+ V2,fsp2-gold_key
+36,Hagalaz,Loot Card,,"Look at the top 5 cards of the monster or room deck and put them back in any order, then put a room or monster not being attacked into discard.",,Requiem,r-hagalaz
+37,Holy Card,Loot Card,,"Choose a player. The next time that player would die this turn, prevent death. If it's their turn, cancel everything that hasn't resolved and end it.",,Gold Box V2,g2-holy_card
+38,I. The Magician,Loot Card,,Change the result of a dice roll to a number of your choosing.,,Base Game V2,b2-i_the_magician
+39,II. The High Priestess,Loot Card,,"Choose a player or monster, then roll- Deal damage to them equal to the result.",,Base Game V2,b2-ii_the_high_priestess
+40,III. The Empress,Loot Card,,Choose a player. They gain +1 ATK and +1 to dice rolls till end of turn.,,Base Game V2,b2-iii_the_empress
+41,IV. The Emperor,Loot Card,,Look at the top 5 cards of the monster deck. Put 1 on top and the rest on the bottom.,,Base Game V2,b2-iv_the_emperor
+42,IX. The Hermit,Loot Card,,Look at the top 5 cards of the treasure deck. Put 1 on top and the rest on the bottom.,,Base Game V2,b2-ix_the_hermit
+43,Jera,Loot Card,,"Loot x, where x is equal to the number of loot cards in your hand.",,Gold Box V2,g2-jera
+44,Joker,Loot Card,,Look at a player's hand. You may steal a loot card from them.,,Gold Box V2,g2-joker
+45,Key,Loot Card,,Choose one- The active player may attack an additional time this turn. Put the top card of the monster deck in a monster slot not being attacked.,,Requiem,r-key
+46,lil Battery,Loot Card,,Recharge an item.,,Requiem,r-lil_battery
+47,Magic Marker,Loot Card,,Change a number in the effect text of a card in play or loot being played by 1 till end of turn. The number can't go below 1 or above 6.,,Requiem,r-magic_marker
+48,Mega Battery,Loot Card,,Choose a player. Recharge each item they control.,,Base Game V2,b2-mega_battery
+49,Mega Bean!,Loot Card,,"Cancel the Tap, ¢, or triggered ability of an item or loot being played that targets you or something you control. If you do, deal 2 damage to the player who controlled the item or loot being played.",,Summer of Isaac,soi-mega_bean
+50,Mega Bomb!,Loot Card,,Deal 2 damage to a monster or player.,,Requiem,r-mega_bomb
+51,Mugger Bean!,Loot Card,,Cancel a loot being played and put it in your hand.,,Summer of Isaac,soi-mugger_bean
+52,Perthro,Loot Card,,Reroll an item.,,Four Souls+ V2,fsp2-perthro
+53,Pills!,Loot Card,,Roll- 1-2: Loot 3. Then put 3 cards from your hand on top of the loot deck in any order. 3-4: Loot 3. Then put 1 card from your hand on top of the loot deck. 5-6: Loot 3.,,Requiem,r-pills
+54,Soul Heart,Loot Card,,Choose a player. Prevent the next 1 damage they would take this turn.,,Requiem,r-soul_heart
+55,Sticky Nickel,Loot Card,,Roll- 1-3: Give this to the player to your left. 4-6: Gain 5¢.,,Requiem,r-sticky_nickel
+56,Two Of Diamonds,Loot Card,,Double the number of ¢ a player has.,,Gold Box,g-two_of_diamonds
+57,V. The Hierophant,Loot Card,,Choose a player or monster. Prevent the next instance of up to 2 damage they would take this turn.,,Base Game V2,b2-v_the_hierophant
+58,VI. The Lovers,Loot Card,,Choose a player. They gain +2 HP till end of turn.,,Base Game V2,b2-vi_the_lovers
+59,VII. The Chariot,Loot Card,,Choose a player. They gain +1 ATK and +1 HP till end of turn.,,Base Game V2,b2-vii_the_chariot
+60,VIII. Justice,Loot Card,,Choose a player. Loot and gain ¢ until you have the same number of each as they do.,,Base Game V2,b2-viii_justice
+61,X. Wheel Of Fortune,Loot Card,,Roll- 1: Gain 1¢. 2: Take 2 damage. 3. Loot 3. 4. Lose 4¢. 5: Gain 5¢. 6: Gain +1 treasure.,,Base Game V2,b2-x_wheel_of_fortune
+62,XI. Strength,Loot Card,,Choose a player. They gain +1 ATK till end of turn and may attack an additional time this turn.,,Base Game V2,b2-xi_strength
+63,XII. The Hanged Man,Loot Card,,"Look at the top card of each deck. You may put any of those cards on the bottom of their deck, then loot 2.",,Base Game V2,b2-xii_the_hanged_man
+64,XIII. Death,Loot Card,,Kill a player.,,Base Game V2,b2-xiii_death
+65,XIV. Temperance,Loot Card,,Choose one- Take 1 damage and gain 4¢. Take 2 damage and gain 8¢.,,Base Game V2,b2-xiv_temperance
+66,XIX. The Sun,Loot Card,,"Put this on the bottom of the loot deck. If you do, take an extra turn after this one if it's your turn.",,Base Game V2,b2-xix_the_sun
+67,XV. The Devil,Loot Card,,"Destroy an item you control. If you do, steal a non-eternal item from a player or from the shop.",,Base Game V2,b2-xv_the_devil
+68,XVI. The Tower,Loot Card,,Roll- 1-2: Each player takes 1 damage. 3-4: Each monster takes 1 damage. 5-6: Each player takes 2 damage.,,Base Game V2,b2-xvi_the_tower
+69,XVII. The Stars,Loot Card,,Gain +1 treasure.,,Base Game V2,b2-xvii_the_stars
+70,XVIII. The Moon,Loot Card,,Look at the top 5 cards of the loot deck. Put 1 on top and the rest on the bottom.,,Base Game V2,b2-xviii_the_moon
+71,XX. Judgement,Loot Card,,Choose the player with the most souls or tied for the most. That player destroys a soul they control.,,Base Game V2,b2-xx_judgement
+72,XXI. The World,Loot Card,,"Look at each player's hand, then loot 2.",,Base Game V2,b2-xxi_the_world
+73,Lost Soul,Lost Soul Card,,"When this enters play, gain +2 treasure and give this to another player. It becomes a soul.",,Promo,p-lost_soul

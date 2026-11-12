@@ -1,0 +1,196 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,Ambush!,Monster Card,,Expand monster slots by 2. The active player must make an additional attack on a monster in one of those slots this turn.,,Alt Art,aa-ambush
+2,Angel Room,Monster Card,,Roll- 1: Gain +2 treasure. 2-3: Gain +1 treasure. 4-6: Loot 2.,,Four Souls+ V2,fsp2-angel_room
+3,Anonymous Mask of Infamy,Monster Card,HP 4 / DC 4 / ATK 1,"If you would declare an attack on this, instead roll- If the result plus the number of souls you control is less than or equal to 8, put the top card of the monster deck in a crowd slot and make an attack against it. Otherwise, make an attack against this. This has +1 HP for each monster in the active player's crowd slots.",REWARD: +1 Soul & +1 Treasure,Challenges,challenge-anonymous_mask_of_infamy-comp
+4,Avaricious Greed,Monster Card,HP 4 / DC 4 / ATK 1,"Players can't declare attacks on this while they have counters on them. If this would take damage or die while the active player has counters on them, prevent it and remove 4 counters from them. Each time a player takes damage, they lose 4¢. Each time a player gains a soul, remove 10 counters from them.",REWARD: +1 Soul & +3 Loot,Challenges,challenge-avaricious_greed-comp
+5,Baby Plum,Monster Card,HP 4 / DC 2 / ATK 1,"Each time this takes damage, the active player rolls- 1-2: You take 1 damage. 3-4: The player to your left takes 1 damage. 5-6: The player to your right takes 1 damage.",REWARD: +1 Soul & Roll --- Gain x¢,Requiem,r-baby_plum
+6,Begotten,Monster Card,HP 3 / DC 4 / ATK 1,"While this is at 1 HP, it has +1 ATK.",REWARD: +2 Loot,Gold Box V2,g2-begotten
+7,Betrayal!,Monster Card,,Choose another player. Roll- 1-2: Steal 5¢ from them. 3-4: Steal a loot card from them at random. 5: Steal a non-eternal item they control. 6: Steal a soul they control.,,Requiem,r-betrayal
+8,Big Bony,Monster Card,HP 6 / DC 2 / ATK 1,"Each time a player misses an attack roll, they roll- 1-2: They take 1 damage.",REWARD: +3 Loot,Alt Art,aa-big_bony
+9,Big Horn,Monster Card,HP 6 / DC 3 / ATK 1,"At the start of each turn or each time this deals combat damage, the active player deals 1 damage to a player chosen at random.",REWARD: +1 Soul & +1 Treasure,The Unboxing of Isaac,box-big_horn
+10,Big Spider,Monster Card,HP 3 / DC 4 / ATK 1,"When this dies, the active player may attack the monster deck an additional time.",REWARD: +1 Loot,Base Game V2,b2-big_spider
+11,Black Bony,Monster Card,HP 3 / DC 4 / ATK 1,"When this dies, it deals 1 damage to the player who killed it.",REWARD: Roll --- Loot x,Base Game V2,b2-black_bony
+12,Blank Event,Monster Card,,,,Blank,blank-event
+13,Blank Monster,Monster Card,,,,Blank,blank-monster
+14,Blastocyst,Monster Card,HP 5 / DC 4 / ATK 1,"When this dies, expand monster slots by 2. The active player may attack the monster deck an additional time.",REWARD: +1 Soul & +1 Loot,Four Souls+ V2,fsp2-blastocyst
+15,Boil,Monster Card,HP 2 / DC 4 / ATK 1,"Each time this deals combat damage, it heals 1 HP.",REWARD: +3 Loot,Gold Box V2,g2-boil
+16,Bony,Monster Card,HP 2 / DC 3 / ATK 1,"Each time the attacking player rolls an attack roll of 1, this gains +2 ATK till end of turn.",REWARD: +1 Loot,Four Souls+ V2,fsp2-bony
+17,Boom Fly,Monster Card,HP 1 / DC 4 / ATK 1,"When this dies, it deals 1 damage to each player.",REWARD: +4¢,Base Game V2,b2-boom_fly
+18,Boss Rush!,Monster Card,,Reveal cards from the top of the monster deck till you reveal 2 boss cards. Put them in one or more monster slots not being attacked and the rest into discard. The active player must make an additional attack on one of them this turn.,,Four Souls+ V2,fsp2-boss_rush
+19,Brain,Monster Card,HP 2 / DC 3 / ATK 1,"Each time the attacking player rolls an attack roll of 6, they take 1 damage.",REWARD: +1 Loot,Four Souls+ V2,fsp2-brain
+20,Brownie,Monster Card,HP 6 / DC 5 / ATK 1,"Each time this takes damage, it gains -1 DC till end of turn.",REWARD: +1 Soul & +1 Treasure,Requiem,r-brownie
+21,Charger,Monster Card,HP 1 / DC 5 / ATK 1,,REWARD: +3¢,Gold Box V2,g2-charger
+22,Charmed Vis,Monster Card,HP 2 / DC 4 / ATK 1,"Each time a player attacking or controlling this take damage, this deals 1 damage to each other monster. If this would be killed by another player while it's an item, prevent death. That player steals this instead.",,Summer of Isaac,soi-charmed_vis
+23,Clog,Monster Card,HP 5 / DC 4 / ATK 1,"When this dies, each player gives their hand to the player to their left.",REWARD: +1 Soul & +3 Loot,Requiem,r-clog
+24,Clotty,Monster Card,HP 2 / DC 3 / ATK 1,,REWARD: +4¢,Base Game V2,b2-clotty
+25,Cod Worm,Monster Card,HP 2 / DC 5 / ATK 0,,REWARD: +3¢,Base Game V2,b2-cod_worm
+26,Conjoined Fatty,Monster Card,HP 3 / DC 3 / ATK 1,"Each time a player plays a loot card, put a counter on this. Each time this would take damage while it has counters on it, prevent it, remove a counter from this, and the active player loots 1.",REWARD: +3 Loot,Summer of Isaac,soi-conjoined_fatty
+27,Conquest,Monster Card,HP 3 / DC 3 / ATK 1,"When this dies, the active player must make an additional attack against another player. They have 4+ DC for the attack.",REWARD: +1 Soul & +7¢,Summer of Isaac,soi-conquest
+28,Corrupted Data,Monster Card,,Each player gives all of their loot cards to the player to their left. Each player gives their character card and eternal item to the player to their right. Recharge all eternal items and player cards.,,Promo,p-corrupted_data
+29,Curse Of Blood Lust,Monster Card,,Curse: You must attack on your turn if able.,,Four Souls+ V2,fsp2-curse_of_blood_lust
+30,Curse Of Empathy,Monster Card,,"Curse
+Each time a monster dies, discard a loot card and lose 1¢.",,Requiem,r-curse_of_empathy
+31,Curse of Envy,Monster Card,,"Curse
+When you die, each other player gains +1 treasure.",,Summer of Isaac,soi-curse_of_envy
+32,Curse Of Fatigue,Monster Card,,Curse: You can't recharge more than 1 item during your recharge step.,,Gold Box V2,g2-curse_of_fatigue
+33,Curse Of Impulse,Monster Card,,"Curse: At the end of your turn, deactivate each item you control and your character.",,Four Souls+ V2,fsp2-curse_of_impulse
+34,Curse Of The Hollow,Monster Card,,"Curse
+At the end of your turn, discard x loot cards and lose x¢, where x is the number of souls you control.",,Requiem,r-curse_of_the_hollow
+35,Curse Of The Hunted,Monster Card,,"Curse
+Monsters have +1 ATK on your turn.",,Requiem,r-curse_of_the_hunted
+36,Curse Of The Soulless,Monster Card,,"Curse
+You can't gain souls. If this would be put into discard, instead give it to another player.",,Requiem,r-curse_of_the_soulless
+37,Curse Of Tiny Hands,Monster Card,,Curse: Your max hand size is 2.,,Gold Box V2,g2-curse_of_tiny_hands
+38,Cursed Globin,Monster Card,HP 3 / DC 4 / ATK 1,"Curse: Each time a player rolls a 3, each monster heals 2 HP.",REWARD: Roll --- Loot x,Four Souls+ V2,fsp2-cursed_globin
+39,Daddy Long Legs,Monster Card,HP 5 / DC 5 / ATK 0,"Each time a player rolls a 1, each monster gains +1 ATK till end of turn.",REWARD: +1 Soul & +2 Loot,Alt Art,aa-daddy_long_legs
+40,Dank Globin,Monster Card,HP 2 / DC 4 / ATK 2,"When this dies, the active player forces a player to discard 2 loot cards.",REWARD: +2 Loot,Base Game V2,b2-dank_globin
+41,Dark One,Monster Card,HP 3 / DC 3 / ATK 1,"Each time this takes damage, it gains +2 ATK till end of turn.",REWARD: +1 Soul & +1 Treasure,Alt Art,aa-dark_one
+42,Death,Monster Card,HP 3 / DC 4+ / ATK 2,"When this dies, the active player kills a player.",REWARD: +1 Soul & +1 Treasure,Promo,p-death
+43,Death's Head,Monster Card,HP 2 / DC 0 / ATK 0,"Monsters have +1 ATK. This can't be attacked. When another monster dies, this dies.",REWARD: +1 Loot,Gold Box V2,g2-deaths_head
+44,Delirious,Monster Card,,"Bosses have the abilities of each soul you control and each monster in your delirium slots while being attacked. Each time a non-boss monster in a monster slot dies, put it in a delirium slot. Monsters in delirium slots can't be attacked.",,Challenges,challenge-delirious-comp
+45,Delirium,Monster Card,HP 5 / DC 4 / ATK 3,"Other monsters have +1 DC. When this dies, put it in the monster deck 6 cards from the top.",REWARD: +2 Treasure,Base Game V2,b2-delirium
+46,Devil Deal,Monster Card,,"Choose one- Put this into discard. / Gain 6¢. Take 1 damage. / Take 2 damage. Search the loot deck for a loot card, put it in your hand, then shuffle the loot deck.",,Alt Art,aa-devil_deal
+47,Devout Mom!,Monster Card,HP 6 / DC 4 / ATK 2,"This can't be attacked. If this would die, instead the active player gains the top 2 cards of the mom deck, cancels their attack, and this heals to full HP. Minions have +1 HP. As each turn starts, the active player rolls- 1: Mom peeks, then monsters gain +1 ATK till end of turn. 2: Mom peeks, then monsters gain +1 DC till end of turn. 3: Mom grabs, then each player discards a loot card. 4: Mom grabs, then the active player puts a random non-eternal item they control under a random mom's hand in play. 5: Mom stomps, then each player takes 1 damage. 6: Mom stomps, then the active player destroys a random non-eternal item they control.",REWARD: +2 Soul & +1 Treasure,Challenges,challenge-devout_mom-hard
+48,Dinga,Monster Card,HP 3 / DC 3 / ATK 1,"When this dies on an attack roll of 6, double its rewards.",REWARD: Roll --- Gain x¢,Base Game V2,b2-dinga
+49,Dingle,Monster Card,HP 3 / DC 3 / ATK 1,"Each time the active player deals damage to this, they roll- 1-2: They take 1 damage. 3-4: Each player takes 1 damage. 5-6: This takes 1 damage.",REWARD: +1 Soul & +6¢,Four Souls+ V2,fsp2-dingle
+50,Dip,Monster Card,HP 1 / DC 4 / ATK 1,,REWARD: +1¢,Base Game V2,b2-dip
+51,Dogma,Monster Card,HP 4 / DC 3 / ATK 3,"When an attack is declared on this, put each other monster into discard. When this dies, put a card named The Harbingers from outside the game into a monster slot not being attacked.",REWARD: +2 Treasure,Requiem,r-dogma
+52,Dople,Monster Card,HP 2 / DC 4 / ATK 2,Damage dealt to this is also dealt to the player to the active player's right.,REWARD: +7¢,Base Game V2,b2-dople
+53,Double Treasure!,Monster Card,,Choose another player. You and that player each gain +1 treasure.,,Requiem,r-double_treasure
+54,Dressing Table,Monster Card,,Reroll any number of items you control.,,Requiem,r-dressing_table
+55,Eggy,Monster Card,HP 2 / DC 4 / ATK 1,"When this dies, the active player rolls- 1-2: Expand monster slots by 1. 3-4: Expand monster slots by 2. 5-6: Expand monster slots by 3.",REWARD: +6¢,The Unboxing of Isaac,box-eggy
+56,Evil Twin,Monster Card,HP 3 / DC 5 / ATK 2,Damage dealt to this is also dealt to the player to the active player's left.,REWARD: +1 Treasure,Base Game V2,b2-evil_twin
+57,Evis,Monster Card,HP 3 / DC 5 / ATK 1,"At the start of each turn, the active player rolls- 1-2: Put a gut counter on the active player. Players with gut counters on them have 3+ DC and can be attacked.",REWARD: +2 Loot,The Unboxing of Isaac,box-evis
+58,Famine,Monster Card,HP 2 / DC 3 / ATK 1,"When this dies, the active player skips their next turn.",REWARD: +3 Loot,Promo,p-famine
+59,Fat Bat,Monster Card,HP 3 / DC 5 / ATK 1,,REWARD: +1 Treasure,Base Game V2,b2-fat_bat
+60,Fatty,Monster Card,HP 4 / DC 2 / ATK 1,,REWARD: +1 Loot,Base Game V2,b2-fatty
+61,Fatty's Feast,Monster Card,,You have +1 HP for every 2 souls you control. The final boss can't be attacked while there is a minion in play. Minions have +2 HP.,,Challenges,challenge-fattys_feast-norm
+62,Fistula,Monster Card,HP 4 / DC 2 / ATK 1,"Each time this takes damage, it gains +1 DC till end of turn.",REWARD: +1 Soul & +7¢,Gold Box V2,g2-fistula
+63,Flaming Hopper,Monster Card,HP 1 / DC 4 / ATK 2,This takes no combat damage on attack rolls of 6.,REWARD: +4¢,Four Souls+ V2,fsp2-flaming_hopper
+64,Fly,Monster Card,HP 1 / DC 2 / ATK 1,,REWARD: +1¢,Base Game V2,b2-fly
+65,Game Crash!,Monster Card,,Destroy each item and put each monster and each room into discard.,,10th Anniversary,anni-game_crash
+66,Gaper,Monster Card,HP 2 / DC 4 / ATK 1,"When this dies on an attack roll of 6, the active player must make an additional attack on the monster deck.",REWARD: +3¢,Gold Box V2,g2-gaper
+67,Gemini,Monster Card,HP 3 / DC 4+ / ATK 1,"When this reaches 1 HP, put a HP counter on a monster chosen at random, then put a ATK counter on a monster chosen at random.",REWARD: +1 Soul & +8¢,Summer of Isaac,soi-gemini
+68,Giant Poop,Monster Card,HP 5 / DC 4 / ATK 0,"Each time a player deals damage to this, they loot 1. When an attack is declared on this, each non-active player teams up with the attacking player. The player who kills this gains its rewards.",REWARD: 5 Loot,Summer of Isaac,soi-giant_poop
+69,Gish,Monster Card,HP 6 / DC 3 / ATK 1,"Each player must attack this on their turn. When this dies, choose a player. That player skips their next turn.",REWARD: +1 Soul & +1 Treasure,Gish,gi-gish
+70,Globin,Monster Card,HP 4 / DC 4 / ATK 1,"When this reaches 1 HP, the active player rolls- 1-4: This takes 1 damage. 5-6: This heals 2 HP.",REWARD: +3 Loot,Four Souls+ V2,fsp2-globin
+71,Golden Troll Bomb!,Monster Card,,Choose a player. They take 2 damage. Put this in the monster deck 4 cards from the top.,,Requiem,r-golden_troll_bomb
+72,Greed's Gamble,Monster Card,,"Each time a player loses a number of ¢ that is more than the number of ¢ they have, put 4 counters on them. If a player would lose any number of ¢, they lose that much +x¢ instead, where x is equal to the number of minions in play. Each time a player loses or pays any number of ¢, put that many counters on this. Then if this has 20+ counters, remove 20 counters from this and put a random keeper head from outside the game in a minion slot not being attacked.",,Challenges,challenge-greeds_gamble-comp
+73,Gurdy,Monster Card,HP 4 / DC 4 / ATK 1,"Monsters have +1 HP while this is covered. At the start of each turn, the player to the active player's left puts the top card of the monster deck in a monster slot.",REWARD: +1 Soul & +7¢,Alt Art,aa-gurdy
+74,Gurglings,Monster Card,HP 4 / DC 5 / ATK 1,"While this is at 2 HP or less, it has -1 DC.",REWARD: +1 Soul & +2 Loot,Gold Box V2,g2-gurglings
+75,Gutted Fatty,Monster Card,HP 5 / DC 3 / ATK 1,When this dies expand monster slots by 1. The active player must make an additional attack.,REWARD: +1 Treasure,Requiem,r-gutted_fatty
+76,Hanger,Monster Card,HP 2 / DC 4 / ATK 2,"When this dies, expand shop slots by 1.",REWARD: +7¢,Base Game V2,b2-hanger
+77,Head Trauma,Monster Card,,Discard 2 loot cards.,,Four Souls+ V2,fsp2-head_trauma
+78,Headless Horseman,Monster Card,HP 2 / DC 3+ / ATK 1,"If this would die, except on an attack roll of 6, prevent death. This heals to full HP, gains +1 DC and +1 ATK till end of turn, and the active player gains its rewards.",REWARD: +1 Soul & +1 Treasure,Summer of Isaac,soi-headless_horseman
+79,Henry,Monster Card,HP 1 / DC 6 / ATK 0,"When the attacking player misses an attack roll, cancel the attack and put this on the bottom of the monster deck.",REWARD: +1 Treasure,Promo,p-henry
+80,Holy Bony,Monster Card,HP 1 / DC 3 / ATK 1,"Each time a player rolls a 6, they may look at the top 3 cards of a deck and put them back in any order.",REWARD: +2 Loot,Four Souls+ V2,fsp2-holy_bony
+81,Holy Chest,Monster Card,,Roll- 1-2: Prevent the next 2 damage you would take this turn. You may attack an additional time this turn. 3-5: Gain 7¢. 6: This becomes a soul. Gain it.,,Four Souls+ V2,fsp2-holy_chest
+82,Holy Dinga,Monster Card,HP 3 / DC 3 / ATK 1,"When any player rolls a 6, they heal 1 HP.",REWARD: Roll --- Gain x¢,Base Game,b-holy_dinga
+83,Holy Dip,Monster Card,HP 1 / DC 4 / ATK 1,"When any player rolls a 1, they gain 1¢.",REWARD: 1¢,Base Game,b-holy_dip
+84,Holy Mulligan,Monster Card,HP 1 / DC 3 / ATK 1,"When this dies, expand monster slots by 2. The active player may attack an additional time this turn.",REWARD: +3¢,Four Souls+ V2,fsp2-holy_mulligan
+85,Hopper,Monster Card,HP 2 / DC 3 / ATK 1,This takes no combat damage on attack rolls of 6.,REWARD: +3¢,Base Game V2,b2-hopper
+86,Horf,Monster Card,HP 1 / DC 4 / ATK 1,Combat damage this deals is increased by 1 on attack rolls of 2.,REWARD: +3¢,Base Game V2,b2-horf
+87,Hornfel,Monster Card,HP 2 / DC 5 / ATK 1,"When this would deal combat damage to the active player, prevent it, then this deals 1 damage to a player chosen at random.",REWARD: +1 Soul & +1 Treasure,Requiem,r-hornfel
+88,Hot Potato!,Monster Card,,"As this enters play, it becomes an item. The active player gains it. When this items enters your control, gain 2¢, then roll- 1-4: Give this to the player to your left. 5: Destroy this. Then take 3 damage. 6: This becomes a soul.",,Summer of Isaac,soi-hot_potato
+89,Hush,Monster Card,HP 6 / DC 1+ / ATK 1,"Damage this would take is reduced to 1. If an attack roll made against this is less than or equal to the last attack roll made against it this turn, the roll counts as a miss.",REWARD: +2 Soul & +2 Treasure,Summer of Isaac,soi-hush
+90,I Am Error!,Monster Card,,Roll- 1-2: You must make an additional attack on the monster deck. 3-4: Loot 3. 5-6: Gain +1 Treasure.,,Gold Box V2,g2-i_am_error
+91,Imp,Monster Card,HP 3 / DC 5 / ATK 1,"Each time the attacking player rolls an attack roll of 3, this gains +1 DC till end of turn.",REWARD: Roll --- Loot x,Gold Box V2,g2-imp
+92,Isaac!,Monster Card,HP 7 / DC 3 / ATK 1,"Each time this takes damage, the active player chooses a living player. This deals 1 damage to that player.",REWARD: +2 Soul & +1 Treasure,Four Souls+ V2,fsp2-isaac
+93,It Lives!,Monster Card,HP 8 / DC 3 / ATK 4,"When a player gains this soul, choose a player with the most souls or tied for the most. That player wins.",REWARD: +2 Soul,Promo,p-it_lives
+94,Keeper's Head,Monster Card,HP 2 / DC 4 / ATK 1,"Each time this deals combat damage to a player, they lose 2¢.",REWARD: Roll --- Gain x¢,Base Game V2,b2-keeper_head
+95,Keeper's Resting Place,Monster Card,,"When this enters play, the active player secretly puts this back in the monster deck at least 3 cards from the top. If this is the second time a card named Keeper's Resting Place resolves this game, this becomes a soul instead and the active player gains it.",,10th Anniversary,anni-keepers_resting_place
+96,Knight,Monster Card,HP 2 / DC 6 / ATK 1,The attacking player also deals combat damage to this on attack rolls of 1.,REWARD: +2 Loot,Gold Box V2,g2-knight
+97,Krampus,Monster Card,HP 5 / DC 4 / ATK 1,"At the start of each turn, each player votes naughty or nice. If naughty wins, the active player must attack this turn. Each time the attacking player rolls the same attack roll result twice in a row on the same turn, this deals 1 damage to each other monster.",REWARD: +1 Soul & +4 Loot,Summer of Isaac,soi-krampus
+98,Larry Jr.,Monster Card,HP 4 / DC 3 / ATK 1,"While this is at 2 HP or less, it has +1 ATK.",REWARD: +1 Soul & +2 Loot,Alt Art,aa-larry_jr
+99,Leaper,Monster Card,HP 2 / DC 4 / ATK 1,Combat damage this deals is doubled on attack rolls of 1.,REWARD: +5¢,Base Game V2,b2-leaper
+100,Leech,Monster Card,HP 1 / DC 4 / ATK 2,,REWARD: +1 Loot,Base Game V2,b2-leech
+101,Little Horn,Monster Card,HP 3 / DC 5 / ATK 1,"At the end of each turn, if this wasn't attacked, put a counter on it. At the start of each turn this deals damage equal to the number of counters on it divided as the active player chooses to any number of players.",REWARD: +1 Soul & +4 Loot,Alt Art,aa-little_horn
+102,Loki,Monster Card,HP 3 / DC 5 / ATK 1,"Each time the attacking player rolls an attack roll of 1, expand monster slots by 1.",REWARD: +1 Soul & +1 Treasure,The Unboxing of Isaac,box-loki
+103,Lord of the Flies,Monster Card,,"¢ Discard a loot card: Roll- If the result plus the number of souls controlled by the active player is more than 4, remove a swarm counter from your character and put a fly counter on it. If a player would take damage, they may remove any number of fly counters from their character and prevent damage equal to the number of fly counters removed in this way.",,Challenges,challenge-lord_of_the_flies-comp
+104,Lust For Blood!,Monster Card,,"Choose a player. You must make an additional attack against them. They have 4+ DC for the attack. When that player dies this turn, they give the active player the item they would destroy for the death penalty.",,Requiem,r-lust_for_blood
+105,Mama Gurdy,Monster Card,HP 7 / DC 3 / ATK 2,,REWARD: +1 Soul & Roll --- Loot x,Requiem,r-mama_gurdy
+106,Masquerade,Monster Card,,"While monsters are at 1 HP, they have +2 DC. Each time a player declares an attack, before they choose what to attack, they roll- 1: They must attack another player. That player has 4+ DC. 2: They must attack the monster deck. 3-4: They must attack a random monster in a monster slot or crowd slot. 5-6: They must attack the final boss.",,Challenges,challenge-masquerade-comp
+107,Mega Fatty,Monster Card,HP 4 / DC 3 / ATK 1,"Each time a player rolls a 1, this gains +2 HP till end of turn.",REWARD: +1 Soul & +3 Loot,Alt Art,aa-mega_fatty
+108,Mega Satan!,Monster Card,HP 6 / DC 6 / ATK 6,"Indomitable
+Players can be attacked and have 4+ DC. At the end of each turn, if the active player is the only living player, they win.",REWARD: +2 Soul & +2 Treasure,Requiem,r-mega_satan
+109,Min Min,Monster Card,HP 4 / DC 2 / ATK 1,"After each attack roll against this, note its result till end of turn. Each time the active player rolls a number noted by this, they take 1 damage.",REWARD: +1 Soul & +1 Treasure,Alt Art,aa-min_min
+110,Mischievous The Haunt,Monster Card,HP 4 / DC 5 / ATK 1,"This starts with 14 trick counters. While there are more trick counters on this than the number of souls controlled by all players, attacks can't be declared on this and it can't take damage. Each time a player takes damage, put a fear counter on them. For every 2 fear counters on the active player, monsters have +1 DC. Each time a monster dies, the active player rolls- 4-6: Remove a fear counter from a player.",REWARD: +1 Soul & +1 Treasure,Challenges,challenge-mischievous_the_haunt-hard
+111,Mom!,Monster Card,HP 6 / DC 3 / ATK 2,"Other monsters have +1 HP. When an attack is declared on this, expand monster slots by 1.",REWARD: +2 Soul & +1 Treasure,Alt Art,aa-mom
+112,Mom's Dead Hand,Monster Card,HP 2 / DC 5 / ATK 1,"When this dies, the active player may steal a non-eternal item another player controls.",REWARD: +1 Treasure & +4¢,Base Game V2,b2-moms_dead_hand
+113,Mom's Eye,Monster Card,HP 1 / DC 4 / ATK 2,"When this dies, the active player may look at a player's hand.",REWARD: +1 Loot,Base Game V2,b2-moms_eye
+114,Mom's Hand,Monster Card,HP 2 / DC 4 / ATK 1,"When the attacking player rolls an attack roll of 6, cancel everything that hasn't resolved and end the turn.",REWARD: +4¢,Base Game V2,b2-moms_hand
+115,Mom's Heart!,Monster Card,HP 8 / DC 4 / ATK 2,"When a player gains this soul, choose a player who controls the most souls or tied for the most. That player wins.",REWARD: +2 Soul,Four Souls+ V2,fsp2-moms_heart
+116,Monstro,Monster Card,HP 2 / DC 4 / ATK 1,"When this dies, the active player rolls- 1-3: Destroy a non-eternal item you control chosen at random.",REWARD: +1 Soul & +5¢,Alt Art,aa-monstro
+117,Monstro II,Monster Card,HP 5 / DC 4 / ATK 1,"Each time this deals combat damage, the active player rolls- 1-3: Deal 1 damage to the player to your right. 4-6: Deal 1 damage to the player to your left.",REWARD: +1 Soul & +1 Treasure,Four Souls+ V2,fsp2-monstro_ii
+118,MOTHER!,Monster Card,HP 8 / DC 1 / ATK 8,"Each time this takes damage, it gains +1 DC till end of turn. When this dies, expand monster slots by 2.",REWARD: +2 Soul & +1 Treasure,Requiem,r-mother
+119,Motherly Love,Monster Card,,"Each time a player dies, put the top card of the treasure deck on top of the Mom deck Each time a Mom's Eye dies, the active player may look at the top card of the Mom deck Each time a Mom's Hand dies, the active player gains any items under it and may put the top card of the Mom deck on the bottom. Each time a player gains a soul, they gain the top card of the Mom deck.",,Challenges,challenge-motherly_love
+120,Mulliboom,Monster Card,HP 1 / DC 2 / ATK 4!,"When this dies, the active player deals 3 damage to a player.",REWARD: +6¢,Base Game V2,b2-mulliboom
+121,Mulligan,Monster Card,HP 1 / DC 3 / ATK 1,"When this dies, expand monster slots by 1.",REWARD: +3¢,Base Game V2,b2-mulligan
+122,Mulligoon,Monster Card,HP 3 / DC 4 / ATK 0,"Each time this takes damage, cancel an attack against this if able. The active player loots 1 and moves this to another monster slot. This doesn't heal at the end of each turn.",,Summer of Isaac,soi-mulligoon
+123,Mushroom,Monster Card,HP 3 / DC 3 / ATK 1,"Each time this deals combat damage to the attacking player, it deals 1 damage to each other player.",REWARD: +1 Loot,Requiem,r-mushroom
+124,Nerve Ending,Monster Card,HP 4 / DC 2 / ATK 1,,REWARD: +3¢,Four Souls+ V2,fsp2-nerve_ending
+125,Pale Fatty,Monster Card,HP 4 / DC 3 / ATK 1,,REWARD: +6¢,Base Game V2,b2-pale_fatty
+126,Para-Bite,Monster Card,HP 2 / DC 3 / ATK 1,"Each time this takes combat damage, the attacking player has -1 to their next attack roll this turn.",REWARD: +1 Loot,Gold Box V2,g2-parabite
+127,Patch Notes,Monster Card,,Choose three different players at random. The first puts a HP counter on a non-eternal item they control. The second puts a ATK counter on a non-eternal item they control. The third puts an eternal counter on an item they control.,,10th Anniversary,anni-patch_notes
+128,Peeping Fatty,Monster Card,HP 3 / DC 4 / ATK 1,"When this dies, look at the top 5 cards of the loot deck and put them back in any order.",REWARD: +2 Loot,Requiem,r-peeping_fatty
+129,Pestilence,Monster Card,HP 2 / DC 3+ / ATK 1,"When this dies, the active player deals 2 damage divided as they choose to any number of monsters or players.",REWARD: +1 Soul & +2 Loot,Promo,p-pestilence
+130,Pin,Monster Card,HP 2 / DC 4 / ATK 1,This takes no combat damage on attack rolls of 5 or 6.,REWARD: +1 Soul & +3 Loot,Alt Art,aa-pin
+131,Police Lineup,Monster Card,,"All non-active players secretly decide together on which non-active player is guilty till end of turn. Then, the active player chooses a non-active player. If the chosen player is guilty, they die and the active player gains +1 treasure. Otherwise, the guilty player gains +1 treasure and the active player skips their next turn.",,Summer of Isaac,soi-police_lineup
+132,Polycephalus,Monster Card,HP 3 / DC 3 / ATK 1,"Each time this takes damage, the next attack roll this turn has -2.",REWARD: +1 Soul & +3 Loot,Gold Box V2,g2-polycephalus
+133,Pooter,Monster Card,HP 2 / DC 3 / ATK 1,,REWARD: +1 Loot,Base Game V2,b2-pooter
+134,Portal,Monster Card,HP 2 / DC 4 / ATK 1,"When this dies, the active player must make an additional attack.",REWARD: +3¢,Base Game V2,b2-portal
+135,Psychic Horf,Monster Card,HP 1 / DC 5 / ATK 1,"When this dies, the active player recharges each item they control.",REWARD: +1 Loot,Base Game V2,b2-psy_horf
+136,Rag Man,Monster Card,HP 2 / DC 3+ / ATK 2,"When this dies, after gaining rewards, the active player rolls- 1 or 6: Put this on top of the monster deck.",REWARD: +1 Soul & +3 Loot,Promo,p-rag_man
+137,Rag Mega,Monster Card,HP 5 / DC 5 / ATK 1,"When an attack is declared on this, each non-active player discards a loot card. When this dies, the active player kills up to 3 other players.",REWARD: +1 Soul & +1 Treasure,Requiem,r-rag_mega
+138,Rage Creep,Monster Card,HP 1 / DC 5 / ATK 1,Damage this deals to the active player is also dealt to the player to their left.,REWARD: +2 Loot,Base Game V2,b2-rage_creep
+139,Ragling,Monster Card,HP 2 / DC 3 / ATK 1,"When this dies, after gaining rewards, the active player rolls- 1 or 6: Put this on top of the Monster Deck.",REWARD: +1 Loot,Gold Box V2,g2-ragling
+140,Red Ghost,Monster Card,HP 3 / DC 4 / ATK 1,"Each time this takes damage, the active player chooses another player. That player takes 1 damage.",REWARD: +3 Loot,Requiem,r-red_ghost
+141,Red Host,Monster Card,HP 2 / DC 3 / ATK 2,,REWARD: +5¢,Base Game V2,b2-red_host
+142,Resurrected Rag Man,Monster Card,HP 4 / DC 3 / ATK 2,"If this would die, instead roll- If the result plus the number of souls controlled by all players is less than or equal to 10, this heals to full HP, the active player gains its rewards, cancels their attack, then puts a random non-event monster card in discard in a minion slot. Otherwise, this dies. This has +1 DC for each minion in play and +1 HP for every 2 minions in play.",REWARD: +1 Soul & +3 Loot,Challenges,challenge-resurrected_rag_man-hard
+143,Resurrection Day,Monster Card,,"When a monster dies, after gaining rewards, the active player rolls- 1 or 6: Put that monster card in a minion slot. When a player dies, put a random non-event monster card in discard in a minion slot.",,Challenges,challenge-resurrection_day-normhard
+144,Round Worm,Monster Card,HP 1 / DC 5 / ATK 1,"Each time this deals Combat Damage, the attacking player has +1 to their next attack roll this turn.",REWARD: +4¢,Gold Box V2,g2-round_worm
+145,Roundy,Monster Card,HP 3 / DC 4 / ATK 2,"Each time this deals combat damage, it deals 1 damage to each other monster.",REWARD: +6¢,Four Souls+ V2,fsp2-roundy
+146,Satan!,Monster Card,HP 6 / DC 4 / ATK 1,"The third time a player rolls a 6 each turn, kill all players. Each time a player would roll a 5, change the result to a 6.",REWARD: +2 Soul & +2 Treasure,Alt Art,aa-satan
+147,Secret Room!,Monster Card,,Roll- 1-2: Take 3 damage. 3-4: Loot 2. 5: Loot 4. 6: Reroll an item you control. Gain +1 treasure.,,Alt Art,aa-secret_room
+148,Shop Upgrade!,Monster Card,,"Expand monster slots, shop slots, and room slots each by 1. The active player may attack an additional time this turn.",,Alt Art,aa-shop_upgrade
+149,Shopkeeper,Monster Card,HP 1 / DC 0 / ATK 0,"Indomitable
+If a player would destroy an item for the death penalty, they put it in a shop slot instead. This can't be attacked.",REWARD: +5¢,Summer of Isaac,soi-shopkeeper
+150,Sisters Vis,Monster Card,HP 6 / DC 4 / ATK 2,"When an attack is declared on this, the active player chooses another player. That player must make an attack roll against this after each attack roll the active player makes this attack. If this dies this turn, that player gains +1 treasure.",REWARD: +1 Soul & +1 Treasure,Requiem,r-sisters_vis
+151,Spider,Monster Card,HP 1 / DC 4 / ATK 1,,REWARD: +1 Loot,Base Game V2,b2-spider
+152,Spiked Chest,Monster Card,,Roll- 1-2: Take 1 damage. 3-4: Take 1 damage. Loot 1. 5-6: Take 1 damage. Gain +1 treasure.,,Four Souls+ V2,fsp2-spiked_chest
+153,Squirt,Monster Card,HP 2 / DC 3 / ATK 1,,REWARD: +1 Loot,Base Game V2,b2-squirt
+154,Steven,Monster Card,HP 4 / DC 2 / ATK 1,"Each time the attacking player rolls an attack roll of 2, they take 2 damage. Each time the attacking player rolls an attack roll of 6, cancel everything that hasn't resolved and end the turn.",REWARD: +1 Soul & +1 Treasure,Gold Box V2,g2-steven
+155,Stoney,Monster Card,HP 3 / DC 0 / ATK 0,"Monsters have +1 DC. This can't be attacked. When another monster dies, this dies.",REWARD: +1 Loot,Base Game V2,b2-stoney
+156,Sucker,Monster Card,HP 1 / DC 3 / ATK 1,"When this dies, it deals 1 damage to each player.",REWARD: +1 Loot,Four Souls+ V2,fsp2-sucker
+157,Swarmer,Monster Card,HP 4 / DC 3 / ATK 2,"When this dies, expand monster slots by 2.",REWARD: +1 Treasure,Four Souls+ V2,fsp2-swarmer
+158,Swarming The Duke of Flies,Monster Card,HP 4 / DC 4 / ATK 1,"This starts with 14 fly counters. While there are more fly counters on this than the total number of fly counters on all players, attacks cant be declared on this and it can't take damage. Each time a monster would take damage, the active player rolls- 1: Prevent that damage and remove a fly counter from this. At the start of each turn, put a fly swam in a minion slot. At the end of each round, put fly counters on this equal to the number of HP of each minion, then remove each minion from the game.",REWARD: +1 Soul & +3 Loot,Challenges,challenge-swarming_the_duke_of_flies-hard
+159,Tainted Mulligan,Monster Card,HP 2 / DC 3 / ATK 1,"When an attack is declared on this, this gains +1 HP for each loot card in the active player's hand till end of turn.",REWARD: Roll --- Loot x,Summer of Isaac,soi-tainted_mulligan
+160,Tainted Spitty,Monster Card,HP 4 / DC 3+ / ATK 1,"If the attacking player would roll an attack roll against this, they instead roll x dice, where x is the number of souls they control plus 1. Choose the lowest as the result.",REWARD: +2 Treasure,10th Anniversary,anni-tainted_spitty
+161,Tapeworm,Monster Card,HP 4 / DC 2 / ATK 4,"When this dies, put an egg counter on the active player. When a player with an egg counter dies and this is in discard, remove their egg counters and put this back into an active monster slot.",REWARD: +4 Loot,Tapeworm,tw-tapeworm_monster
+162,Teratoma,Monster Card,HP 5 / DC 3 / ATK 1,"Each time this takes damage, put a spider counter on it. When this dies, the active player deals X damage divided as they choose to any number of players, where X is the number of spider counters on this.",REWARD: +1 Soul & +1 Treasure,The Unboxing of Isaac,box-teratoma
+163,The Adversary,Monster Card,HP 5 / DC 3+ / ATK 1,"At the start of each turn, each player chooses a different number between 1 and 6 in turn order. Till end of turn, each time a player's chosen number is rolled, they take 1 damage.",REWARD: +1 Soul & +1 Treasure,Summer of Isaac,soi-the_adversary
+164,The Beast,Monster Card,HP 6 / DC 6 / ATK 6,"Indomitable
+When this dies, each player destroys each soul they control, then each player gains +2 treasure and loots 6.",REWARD: +1 Soul & +1 Treasure & +2 Treasure & +6 Loot,Alt Art,aa-the_beast
+165,The Bloat,Monster Card,HP 4 / DC 4+ / ATK 2,"Each time a monster dies, this deals 1 damage to each other monster and each player.",REWARD: +1 Soul & +1 Treasure,Summer of Isaac,soi-the_bloat
+166,The Cage,Monster Card,HP 6 / DC 4 / ATK 1,,REWARD: +1 Soul & +2 Treasure,Gold Box V2,g2-the_cage
+167,The Duke Of Flies,Monster Card,HP 3 / DC 4 / ATK 1,"When this dies, expand monster slots by 2.",REWARD: +1 Soul & +3 Loot,Alt Art,aa-the_duke_of_flies
+168,The Fallen,Monster Card,HP 4 / DC 5 / ATK 2,"When this dies, look at the top 5 cards of the monster deck and put them back in any order.",REWARD: +1 Soul & +1 Treasure,Four Souls+ V2,fsp2-the_fallen
+169,The Lamb,Monster Card,HP 6 / DC 3 / ATK 6,"When this dies, the active player may choose 2 other players. They each destroy a soul they control.",REWARD: +1 Soul & +3¢,Alt Art,aa-the_lamb
+170,The Rainmaker,Monster Card,HP 3 / DC 4 / ATK 1,"Each time a player rolls a 1, they loot 1. When this dies, search the monster deck for a curse card and put it in a monster slot not being attacked, then shuffle the monster deck.",REWARD: +1 Soul & +3 Loot,Requiem,r-the_rainmaker
+171,The Scourge,Monster Card,HP 3 / DC 4 / ATK 1,"When this would take damage, each living player votes either whip or whiff- If whip wins, prevent the damage this would take and each non-active player takes 1 damage. If whiff wins or there is a tie, the active player loots 1.",REWARD: +1 Soul & +2 Loot,Requiem,r-the_scourge
+172,The Siren,Monster Card,HP 4 / DC 3 / ATK 1,The active player may attack other players. Attacked players have 4+ DC.,REWARD: +1 Soul & +1 Loot,Requiem,r-the_siren
+173,Trap Door!,Monster Card,,Roll- 1-3: Look at the top 3 cards of the monster deck and put them back in any order. You may attack an additional time this turn. 4-6: Take 1 damage.,,Gold Box V2,g2-trap_door
+174,Trite,Monster Card,HP 1 / DC 5 / ATK 1,,REWARD: +2 Loot,Base Game V2,b2-trite
+175,Troll Bombs,Monster Card,,Take 2 damage!,,Four Souls+ V2,fsp2-troll_bombs
+176,Tumor,Monster Card,HP 2 / DC 5 / ATK 2,"Each time this takes damage, it deals 1 damage to each non-active player.",REWARD: +6¢,Four Souls+ V2,fsp2-tumor
+177,Turdlings,Monster Card,HP 2 / DC 2 / ATK 2,"This only takes combat damage on attack rolls of 2. When the attacking player makes their second attack roll this turn, after combat damage, cancel the attack.",REWARD: +1 Soul & +2 Loot,Requiem,r-turdlings
+178,TV Static,Monster Card,,"Put each monster into discard, then expand monster slots by 1. The active player may attack an additional time this turn.",,The Unboxing of Isaac,box-tv_static
+179,Twitchy,Monster Card,HP 4 / DC 5 / ATK 1,"At the end of each turn, the active player moves this to another monster slot.",REWARD: +8¢,Alt Art,aa-twitchy
+180,Ultra Greed!,Monster Card,HP 8 / DC 5 / ATK 1,"After each attack roll the active player makes against this, each other player in turn order makes an attack roll against this. The player who kills this gains its rewards.",REWARD: +1 Soul & +40¢,Requiem,r-ultra_greed
+181,Ultra Pride,Monster Card,HP 4 / DC 4 / ATK 1,"Each time a player dies, put 2 counters on this. This has +1 ATK for each counter on it. While this has 6+ counters on it the active player must attack it on their turn if able.",REWARD: +1 Soul & Counters x Loot,Promo,p-ultra_pride
+182,Unrelenting Delirium,Monster Card,HP 6 / DC 4 / ATK 3,"This has the abilities of each soul controlled by the active player and each monster in the active player's delirium slots while being attacked. While the active player controls less than 3 souls, attacks can't be declared on this.",REWARD: +2 Treasure,Challenges,challenge-unrelenting_delirium-comp
+183,War,Monster Card,HP 4 / DC 3+ / ATK 2,"At the start of each turn, put a ATK counter on another monster chosen at random.",REWARD: +1 Soul & +9¢,Summer of Isaac,soi-war
+184,Whipper,Monster Card,HP 3 / DC 4 / ATK 1,"Each time a player declares an attack, the active player rolls- 1-2: This deals 1 damage to that player.",REWARD: +5¢,Requiem,r-whipper
+185,Widow,Monster Card,HP 3 / DC 5+ / ATK 1,"At the start of each turn, put a spider counter on a character chosen at random. Then, the active player rolls for each spider counter on their character- 1-3: Take 1 damage. Each character with a spider counter has “Tap: Remove a spider counter from this.”",REWARD: +1 Soul & +3 Loot,Summer of Isaac,soi-widow
+186,Wizoob,Monster Card,HP 3 / DC 5 / ATK 1,"When this dies, the active player chooses a player. That player destroys a soul they control.",REWARD: +3 Loot,Base Game V2,b2-wizoob
+187,Wrath of the Lamb,Monster Card,,"Each player votes for another player. The player with the most votes may steal a soul from another player. If there is a tie, the active player chooses a player tied for the most votes.",,10th Anniversary,anni-wrath_of_the_lamb

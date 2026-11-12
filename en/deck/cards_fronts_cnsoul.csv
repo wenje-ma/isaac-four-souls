@@ -1,0 +1,9 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,Soul Of Envy,Soul Card,,"一名玩家第一次控制自己的第 3 张 soul 时, 行动玩家从 soul 最少的玩家(并列也算) 里选一名, 他获得本 soul.",,Requiem,r-soul_of_envy
+2,Soul Of Gluttony,Soul Card,,手牌里第一次有 10 张及以上 loot 牌的玩家获得本 soul.,,Base Game V2,b2-soul_of_gluttony
+3,Soul Of Greed,Soul Card,,第一次拥有 25 ¢ 及以上的玩家获得本 soul.,,Base Game V2,b2-soul_of_greed
+4,Soul Of Guppy,Soul Card,,第一次控制 2 件及以上 guppy item 的玩家获得本 soul.,,Base Game V2,b2-soul_of_guppy
+5,Soul Of Lust,Soul Card,,"每当一名玩家杀死一只怪物, 就在本牌上放一个 counter. 放上第 6 个 counter 时, 行动玩家获得本 soul.",,Requiem,r-soul_of_lust
+6,Soul Of Pride,Soul Card,,"每当一名玩家获得 treasure, 就在本牌上放一个 counter. 放上第 6 个 counter 时, 行动玩家获得本 soul.",,Requiem,r-soul_of_pride
+7,Soul Of Sloth,Soul Card,,"一名玩家第一次控制 4 件 item 时, 行动玩家从 item 最少的玩家(并列也算) 里选一名, 他获得本 soul.",,Requiem,r-soul_of_sloth
+8,Soul Of Wrath,Soul Card,,"每当一名玩家死亡, 就在本牌上放一个 counter. 放上第 6 个 counter 时, 行动玩家获得本 soul.",,Requiem,r-soul_of_wrath

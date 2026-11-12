@@ -1,0 +1,24 @@
+n,name,subtitle,stats,body,footer,set,slug
+1,Beggar,Room Card,,¢ Pay 3¢: Roll- 3-4: Gain 2¢ 5: Loot 2. 6: Gain +1 treasure. Put this into discard.,,Requiem,r-beggar
+2,Black Market,Room Card,,¢ Pay 2 HP: Steal an item from the shop.,,Promo,p-black_market
+3,Blind Rage,Room Card,,The active player must attack the monster deck once each turn if able.,,Requiem,r-blind_rage
+4,Bomb Bum,Room Card,,"¢ Discard a loot card: Roll. If the discarded card had “bomb” in its name, roll 3x instead --- 1-4: Deal 1 damage to a monster or player. 5-6: Take 1 damage.",,Requiem,r-bomb_bum
+5,Challenge Room,Room Card,,"Each time a monster dies, the active player rolls- 4-6: They must make an additional attack this turn.",,Requiem,r-challenge_room
+6,Daily Run,Room Card,HP 4 / DC 4+ / ATK 1,"Indomitable
+This room can be attacked. Each time this takes damage, gain 4¢ or loot 1, then you may cancel your attack on this.",,10th Anniversary,anni-daily_run
+7,Devil Beggar,Room Card,,¢ Pay 1 HP: Roll- 1-2: Loot 2. 3-4: Loot 1. 5-6: Take 1 damage.,,Requiem,r-devil_beggar
+8,Dice Room I,Room Card,,"When this enters play, the active player rerolls each item they control. At the end of the turn, put this into discard.",,Requiem,r-dice_room_1
+9,Dice Room II,Room Card,,"When this enters play, each player discards their hands and loots 3. At the end of the turn, put this into discard.",,Requiem,r-dice_room_2
+10,Dice Room III,Room Card,,"When this enters play, put each shop item into discard. At the end of the turn, put this into discard.",,Requiem,r-dice_room_3
+11,Dice Room IV,Room Card,,"When this enters play, each player rerolls each of their items. At the end of the turn, put this into discard.",,Requiem,r-dice_room_4
+12,Dice Room V,Room Card,,"When this enters play, put each monster into discard. At the end of the turn, put this into discard.",,Requiem,r-dice_room_5
+13,Dice Room VI,Room Card,,"When this enters play, reroll each item in play, each player discards their hand and loots 3. Put each monster into discard. At the end of the turn, put this into discard.",,Requiem,r-dice_room_6
+14,Eden's Blessing,Room Card,,"At the start of the turn, the active player may reroll an item they control.",,Requiem,r-edens_blessing
+15,Equality,Room Card,,"If the player would gain any amount of ¢, instead each player gains that much ¢.",,Requiem,r-equality
+16,Eternal Chest,Room Card,,¢ Discard a loot card: Roll- 3: Gain 4¢. 4-5: Gain 7¢. 6: Gain +1 treasure and loot 1.,,Requiem,r-eternal_chest
+17,Fortune Teller,Room Card,,¢ Pay 3¢: roll- 3: Loot 1. 4: Loot 2. 5: Loot 3. 6: Loot 6. Put this into discard.,,Requiem,r-fortune_teller
+18,Greed Mode,Room Card,,"Each time a monster dies, the active player gains ¢ equal to its HP. Each Tap ability on an item or character becomes a ¢ ability with “Pay 3¢”.",,10th Anniversary,anni-greed_mode
+19,I Am Error,Room Card,,At the start of your turn roll- 1-2: Put a monster into discard and replace it with the top card of the monster deck 3-4: Reroll an item you control. 5: Discard your hand and loot 3. 6: Do all of the above.,,Requiem,r-i_am_error
+20,Key Master,Room Card,,"¢ Discard a loot card: Roll. If the discarded card had “key” in its name, roll 3x instead --- 5-6: Gain +1 treasure.",,Requiem,r-key_master
+21,Planetarium,Room Card,,"At the start of the turn, the active player may gain +1 treasure.",,Requiem,r-planetarium
+22,Restock Machine,Room Card,,¢ Pay 2¢: Put each shop item or each monster not being attacked into discard.,,Requiem,r-restock_machine
