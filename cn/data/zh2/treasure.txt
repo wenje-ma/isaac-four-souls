@@ -1,0 +1,225 @@
+ret-1_up|在你自己的回合里要死时, 毁灭本牌, 免于一死, 并把 hp 回满; 若能, 取消你这次攻击. 本回合你可以额外再攻击一次.
+fsp2-20_20|TAP: 一次攻击掷骰最多 +2.
+g2-9_volt|回合结束时, 你可以为你控制的至多 2 件item充能.
+box-a_dollar|¢ 毁灭本牌: 夺取所有商店item.
+p-lump_of_coal|每回合你的第 3 次攻击掷骰之后, 直到回合结束你拥有 +1 atk.
+g2-the_missing_page|每当一名玩家要掷出 5, 你可以强迫他重掷.
+box-a_quarter|¢ 毁灭本牌: 获得 25 ¢.
+fsp2-aaa_battery|Trinket\n回合结束时掷骰 — ④-⑥: 为一件item充能.
+fsp2-abaddon|+3 atk\n每当你受到 damage, 你死亡!
+r-abel|每当你对一只怪物造成战斗伤害, 掷骰 — ④-⑥: 对另一只怪物或一名玩家造成 1 damage.
+r-abyss|Eternal\n¢ 毁灭你控制的一件item. 若如此做, 在本牌上放一个 counter. 本牌每有 2 个 counter, 你拥有 +1 atk.
+r-alabaster_box|回合开始时, 在本牌上放一个 counter. 放下第 2 个 counter 时, 获得 10 ¢; 第 4 个时, loot 4; 第 6 个时, 获得 +2 treasure.
+fsp2-athame|¢ 弃一张 loot 牌: 强迫一名玩家弃 2 张 loot 牌.
+r-backstabber|你可以攻击 soul 比你多的玩家. 他们因这次攻击拥有 +3 dc. 每当你杀死一名玩家, loot 1.
+r-bag_lunch|Trinket\n本牌要被毁灭时, 若其上没有 counter, 改为放一个 counter. 本牌有 counter 时, 你拥有 +1 hp.
+r-bag_of_crafting|Eternal\n¢ 弃一张 loot 牌: 在本牌上放一个 counter. ¢ 从本牌移除 4 个 counter: 获得 +1 treasure.
+r-ball_of_bandages|攻击掷骰为 3 时, 你不吃战斗伤害.
+soi-ball_of_tar|Eternal\n¢ 弃一张 loot 牌: 任选: 复制另一名玩家正在打出、且本回合还没被复制过的非 trinket、非 ambush loot 牌. / 将一只未被攻击的怪物放入弃牌堆. / 防止你本回合接下来受到的 1 damage.
+r-battery_pack|回合结束时, 在本牌上放一个 counter. ¢ 从本牌移除 2 个 counter: 为一名玩家控制的每件item充能.
+b2-belly_button|你每回合可以多打一张 loot 牌. 每当你受到 damage, 你可以为自己的角色充能.
+r-berserk|Eternal\n你的回合里可以额外攻击一次. 每当你杀死一只怪物, 直到回合结束你拥有 +1 hp.
+r-birthright|TAP: 本牌变成你控制的一件 eternal item的复制. 本牌失去 eternal.
+fsp2-black_candle|TAP: 翻开怪物牌堆顶 6 张牌. 其中所有 curse 牌都交给你指定的玩家. 其余按任意顺序放回牌堆底部.
+b2-blood_lust|Eternal\nTAP: 选择一名玩家或一只怪物, 直到回合结束其拥有 +1 atk. 回合结束时, 为本牌充能.
+r-blood_puppy|每当一名玩家死亡, 本牌升级. 4 级: 你拥有 +1 atk. 8 级: 回合开始时, 对一只怪物或一名玩家造成 1 damage. 10 级: 回合开始时掷骰 — ①-③: 你死亡.
+b2-bloody_penny|Trinket\n每当一名玩家死亡, 在结算惩罚之前, loot 1.
+b2-bobs_brain|每当你宣布一次攻击, 掷骰 — ①-②: 对一只怪物造成 1 damage. ③-④: 对一名玩家造成 1 damage. ⑤-⑥: 受到 1 damage.
+r-bobby_bomb|当你获得或购买本牌时, 翻开 loot 牌堆顶 10 张牌. 名称含 "Bomb" 的牌全部入手, 其余放回 loot 牌堆底部. 回合开始时, 从 loot 弃牌堆拿一张名称含 "Bomb" 的牌入手.
+b2-book_of_belial|Eternal\n掷骰结果 +1 或 -1. 回合结束时, 为本牌充能.
+r-book_of_the_dead|TAP: 将一张非事件怪物牌从弃牌堆放进一个未被攻击的怪物槽位.
+r-book_of_virtues|Eternal\n每当你造成战斗伤害, 掷骰 — ⑤-⑥: 对一只怪物或一名玩家造成 1 damage. 每当你杀死一只怪物, 选另一名玩家: 你与他各 loot 1.
+anni-booster_pack|TAP: 毁灭本牌. 若如此做, 翻开 loot 牌堆顶 5 张牌. 其中任意张数你都能打, 且不占用本回合的 loot 打出机会; 其余放入弃牌堆.
+b2-breakfast|+1 hp
+gf-brimstone|+1 atk\n每当你掷出 ⑥, 对一只怪物或另一名玩家造成 1 damage.
+b2-broken_ankh|Trinket\n当你要死时, 掷骰 — ⑥: 免于一死. 若是你的回合, 取消所有尚未结算的事并结束它.
+r-broken_remote|Trinket\n每当你启动一件item, 你可以将一张 room 或一只未被攻击的怪物放入弃牌堆.
+b2-cains_eye|Trinket\n回合开始时, 查看 loot 牌堆顶的一张牌. 你可以把它放到牌堆底部.
+r-callus|Trinket\n防止你本该受到的所有非战斗伤害.
+b2-cambion_conception|每当你受到 damage, 按受到的 damage 数在本牌上放 counter. 然后若本牌有 6 个及以上 counter, 移除 6 个并获得 +1 treasure.
+g2-cancer|Trinket\n你每回合的第一次掷骰 +1.
+r-car_battery|除了它自己的能力, 本牌无法充能. TAP: 为场上另外至多 3 件item充能. ¢ 支付 7 ¢: 为本牌充能.
+b2-champion_belt|你每回合的第一次攻击掷骰拥有 +1 atk. 你的回合里可以额外攻击一次.
+b2-charged_baby|每当一名玩家掷出 ②, 你可以为一件item充能.
+r-chocolate_milk|回合开始时, 在本牌上放一个 counter. 若此时本牌有 3 个及以上 counter, 全部移除, 并对一名玩家或一只怪物造成 1 damage. 本牌有 2 个 counter 时, 你拥有 +1 atk.
+r-consolation_prize|回合开始时, loot x, x 是 soul 最多那名玩家控制的 soul 数减去你控制的 soul 数.
+b2-counterfeit_penny|Trinket\n你本该获得若干 ¢ 时, 改获得这些数量 +1 ¢.
+g2-crooked_penny|TAP: 选择一名玩家, 然后掷骰 — ①-③: 他拥有的 ¢ 翻倍. ④-⑥: 他失去全部 ¢.
+box-cube_of_meat|攻击掷骰为 1 时, 你不吃战斗伤害. 当你还控制着另一件名为 Cube Of Meat 或 Ultra Flesh Kid! 的item或 soul, 你拥有 +1 atk.
+b2-curse_of_the_tower|每当你受到 damage, 掷骰 — ①-③: 每名其他玩家各受到 1 damage. ④-⑥: 对一只怪物造成 1 damage.
+fsp2-cursed_eye|攻击掷骰为 6 时, 你造成的战斗伤害 +3. 攻击掷骰为 1 时, 结束你的回合, 并取消所有尚未结算的事.
+b2-curved_horn|Trinket\n你每回合的第一次攻击掷骰拥有 +1 atk.
+g2-dads_key|¢ 弃一张 loot 牌: 将怪物牌堆顶一张牌放进一个未被攻击的怪物槽位.
+b2-dads_lost_coin|每当一名玩家要掷出 1, 你可以强迫他重掷.
+p-dads_ring|每当你对一只怪物宣布攻击, 掷骰 — ⑤-⑥: 直到回合结束该怪物 -1 dc.
+fsp2-daddy_long_legs|回合开始时, 对一只怪物或一名玩家造成 1 damage.
+r-damocles|你本该获得若干 treasure 时, 改获得这些数量 +1. 你死亡时, 在结算惩罚之前毁灭本牌.
+fsp2-dark_arts|Eternal\n每当一名玩家掷出 ⑥, 获得 2 ¢. 每当另一名玩家死亡, loot 1.
+b2-dark_bum|回合开始时, 掷骰 — ①-②: 获得 3 ¢. ③-④: loot 1. ⑤-⑥: 受到 1 damage.
+anni-dataminer|TAP: 掷骰 — ①: 所有怪物的 atk 变成 1. ②: 毁灭本牌; 若如此做, 在你的角色上放一个 atk counter. ③: 场上所有牌停用. ④: 直到你下个回合开始, 手牌上限变成 0. ⑤: 所有怪物的 atk 变成 9. ⑥: 毁灭本牌; 若如此做, 直到回合结束你的 atk 变成 9.
+b2-dead_bird|每当一名玩家掷出 ③, 你可以查看他的手牌, 并从他手中夺取一张 loot 牌.
+t-dead_eye|每当你对一只怪物造成 damage, 直到回合结束你拥有 +1 atk.
+b2-dinner|+1 hp
+fsp2-distant_admiration|TAP: 选择另一名玩家. 他给你一张 loot 牌. 翻开它, 然后若能你必须打出这张牌. 这不占用你的 loot 打出机会.
+fsp2-divorce_papers|TAP: 毁灭本牌. 若如此做, 选择另一名玩家: 他交给你他一半的 ¢ 与 loot 牌(向下取整), 然后给你一件item.
+b2-dry_baby|你本该受到的 damage 减为 1.
+b2-edens_blessing|回合结束时, 若你没有 ¢, 获得 6 ¢.
+box-edens_soul|本牌进场时是停用的. TAP: 毁灭本牌. 若如此做, 查看 treasure 牌堆顶 7 张牌, 从中取得 2 张, 其余随机顺序放回牌堆底部.
+b2-empty_vessel|手牌里没有 loot 牌时, 你拥有 +1 atk. 你没有 ¢ 时, 攻击掷骰 +1.
+t-epic_fetus|TAP: 对一只怪物、一名玩家和你自己各造成 1 damage.
+r-eternal_d6|TAP: 在本牌上放一个 counter. ¢ 从本牌移除 2 个 counter: 直到回合结束, 若有玩家要掷出 2 或 3, 改成 1.
+fsp2-euthanasia|同一回合里, 你连续两次攻击掷骰结果相同时, 杀死你正在攻击的怪物.
+r-experimental_treatment|¢ 毁灭本牌: 掷骰 — ①: 你死亡. ②: loot 3. ③: 获得 9 ¢. ④: 获得 +1 treasure. ⑤: 获得 +2 treasure. ⑥: 本牌变成一张 soul, 收下它.
+b2-eye_of_greed|每当一名玩家掷出 ⑤, 获得 3 ¢.
+b2-fanny_pack|每当你受到 damage, loot 1.
+b2-finger|每当一名玩家掷出 ②, 你可以用你控制的一件非 eternal item, 换他控制的一件非 eternal item.
+r-fire_mind|攻击掷骰为 6 时, 你造成的战斗伤害翻倍. 攻击掷骰为 1 时, 你受到的战斗伤害翻倍.
+r-flip|Eternal\n每当你死亡, 在结算惩罚之后, 若能则翻开你的角色卡, 再为其充能. 弃掉手牌并 loot 3.
+b2-forever_alone|Eternal\nTAP: 任选: 从另一名玩家那里夺取 1 ¢. / 查看某个牌堆顶的一张牌. / 弃一张 loot 牌, 然后 loot 1. 每当你受到 damage, 为本牌充能.
+fsp2-forget_me_now|TAP: 毁灭本牌. 若如此做, 每名玩家各毁灭他控制的一张 soul.
+soi-found_soul|Trinket\n+1 atk. 当一张 soul 进入你的控制, 把这件item交给另一名玩家.
+r-friendly_ball|TAP: 本牌下面没有牌时, 将一只未被攻击的怪物放到本牌下面. TAP: 将本牌下面的一只怪物放进一个未被攻击的怪物槽位; 本回合行动玩家必须再攻击它一次.
+g2-fruitcake|TAP: 掷骰 — ①: loot 1. ②-③: 获得 1 ¢. ④-⑥: 查看某个牌堆顶的一张牌. 同一回合里若有玩家连续两次掷出相同结果, 为本牌充能.
+gf-g_fuel-red|TAP: 为一名角色充能. 回合结束时, 你可以为一件item充能.
+r-gello|Eternal\nTAP: 选择一只正在被攻击的怪物, 把它的 hp 回满, 再按回复的 hp 数对另一只怪物造成 damage. 若不是你的回合, 取消这次攻击, 行动玩家本回合可以额外攻击一次.
+fsp2-gimpy|Eternal\n每当你受到 damage, 任选: 获得 2 ¢. / loot 1, 然后弃一张 loot 牌. / 直到回合结束获得 +2 atk.
+box-glitter_bombs|TAP: 到回合结束, 以公开 loot 牌堆顶牌的方式游戏. 到回合结束, 你可以打出 loot 牌堆顶的牌.
+r-gnawed_leaf|不是你的回合时, 防止你本该受到的所有 damage. 每回合第一次有另一名玩家打出以你或你控制的东西为目标的 loot 牌时, 你可以取消它.
+b2-goat_head|回合结束时, 你可以弃任意张 loot 牌, 然后按弃掉的张数 loot.
+aa-godhead|TAP: 把一次掷骰结果翻面. (结果变成 7 减去当前点数.)
+b2-golden_horseshoe|Trinket\n回合开始时, 查看 treasure 牌堆顶的一张牌; 你可以把它放到牌堆底部.
+r-golden_trinket|Trinket\n本牌进场时, 在你控制的另一件非 eternal item上放一个 黄金 counter. 其他带 黄金 counter 的item有什么能力, 本牌就有什么能力.
+b2-greeds_gullet|每当你死亡, 在结算惩罚之前, 获得 8 ¢.
+b2-guppys_collar|Guppy\n每当你本该死亡, 掷骰 — ①-③: 免于一死. 若是你的回合, 取消所有尚未结算的事并结束回合.
+fsp2-guppys_eye|Guppy\n每名其他玩家都要公开手牌进行游戏.
+b2-guppys_hairball|Guppy\nTrinket\n每当你本该受到 damage, 掷骰 — ⑥: 防止其中 1 点.
+nen-guppys-head|Eternal\nGuppy\nTAP: 把一张 loot 牌交给另一名玩家. 若如此做, 查看 loot 牌堆顶 2 张牌, 以任意顺序放回, 然后 loot 1. 每当一名玩家掷出 ④, 为本牌充能.
+aa-guppys_paw|Guppy\nTAP: 毁灭你控制的一件item. 若如此做, 在本牌上放一个 counter. 本牌每个 counter 让你拥有 +1 hp.
+g2-guppys_tail|Guppy\n你的 loot 阶段 loot +1. 回合结束时, 弃一张 loot 牌.
+r-hallowed_ground|每当一名玩家掷出 ②, 在本牌上放一个 counter. ¢ 从本牌移除 3 个 counter: 把 loot 弃牌堆顶的一张牌收入手中.
+r-halo_of_flies|攻击掷骰为 1 或 6 时, 你不吃战斗伤害.
+fsp2-head_of_krampus|TAP: 掷骰 — ①-③: 每名玩家各受到 1 damage. ④-⑥: 每只怪物各受到 1 damage.
+fsp2-head_of_the_keeper|每当你造成 damage, 获得 1 ¢. 每当你杀死一只怪物或一名玩家, 获得 2 ¢.
+r-hemoptysis|Eternal\nTAP: 在本牌上放一个 counter. ¢ 从本牌移除一个 counter: 选择一只怪物, 它的 atk 变成 1. ¢ 从本牌移除 2 个 counter: 对至多 2 只怪物或玩家造成 1 damage.
+g2-holy_mantle|Eternal\nTAP: 选择一名玩家. 本回合他下一次本该死亡时, 免于一死; 若是他的回合, 取消所有尚未结算的事并结束它. 回合结束时, 为本牌充能.
+fsp2-hourglass|每当一名玩家掷出 ②, 你可以停用一件item.
+r-hypercoagulation|Eternal\n回合开始时, 在本牌上放一个 counter. 本牌每个 counter 让你拥有 +1 hp. 回合结束时, 若本牌有 3 个及以上 counter, 全部移除并 loot 3.
+g2-i_cant_believe_its_not_butter_bean|TAP: 取消一件item的 TAP 或 ¢ 能力, 或取消一张正在打出、以你控制的item或掷骰为目标的 loot 牌.
+r-ibs|Eternal\n¢ 弃一张 loot 牌: 任选: 取消你对一只怪物的攻击. / 获得 3 ¢. ¢ 弃 2 张 loot 牌: 取消一件item的 TAP 或 ¢ 能力, 或一张正在打出的 loot 牌.
+b2-incubus|Eternal\nTAP: 任选: 查看一名玩家的手牌, 你可以用自己的一张牌换他的一张. / loot 1, 然后把手里一张牌放到 loot 牌堆顶.
+g2-infamy|攻击掷骰为 1 时, 你不吃战斗伤害.
+fsp2-infestation|Eternal\nTAP: loot 2, 然后弃 1 张 loot 牌.
+b2-ipecac|+1 atk\n每当你攻击掷骰为 6, 对每名其他玩家各造成 1 damage.
+soi-isaacs_last_will|每当另一名玩家支付死亡惩罚, 获得 2 ¢, 并把他的死亡惩罚item放到本牌下面. TAP: 任选 1: 把本牌下面的一张牌放回它所属的牌堆顶. / 本牌下面每有一张牌, 获得 1 ¢.
+gf-isaacs_tears|每当你掷骰, 在本牌上放一个 counter. ¢ 从本牌移除 6 个 counter: 对每名其他玩家和每只怪物各造成 1 damage.
+r-jar_of_flies|每当一只怪物死亡, 在本牌上放一个 counter. TAP: 从本牌移除 1 个或更多 counter: loot 1. 若移除的是 3 个及以上, 改为对一只怪物造成 1 damage.
+r-judas_shadow|每当你死亡, 在结算惩罚之前, 在本牌上放 2 个 counter. 本牌被毁灭时, 按其上的 counter 数 x 获得 x ¢ 并 loot x.
+soi-karma|每当一张 soul 进入另一名玩家的控制, 选 2 名玩家: 他们各自从商店夺取一件item并 loot 1.
+r-keepers_bargain|Eternal\nTAP: 每名其他玩家各自决定要不要获得 1 ¢. 你获得 1 ¢, 每有一名玩家这么做再加 1 ¢. 你买商店item少花 3 ¢.
+r-keepers_box|本牌进场时, 商店槽位 +2. 每当另一名玩家购买一件商店item, 获得 2 ¢ 并 loot 1.
+r-keepers_sack|Eternal\n当你获得或购买本牌时, 获得 14 ¢. ¢ 支付 4 ¢: 把本牌交给另一名玩家. 回合结束时, 弃一张 loot 牌; 弃不了就受到 2 damage.
+fsp2-lard|+2 hp\n每当你受到 damage, 弃一张 loot 牌.
+b2-lazarus_rags|Eternal\n每当你死亡, 在结算惩罚之后, 获得 +1 treasure.
+r-lemegeton|Eternal\nTAP: 获得 +1 treasure. 你下一次回合结束时, 毁灭你控制的一件非 eternal item.
+g2-lemon_mishap|TAP: 直到回合结束, 每当一名玩家攻击掷骰为 1 或 2, 对每只怪物各造成 1 damage.
+fsp2-libra|TAP: 把一次掷骰结果改成 3.
+r-lil_chest|每当你杀死一只怪物, 掷骰 — ①-②: 获得 2 ¢. ③-④: loot 2, 然后把手里一张 loot 牌放到 loot 牌堆顶. ⑤-⑥: 为你控制的每件item充能.
+box-lil_delirium|回合开始时, 查看 treasure 牌堆顶 3 张牌, 公开其中一张. 到回合结束, 本牌变成这张牌的复制. 其余随机顺序放回牌堆底部.
+gi-lil_gish|TAP: 选择场上一件停用的item. 该item在控制者下个回合开始时不会充能.
+r-lodestone|每当一名玩家掷出 ③, 选一只怪物: 直到回合结束它 -1 dc.
+g2-lord_of_the_pit|Eternal\nTAP: 取消一次攻击. 该玩家本回合可以额外攻击一次.
+r-lucky_toe|Trinket\n你本该 loot(且不在你的 loot 阶段)时, 改为 loot 这些数量 +1.
+r-lunch|+1 hp
+soi-magic_mushroom|本牌进场时带 3 个 counter. ¢ 从本牌移除一个 counter: 任选: 本回合你下一次攻击掷骰获得 +1 atk. / 防止你本回合接下来受到的 1 damage. 你的角色获得 "TAP: 在一件名为 Magic Mushroom 的item上放一个 counter."
+r-magic_skin|TAP: 获得 +1 treasure, 在本牌上放一个 counter, 然后把本牌交给另一名玩家. 回合开始时掷骰 — 若结果小于本牌上的 counter 数, 毁灭本牌和你控制的其余所有item.
+fsp2-magnet|每当另一名玩家获得 ¢, 他必须给你 1 ¢.
+r-mama_mega|TAP: 毁灭本牌. 若如此做, 对每只怪物和每名玩家各造成 3 damage.
+r-marbles|TAP: 选择场上一张非 eternal 的牌: 在它上面放一个它本就有过的那种 counter, 或从它上面移除一个 counter.
+t-marked|你每回合的第一次攻击掷骰, 你可以把结果改成 5.
+b2-meat|你的攻击掷骰 +1.
+r-member_card|TAP: 查看 treasure 牌堆顶 3 张牌, 以任意顺序放回, 然后把一件商店item放入弃牌堆. 你买商店item少花 4 ¢.
+r-moms_bottle_of_pills|当你获得或购买本牌时, 翻开 loot 牌堆顶 10 张牌. 名为 Pills! 的牌全部入手, 其余放回牌堆底部. 回合开始时, 从 loot 弃牌堆拿一张 Pills! 入手.
+b2-moms_box|每当一名玩家掷出 ④, 你可以 loot 1, 然后弃一张 loot 牌.
+b2-moms_coin_purse|你的 loot 阶段 loot +1.
+fsp2-moms_eye_shadow|若有另一名玩家宣布攻击一只怪物, 由你决定他打哪一只.
+box-moms_heels|你的回合里可以额外攻击一次. 每回合防止你本该受到的第一次战斗伤害.
+g2-moms_knife|+1 atk\n攻击掷骰为 ⑥ 时, 你每次对一只怪物造成战斗伤害, 都会对其余每只怪物各造成 1 damage.
+box-moms_lipstick|你的回合里可以额外攻击一次. 你每回合的第一次攻击掷骰 +1.
+b2-moms_purse|你的 loot 阶段 loot +1.
+b2-moms_razor|每当一名玩家掷出 ⑥, 你可以对他造成 1 damage.
+p-moms_ring|+1 atk\n当你获得或购买本牌时, loot 1.
+box-moms_underwear|你的回合里可以额外攻击一次. 你每回合的第二次攻击拥有 +2 atk.
+b2-monstros_tooth|回合开始时, 随机选一名玩家: 他毁灭自己控制的一件item.
+g2-more_options|回合开始时, 你可以查看 treasure 牌堆顶 2 张牌. 你的回合里可以多购买一次.
+fsp2-mutant_spider|TAP: 下次有玩家要掷骰时, 改为掷 4 个骰子, 由你挑一个作为结果.
+box-my_little_unicorn|TAP: 到回合结束, 防止你本该受到的所有 damage. 本回合你掷出 ①-③ 时, 取消所有尚未结算的事并结束回合.
+p-mystery_gift|¢ 毁灭本牌: 选择任意名玩家. 按选定人数 x 查看 treasure 牌堆顶 x 张牌, 其中任意张放回牌堆顶或放到牌堆底部, 顺序随你. 你获得 +1 treasure, 然后每名被选中的玩家各获得 +1 treasure.
+box-number_one|在你的回合, 怪物 -1 dc. 你掷出 1 或 6 的攻击掷骰算作落空.
+box-number_two|每当一名玩家掷出 ②, 你可以对一只怪物或一名玩家造成 1 damage.
+g2-ouija_board|TAP: 翻开怪物牌堆顶 4 张牌. 其中若有 event 牌, 你可以把它放进一个未被攻击的怪物槽位. 其余随机顺序放回牌堆底部.
+g2-pink_eye|Trinket\n攻击掷骰为 1 时, 你受到一只怪物或一名玩家的战斗伤害后, 对他造成 1 damage.
+g2-placenta|+1 hp\n攻击掷骰为 4 时, 你不吃战斗伤害.
+g2-plan_c|TAP: 毁灭本牌. 若如此做, 杀死一只怪物. 回合结束时, 杀死所有玩家.
+r-playdough_cookie|回合开始时, 你可以选一件非 eternal item, 在它上面放一个 counter 或从它上面移除一个; 若不这么做, 获得 1 ¢.
+fsp2-poker_chip|Trinket\n你每个回合第一次本该获得 ¢ 时, 掷骰 — ①-③: 改为获得 1 ¢. ④-⑥: 获得本该获得数量的两倍.
+b2-polydactyly|你的回合里可以多打一张 loot 牌. 你每回合的第一次攻击掷骰拥有 +1 atk.
+fsp2-polyphemus|+2 atk\n在你的回合, 怪物 +1 dc.
+r-punching_bag|你拥有 +2 hp. 这件item可以被攻击.
+p-pyromaniac|当你获得本牌时, 在 loot 牌堆中搜索至多 2 张名为 Bomb! 的牌, 公开并入手, 然后洗牌. 你本该造成任意数量的非战斗伤害时, 改为造成这些数量 +1.
+r-r_key|本牌进场时是停用的. TAP: 毁灭本牌. 若如此做, 毁灭所有 soul. 每名玩家弃掉手牌并 loot 3.
+fsp2-rainbow_baby|TAP: 任选: 每名玩家各 loot 1. / 每名玩家各获得 2 ¢. / 每名玩家各受到 1 damage.
+fsp2-red_candle|TAP: 掷骰之前, 你先说一个点数. 直到回合结束, 每当有人掷出这个点数, 对一只怪物或一名玩家造成 1 damage.
+r-red_key|TAP: 查看 room 或怪物牌堆顶 3 张牌. 你可以把其中一张放进一个槽位, 其余放回. 攻击过程中不能启动这个能力.
+b2-restock|回合开始时, 你可以把任意张商店item放入弃牌堆.
+r-rib_of_greed|Trinket\n能力与死亡惩罚都不能让你弃 loot 牌或失去 ¢.
+r-rock_bottom|当你获得或购买本牌时, 按你手里的 loot 牌数在本牌上放 counter. 回合结束时, 若你手里的 loot 牌少于本牌上的 counter, loot 2.
+fsp2-rubber_cement|每当你的攻击掷骰落空, 掷骰 — ①-③: 对一只怪物或一名玩家造成 1 damage.
+b2-sacred_heart|你本该掷出 1 时, 可以把结果改成 6.
+box-satanic_bible|¢ 支付 1 hp: 选一只怪物, 防止它本回合接下来受到的第一次 damage.
+box-seraphim|你每回合的第 1、3、5 次攻击掷骰 +1.
+b2-shiny_rock|每当你启动一件item, 获得 1 ¢.
+p-short_fuse|Trinket\n本牌被毁灭时, 对一只怪物或一名玩家造成 2 damage.
+r-sibling_rivalry|Eternal\nTAP: 选一名非行动玩家. 本回合行动玩家下一次宣布攻击时, 行动玩家每掷一次攻击骰, 被选中的玩家也要跟着掷一次. 若这只怪物在这次攻击中死亡, 被选中的玩家也拿到reward.
+g2-skeleton_key|你的回合里最多可以攻击 99 次.
+b2-sleight_of_hand|Eternal\nTAP: 查看某个牌堆顶 5 张牌, 以任意顺序放回.
+fsp2-smart_fly|TAP: 查看某个牌堆顶的一张牌. 你可以把它放入弃牌堆或放回牌堆顶. 每当你受到 damage, 你可以为本牌充能.
+g2-soy_milk|在你的回合, 怪物 +1 dc. 每当你对一只怪物造成战斗伤害, 对其余每只怪物各造成 1 damage.
+r-spelunker_hat|回合开始时, 你可以查看某个牌堆顶 3 张牌, 以任意顺序放回.
+b2-spider_mod|每当一名玩家掷出 ⑤, 你可以将一只未被攻击的怪物放入弃牌堆, 并用怪物牌堆顶的牌补上.
+r-spindown_dice|Eternal\nTAP: 毁灭一件item. 若它属于某名玩家, 他可以到商店夺取一件item. 回合结束时掷骰 — ④-⑥: 为本牌充能.
+b2-starter_deck|回合结束时, 若你手里有 8 张或以上 loot 牌, loot 2.
+g2-succubus|¢ 支付 3 ¢: 本回合你最多可以多打 2 张 loot 牌.
+b2-suicide_king|每当你死亡, 在结算惩罚之前, loot 3.
+r-sumptorium|Eternal\n每当你受到 damage, 在本牌上放一个 counter. ¢ 从本牌移除 2 个 counter: 一只怪物直到回合结束 -1 dc.
+b2-synthoil|你的攻击掷骰 +1.
+fsp2-tape_worm|Trinket\n每当你的攻击掷骰落空, 对另一名玩家造成 1 damage.
+b2-tarot_cloth|每当一名玩家掷出 ④, 他必须给你一张 loot 牌.
+soi-telekinesis|TAP: 选另一名玩家控制的一件item上的 TAP 或 ¢ 能力, 他若能启动就必须启动它. 回合开始时, 你可以查看某个牌堆顶 2 张牌: 其中任意张放入弃牌堆, 其余以任意顺序放回.
+fsp2-telepathy_for_dummies|回合开始时掷骰 — 本回合你下一次掷骰的结果, 可以由你说改成这个点数.
+g2-the_bible|TAP: 任选: 毁灭一张 curse. / 取消你的攻击. / 杀死名为 Mom!、Mom's Heart! 或 It Lives! 的怪物.
+b2-the_blue_map|回合结束时, 查看 treasure 牌堆顶 4 张牌. 你可以把它们以任意顺序放回.
+b2-the_bone|Eternal\nTAP: 在本牌上放一个 counter. ¢ 从本牌移除 1 个 counter: 一次掷骰 +1. ¢ 从本牌移除 2 个 counter: 对一只怪物或一名玩家造成 1 damage. ¢ 从本牌移除 5 个 counter: 本牌变成一张 soul, 并失去所有能力.
+g2-the_butter_bean|TAP: 掷骰 — ⑥: 为本牌充能.
+b2-the_chest|本牌本该被毁灭时, 改为变成一张 soul.
+r-the_clicker|TAP: 毁灭本牌. 若如此做, 从游戏外选一张角色卡, 用它替换你的角色, 并用那张卡的起始item替换你的起始item.
+b2-the_compass|回合结束时, 查看 loot 牌堆顶 4 张牌. 以任意顺序放回.
+b2-the_curse|Eternal\n回合开始时, 把某个牌堆顶的一张牌放入弃牌堆. TAP: 把任意弃牌堆顶的一张牌放回它所属的牌堆顶.
+b2-the_d10|每当一名玩家掷出 ③, 你可以把怪物牌堆顶的一张牌放进一个未被攻击的怪物槽位.
+b2-the_d6|Eternal\nTAP: 选一次掷骰, 由它的控制者重掷. 回合结束时, 为本牌充能.
+b2-the_dead_cat|Guppy\n本牌进场时带 9 个 counter. 本牌有 counter 时, 你本该受到 damage, 就移除同样多的 counter, 并防止同样多的 damage.
+b2-the_habit|每回合你第一次受到 damage 时, 你可以为一件item充能.
+fsp2-the_left_hand|Trinket\n每当另一名玩家死亡, 你可以为一件item充能.
+b2-the_map|回合结束时, 查看怪物牌堆顶 4 张牌. 以任意顺序放回.
+box-the_mark|你拥有 5+ dc 并且可以被攻击. 在你的回合, 其他玩家拥有 5+ dc 并且可以被攻击.
+soi-the_monster|本牌处于充能状态时, 其他玩家不能把你或你控制的东西选为 loot 或能力的目标. ¢ 取消你的攻击并把 hp 回满.
+box-the_nail|TAP: 直到回合结束, 每名玩家拥有 4+ dc 并可以被攻击. 每当一名玩家被另一名玩家杀死, loot 1.
+box-the_stairway|每当你宣布购买, 在挑买什么之前, 你可以查看 treasure 牌堆顶 7 张牌, 并以任意顺序放回.
+fsp2-the_wiz|在你的回合, 怪物 +1 dc. 每当你造成战斗伤害, 对另一只怪物或一名玩家造成 1 damage.
+box-three_dollar_bill|你本该对一只怪物或一名玩家造成 damage 时, 掷骰 — ④-⑤: 你回复 1 hp. ⑥: 那次 damage +1.
+r-tick|Eternal\nTrinket\n你的回合里第一次杀死怪物时, 回复 +1 hp, 并且本回合可以额外攻击一次.
+r-undefined|TAP: 选一件商店item, 本牌变成它的复制直到你下个回合开始, 然后为本牌充能. 回合开始时, 你可以把一件商店item放入弃牌堆.
+g2-void|Eternal\nTAP: 任选: 弃掉手牌, 然后按弃掉的张数 loot. / 把一只未被攻击的怪物或一件商店item放入弃牌堆.
+r-wishbone|Trinket\n本牌被毁灭时, 获得 +1 treasure.
+g2-wooden_nickel|Eternal\nTAP: 选一名玩家, 然后掷骰 — 他获得等于点数的 ¢.
+r-x_ray_vision|TAP: 查看一名玩家的手牌和某个牌堆顶的一张牌. 你可以把牌堆顶那张放入弃牌堆. 回合结束时, 为本牌充能.
+b2-yum_heart|Eternal\nTAP: 选一名玩家或一只怪物, 防止他本回合接下来受到的第一次 damage. 回合结束时, 为本牌充能.

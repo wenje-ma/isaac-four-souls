@@ -1,0 +1,22 @@
+r-beggar|¢ 支付 3 ¢: 掷骰 — ③-④: 获得 2 ¢. ⑤: loot 2. ⑥: 获得 +1 treasure. 把本牌放入弃牌堆.
+p-black_market|¢ 支付 2 hp: 从商店夺取一件item.
+r-blind_rage|只要能, 行动玩家每回合都必须攻击怪物牌堆一次.
+r-bomb_bum|¢ 弃一张 loot 牌: 掷骰. 若弃掉的牌名字里带 "Bomb", 改为掷 3 倍 — ①-④: 对一只怪物或一名玩家造成 1 damage. ⑤-⑥: 受到 1 damage.
+r-challenge_room|每当一只怪物死亡, 行动玩家掷骰 — ④-⑥: 本回合他必须额外攻击一次.
+anni-daily_run|Indomitable\n本 room 可以被攻击. 每次本牌受到 damage, 获得 4 ¢ 或 loot 1, 然后你可以取消对它的攻击.
+r-devil_beggar|¢ 支付 1 hp: 掷骰 — ①-②: loot 2. ③-④: loot 1. ⑤-⑥: 受到 1 damage.
+r-dice_room_1|本牌进场时, 行动玩家重掷他控制的每件item. 回合结束时, 把本牌放入弃牌堆.
+r-dice_room_2|本牌进场时, 每名玩家弃掉自己的手牌, 然后 loot 3. 回合结束时, 把本牌放入弃牌堆.
+r-dice_room_3|本牌进场时, 把每件商店item都放入弃牌堆. 回合结束时, 把本牌放入弃牌堆.
+r-dice_room_4|本牌进场时, 每名玩家重掷自己的每件item. 回合结束时, 把本牌放入弃牌堆.
+r-dice_room_5|本牌进场时, 把每只怪物都放入弃牌堆. 回合结束时, 把本牌放入弃牌堆.
+r-dice_room_6|本牌进场时, 重掷场上的每件item, 每名玩家弃掉手牌并 loot 3, 把每只怪物都放入弃牌堆. 回合结束时, 把本牌放入弃牌堆.
+r-edens_blessing|回合开始时, 行动玩家可以重掷他控制的一件item.
+r-equality|玩家本该获得若干 ¢ 时, 改为每名玩家各获得这么多 ¢.
+r-eternal_chest|¢ 弃一张 loot 牌: 掷骰 — ③: 获得 4 ¢. ④-⑤: 获得 7 ¢. ⑥: 获得 +1 treasure 并 loot 1.
+r-fortune_teller|¢ 支付 3 ¢: 掷骰 — ③: loot 1. ④: loot 2. ⑤: loot 3. ⑥: loot 6. 把本牌放入弃牌堆.
+anni-greed_mode|每当一只怪物死亡, 行动玩家获得等于其 hp 的 ¢. item或角色上的每项 TAP 能力都变成以 "支付 3 ¢" 为代价的 ¢ 能力.
+r-i_am_error|你的回合开始时掷骰 — ①-②: 把一只怪物放入弃牌堆, 再用怪物牌堆顶的牌补上那个槽位. ③-④: 重掷你控制的一件item. ⑤: 弃掉手牌并 loot 3. ⑥: 以上全部照做.
+r-key_master|¢ 弃一张 loot 牌: 掷骰. 若弃掉的牌名字里带 "key", 改为掷 3 倍 — ⑤-⑥: 获得 +1 treasure.
+r-planetarium|回合开始时, 行动玩家可以获得 +1 treasure.
+r-restock_machine|¢ 支付 2 ¢: 把每件商店item、或每只未被攻击的怪物放入弃牌堆.

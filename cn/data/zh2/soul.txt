@@ -1,0 +1,8 @@
+r-soul_of_envy|一名玩家第一次控制自己的第 3 张 soul 时, 行动玩家从 soul 最少的玩家(并列也算)里选一名, 他获得本 soul.
+b2-soul_of_gluttony|手牌里第一次有 10 张及以上 loot 牌的玩家获得本 soul.
+b2-soul_of_greed|第一次拥有 25 ¢ 及以上的玩家获得本 soul.
+b2-soul_of_guppy|第一次控制 2 件及以上 guppy item的玩家获得本 soul.
+r-soul_of_lust|每当一名玩家杀死一只怪物, 就在本牌上放一个 counter. 放上第 6 个 counter 时, 行动玩家获得本 soul.
+r-soul_of_pride|每当一名玩家获得 treasure, 就在本牌上放一个 counter. 放上第 6 个 counter 时, 行动玩家获得本 soul.
+r-soul_of_sloth|一名玩家第一次控制 4 件item时, 行动玩家从item最少的玩家(并列也算)里选一名, 他获得本 soul.
+r-soul_of_wrath|每当一名玩家死亡, 就在本牌上放一个 counter. 放上第 6 个 counter 时, 行动玩家获得本 soul.

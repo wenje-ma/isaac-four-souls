@@ -1,0 +1,72 @@
+b2-o_the_fool|结束回合, 取消所有尚未结算的事.
+r-two_cents|获得 2 ¢.
+g2-two_of_diamonds|选一名玩家, 他获得 x ¢, x 是他拥有的 ¢ 数.
+r-two_of_spades|选另一名玩家, loot x, x 是他手里的 loot 牌数.
+r-three_cents|获得 3 ¢.
+r-four_cents|获得 4 ¢.
+fsp2-questionmark_card|打出本牌时选一件item, 复制它的一项 TAP 能力.
+b2-a_dime|获得 10 ¢.
+r-a_lucky_penny|获得 1 ¢. 直到回合结束, reward翻倍.
+r-a_nickel|获得 5 ¢.
+b2-a_penny_6|获得 1 ¢.
+r-a_sack|loot 3.
+r-ace_of_diamonds|获得 x ¢, x 是怪物槽位数加上你手里的 loot 牌数.
+r-algiz|选一名玩家, 直到回合结束他控制的每件item都获得 eternal.
+fsp2-ansuz|查看某个牌堆顶 4 张牌, 再以任意顺序放回.
+r-berkano|毁灭一件item. 若该item由一名玩家控制, 他从商店夺取一件item.
+r-black_heart|选一名玩家, 防止他本回合接下来受到的 1 damage. 直到回合结束, 该玩家死亡时, 对他和你以外的每名玩家各造成 2 damage.
+fsp2-black_rune|掷骰 — ①-②: 对每只怪物各造成 1 damage. ③-④: 重掷一件item. ⑤-⑥: 弃掉手牌, 然后 loot 3.
+b2-blank_rune|掷骰 — ①: 每名玩家各获得 1 ¢. ②: 每名玩家各 loot 2. ③: 每名玩家各受到 3 damage. ④: 每名玩家各获得 4 ¢. ⑤: 每名玩家各 loot 5. ⑥: 每名玩家各获得 6 ¢.
+r-bomb|对一只怪物或一名玩家造成 1 damage.
+box-butt_penny|获得 1 ¢, 然后掷骰.
+r-butter_bean|取消一件item的 TAP 或 ¢ 能力, 或取消一张正在打出的 loot.
+g2-charged_penny|获得 1 ¢, 然后为一件item充能.
+anni-cracked_key|选一件非 eternal item, 它变成一张 room. room 槽位 +1, 并把它放进新槽位.
+g2-credit_card|本回合一名玩家购买的第一件商店item花费 0 ¢.
+r-dads_note|从弃牌堆里选至多 3 张非事件怪物牌, 放进一个或多个未被攻击的怪物槽位.
+b2-dagaz|任选: 毁灭一个 curse. / 选一名玩家, 防止他本回合接下来受到的 1 damage.
+r-dice_shard|选一次掷骰, 由它的控制者重掷.
+b2-ehwaz|把每只未被攻击的怪物都放入弃牌堆, 并用怪物牌堆顶的牌各自替换.
+r-emergency_contact|取消一次对怪物的攻击, 并把那张怪物牌放到怪物牌堆底部.
+soi-era_walk|掷骰 — 把接下来 4 次掷骰的结果都改成这次的结果.
+fsp2-get_out_of_jail_card|直到回合结束, 其他玩家不能打出 loot 牌, 也不能启动item.
+b2-gold_bomb|对一只怪物或一名玩家造成 3 damage.
+fsp2-gold_key|直到回合结束, 行动玩家可以任意次攻击怪物牌堆.
+r-hagalaz|查看怪物牌堆或 room 牌堆顶 5 张牌, 以任意顺序放回, 然后把一张未被攻击的 room 或怪物放入弃牌堆.
+g2-holy_card|选一名玩家, 本回合他下一次本该死亡时, 防止死亡. 若正轮到他的回合, 取消所有尚未结算的事并结束它.
+b2-i_the_magician|把一次掷骰的结果改成你指定的数.
+b2-ii_the_high_priestess|选一名玩家或一只怪物, 然后掷骰 — 对它们造成等于结果的 damage.
+b2-iii_the_empress|选一名玩家, 直到回合结束他 +1 atk, 掷骰也 +1.
+b2-iv_the_emperor|查看怪物牌堆顶 5 张牌, 1 张放回顶上, 其余放到底部.
+b2-ix_the_hermit|查看 treasure 牌堆顶 5 张牌, 1 张放回顶上, 其余放到底部.
+g2-jera|loot x, x 是你手里的 loot 牌数.
+g2-joker|查看一名玩家的手牌, 你可以从他那里夺取一张 loot 牌.
+r-key|任选: 本回合行动玩家可以额外攻击一次. / 把怪物牌堆顶的一张牌放进一个未被攻击的怪物槽位.
+r-lil_battery|为一件item充能.
+r-magic_marker|直到回合结束, 把场上一张牌或一张正在打出的 loot 的效果文本里的一个数字改动 1. 数字不能低于 1, 也不能高于 6.
+b2-mega_battery|选一名玩家, 为他控制的每件item充能.
+soi-mega_bean|取消一件item或一张正在打出的 loot 的 TAP、¢ 或触发能力, 但该能力须以你或你控制的东西为目标. 若如此做, 对控制该item或该 loot 的玩家造成 2 damage.
+r-mega_bomb|对一只怪物或一名玩家造成 2 damage.
+soi-mugger_bean|取消一张正在打出的 loot, 并把它收入你的手牌.
+fsp2-perthro|重掷一件item.
+r-pills|掷骰 — ①-②: loot 3, 然后把你手里的 3 张牌以任意顺序放到 loot 牌堆顶. ③-④: loot 3, 然后把你手里的一张牌放到 loot 牌堆顶. ⑤-⑥: loot 3.
+r-soul_heart|选一名玩家, 防止他本回合接下来受到的 1 damage.
+r-sticky_nickel|掷骰 — ①-③: 把本牌交给你左边的玩家. ④-⑥: 获得 5 ¢.
+g-two_of_diamonds|把一名玩家拥有的 ¢ 数翻倍.
+b2-v_the_hierophant|选一名玩家或一只怪物, 防止他们本回合接下来受到的至多 2 damage(只防这一次).
+b2-vi_the_lovers|选一名玩家, 直到回合结束他 +2 hp.
+b2-vii_the_chariot|选一名玩家, 直到回合结束他 +1 atk 和 +1 hp.
+b2-viii_justice|选一名玩家, 一直 loot 并获得 ¢, 直到你手里的 loot 牌数和 ¢ 数都与他相同.
+b2-x_wheel_of_fortune|掷骰 — ①: 获得 1 ¢. ②: 受到 2 damage. ③: loot 3. ④: 失去 4 ¢. ⑤: 获得 5 ¢. ⑥: 获得 +1 treasure.
+b2-xi_strength|选一名玩家, 直到回合结束他 +1 atk, 且本回合可以额外攻击一次.
+b2-xii_the_hanged_man|查看每个牌堆顶的一张牌, 你可以把其中任意张放到各自牌堆底部, 然后 loot 2.
+b2-xiii_death|杀死一名玩家.
+b2-xiv_temperance|任选: 受到 1 damage 并获得 4 ¢. / 受到 2 damage 并获得 8 ¢.
+b2-xix_the_sun|把本牌放到 loot 牌堆底部. 若如此做, 且正轮到你的回合, 本回合之后再额外进行一个回合.
+b2-xv_the_devil|毁灭你控制的一件item. 若如此做, 从一名玩家或商店夺取一件非 eternal item.
+b2-xvi_the_tower|掷骰 — ①-②: 每名玩家各受到 1 damage. ③-④: 每只怪物各受到 1 damage. ⑤-⑥: 每名玩家各受到 2 damage.
+b2-xvii_the_stars|获得 +1 treasure.
+b2-xviii_the_moon|查看 loot 牌堆顶 5 张牌, 1 张放回顶上, 其余放到底部.
+b2-xx_judgement|选 soul 最多(并列也算)的一名玩家, 他毁灭自己控制的一张 soul.
+b2-xxi_the_world|查看每名玩家的手牌, 然后 loot 2.
+p-lost_soul|本牌进场时, 获得 +2 treasure, 并把它交给另一名玩家, 它成为一张 soul. (它不再是一件 item.)

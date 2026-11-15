@@ -1,0 +1,168 @@
+aa-ambush|怪物槽位 +2. 本回合行动玩家必须额外攻击这些槽位里的一只怪物.
+fsp2-angel_room|掷骰 — ①: 获得 +2 treasure. ②-③: 获得 +1 treasure. ④-⑥: loot 2.
+challenge-anonymous_mask_of_infamy-comp|你要宣布攻击本怪物时, 改为掷骰 — 若结果加上你控制的 soul 数不超过 8, 就把怪物牌堆顶的一张牌放进一个 小怪槽位并改打它; 否则打本怪物. 行动玩家的每只 小怪槽位里有怪物, 本怪物就 +1 hp.
+challenge-avaricious_greed-comp|玩家身上有 counter 时不能宣布攻击本怪物. 行动玩家身上有 counter 时, 本怪物要受到 damage 或死亡, 一律防止, 并从该玩家身上移除 4 个 counter. 每当一名玩家受到 damage, 他失去 4 ¢. 每当一名玩家获得 soul, 从他身上移除 10 个 counter.
+r-baby_plum|每次本怪物受到 damage, 行动玩家掷骰 — ①-②: 你受到 1 damage. ③-④: 你左边的玩家受到 1 damage. ⑤-⑥: 你右边的玩家受到 1 damage.
+g2-begotten|本怪物处于 1 hp 时拥有 +1 atk.
+r-betrayal|选另一名玩家, 掷骰 — ①-②: 从他那里夺取 5 ¢. ③-④: 随机夺取他一张 loot 牌. ⑤: 夺取他控制的一件非 eternal item. ⑥: 夺取他控制的一张 soul.
+aa-big_bony|每当一名玩家的攻击掷骰落空, 他掷骰 — ①-②: 他受到 1 damage.
+box-big_horn|每回合开始时, 以及每次本怪物造成战斗伤害时, 行动玩家对随机选出的一名玩家造成 1 damage.
+b2-big_spider|本怪物死亡时, 行动玩家可以额外攻击怪物牌堆一次.
+b2-black_bony|本怪物死亡时, 对杀死它的玩家造成 1 damage.
+fsp2-blastocyst|本怪物死亡时, 怪物槽位 +2. 行动玩家可以额外攻击怪物牌堆一次.
+g2-boil|每次本怪物造成战斗伤害, 它回复 1 hp.
+fsp2-bony|攻击方每次攻击掷骰为 1, 直到回合结束本怪物 +2 atk.
+b2-boom_fly|本怪物死亡时, 对每名玩家各造成 1 damage.
+fsp2-boss_rush|从怪物牌堆顶翻牌, 直到翻出 2 张 boss 牌. 把它们放进一个或多个未被攻击的怪物槽位, 其余放入弃牌堆. 本回合行动玩家必须额外攻击其中一只.
+fsp2-brain|攻击方每次攻击掷骰为 ⑥, 他受到 1 damage.
+r-brownie|每次本怪物受到 damage, 直到回合结束它 -1 dc.
+soi-charmed_vis|每当攻击或控制本牌的玩家受到 damage, 本怪物对其余每只怪物各造成 1 damage. 本牌作为item被另一名玩家杀死时, 防止死亡, 改为由该玩家夺取本牌.
+r-clog|本怪物死亡时, 每名玩家把手牌交给左边的玩家.
+soi-conjoined_fatty|每当一名玩家打出 loot 牌, 在本怪物上放一个 counter. 本怪物有 counter 时受到 damage, 就防止它、移除一个 counter, 并由行动玩家 loot 1.
+soi-conquest|本怪物死亡时, 行动玩家必须额外攻击另一名玩家一次. 该玩家因这次攻击拥有 4+ dc.
+p-corrupted_data|每名玩家把手里的 loot 牌全交给左边的玩家. 每名玩家把自己的角色卡和 eternal item交给右边的玩家. 为所有 eternal item和角色卡充能.
+fsp2-curse_of_blood_lust|curse: 只要能, 你的回合必须攻击.
+r-curse_of_empathy|curse\n每当一只怪物死亡, 弃一张 loot 牌并失去 1 ¢.
+soi-curse_of_envy|curse\n你死亡时, 每名其他玩家各获得 +1 treasure.
+g2-curse_of_fatigue|curse: 充能阶段你最多只能为 1 件item充能.
+fsp2-curse_of_impulse|curse: 回合结束时, 停用你控制的每件item和你的角色.
+r-curse_of_the_hollow|curse\n回合结束时, 弃 x 张 loot 牌并失去 x ¢, x 是你控制的 soul 数.
+r-curse_of_the_hunted|curse\n在你的回合, 怪物 +1 atk.
+r-curse_of_the_soulless|curse\n你无法获得 soul. 本牌本该放入弃牌堆时, 改为交给另一名玩家.
+g2-curse_of_tiny_hands|curse: 你的手牌上限是 2.
+fsp2-cursed_globin|curse: 每当一名玩家掷出 ③, 每只怪物回复 2 hp.
+aa-daddy_long_legs|每当一名玩家掷出 ①, 直到回合结束每只怪物 +1 atk.
+b2-dank_globin|本怪物死亡时, 行动玩家强迫一名玩家弃 2 张 loot 牌.
+aa-dark_one|每次本怪物受到 damage, 直到回合结束它 +2 atk.
+p-death|本怪物死亡时, 行动玩家杀死一名玩家.
+g2-deaths_head|怪物 +1 atk. 本怪物不能被攻击. 另一只怪物死亡时, 本怪物也死亡.
+challenge-delirious-comp|正在被攻击的 boss 拥有你控制的每张 soul、以及每个 delirium 槽位里每只怪物的能力. 怪物槽位里的非 boss 怪物死亡时, 把它放进一个 delirium 槽位. delirium 槽位里的怪物不能被攻击.
+b2-delirium|其他怪物 +1 dc. 本怪物死亡时, 把它放回怪物牌堆, 距顶 6 张的位置.
+aa-devil_deal|任选: 把本牌放入弃牌堆. / 获得 6 ¢, 受到 1 damage. / 受到 2 damage, 从 loot 牌堆里搜一张 loot 牌入手, 然后洗 loot 牌堆.
+challenge-devout_mom-hard|本怪物不能被攻击. 本怪物本该死亡时, 改为由行动玩家取得 Mom 牌堆顶 2 张牌, 取消他的攻击, 本怪物 hp 回满. 小怪 +1 hp. 每回合开始时行动玩家掷骰 — ①: 妈妈探头, 然后直到回合结束怪物 +1 atk. ②: 妈妈探头, 然后直到回合结束怪物 +1 dc. ③: 妈妈抓取, 然后每名玩家弃一张 loot 牌. ④: 妈妈抓取, 然后行动玩家把他随机一件非 eternal item放到场上某只 Mom 的手下面. ⑤: 妈妈跺脚, 然后每名玩家受到 1 damage. ⑥: 妈妈跺脚, 然后行动玩家毁灭他随机一件非 eternal item.
+b2-dinga|攻击掷骰为 ⑥ 时本怪物死亡, 它的reward翻倍.
+fsp2-dingle|行动玩家每次对本怪物造成 damage, 他掷骰 — ①-②: 他受到 1 damage. ③-④: 每名玩家受到 1 damage. ⑤-⑥: 本怪物受到 1 damage.
+r-dogma|有人宣布攻击本怪物时, 把其余每只怪物都放入弃牌堆. 本怪物死亡时, 把游戏外一张名为 The Harbingers 的牌放进一个未被攻击的怪物槽位.
+b2-dople|对本体造成的 damage, 同时也对行动玩家右边的玩家造成.
+r-double_treasure|选另一名玩家: 你与他各获得 +1 treasure.
+r-dressing_table|重掷任意件你控制的item.
+box-eggy|本怪物死亡时, 行动玩家掷骰 — ①-②: 怪物槽位 +1. ③-④: 怪物槽位 +2. ⑤-⑥: 怪物槽位 +3.
+b2-evil_twin|对本怪物造成的 damage, 同时也对行动玩家左边的玩家造成.
+box-evis|每回合开始时行动玩家掷骰 — ①-②: 在行动玩家身上放一个 肠 counter. 身上有 肠 counter 的玩家拥有 3+ dc 并可以被攻击.
+p-famine|本怪物死亡时, 行动玩家跳过他的下个回合.
+challenge-fattys_feast-norm|你每控制 2 张 soul 就 +1 hp. 场上有小怪时, 最终 boss 不能被攻击. 小怪 +2 hp.
+g2-fistula|每次本怪物受到 damage, 直到回合结束它 +1 dc.
+fsp2-flaming_hopper|攻击掷骰为 ⑥ 时, 本怪物不吃战斗伤害.
+anni-game_crash|毁灭所有item, 并把每只怪物和每张 room 都放入弃牌堆.
+g2-gaper|攻击掷骰为 ⑥ 时本怪物死亡, 行动玩家必须额外攻击怪物牌堆一次.
+soi-gemini|本怪物降到 1 hp 时, 在随机选中的一只怪物上放一个 hp counter, 再在随机选中的另一只怪物上放一个 atk counter.
+soi-giant_poop|每当一名玩家对本怪物造成 damage, 他 loot 1. 有人宣布攻击本怪物时, 每名非行动玩家都与攻击方组队. 杀死本怪物的玩家取得它的reward.
+gi-gish|每名玩家在自己的回合都必须攻击本怪物. 本怪物死亡时, 选一名玩家, 他跳过他的下个回合.
+fsp2-globin|本怪物降到 1 hp 时, 行动玩家掷骰 — ①-④: 本怪物受到 1 damage. ⑤-⑥: 本怪物回复 2 hp.
+r-golden_troll_bomb|选一名玩家, 他受到 2 damage. 把本牌放回怪物牌堆, 距顶 4 张的位置.
+challenge-greeds_gamble-comp|每当一名玩家失去的 ¢ 多于他拥有的 ¢, 就在他身上放 4 个 counter. 玩家本该失去若干 ¢ 时, 改为失去这些数量 +x, x 是场上小怪的数量. 每当一名玩家失去或支付若干 ¢, 就在本怪物上放同样多的 counter. 然后若本怪物有 20 个及以上 counter, 移除 20 个, 并把游戏外随机一个 keeper 头放进一个未被攻击的小怪槽位.
+aa-gurdy|本怪物被盖住时, 怪物 +1 hp. 每回合开始时, 行动玩家左边的玩家把怪物牌堆顶的一张牌放进一个怪物槽位.
+g2-gurglings|本怪物处于 2 hp 或以下时 -1 dc.
+r-gutted_fatty|本怪物死亡时, 怪物槽位 +1. 行动玩家必须额外攻击一次.
+b2-hanger|本怪物死亡时, 商店槽位 +1.
+fsp2-head_trauma|弃 2 张 loot 牌.
+soi-headless_horseman|本怪物本该死亡时(攻击掷骰为 ⑥ 的情况除外), 防止死亡. 它 hp 回满, 直到回合结束 +1 dc 和 +1 atk, 并且行动玩家取得它的reward.
+p-henry|攻击方攻击掷骰落空时, 取消这次攻击, 并把本牌放到怪物牌堆底部.
+fsp2-holy_bony|每当一名玩家掷出 ⑥, 他可以查看某个牌堆顶 3 张牌, 再以任意顺序放回.
+fsp2-holy_chest|掷骰 — ①-②: 防止你本回合接下来受到的 2 damage, 本回合你可以额外攻击一次. ③-⑤: 获得 7 ¢. ⑥: 本牌变成一张 soul, 收下它.
+b-holy_dinga|任何玩家掷出 ⑥, 他回复 1 hp.
+b-holy_dip|任何玩家掷出 ①, 他获得 1 ¢.
+fsp2-holy_mulligan|本怪物死亡时, 怪物槽位 +2. 本回合行动玩家可以额外攻击一次.
+b2-hopper|攻击掷骰为 ⑥ 时, 本怪物不吃战斗伤害.
+b2-horf|攻击掷骰为 2 时, 本怪物造成的战斗伤害 +1.
+r-hornfel|本怪物本该对行动玩家造成战斗伤害时, 防止它, 然后对随机一名玩家造成 1 damage.
+soi-hot_potato|本牌进场时变成一件item, 由行动玩家取得. 本牌进入你的控制时, 获得 2 ¢, 然后掷骰 — ①-④: 把它交给你左边的玩家. ⑤: 毁灭本牌, 然后受到 3 damage. ⑥: 本牌变成一张 soul.
+soi-hush|本怪物本该受到的 damage 减为 1. 本回合里, 若有对它的一次攻击掷骰不大于上一次对它的攻击掷骰, 这一次算作落空.
+g2-i_am_error|掷骰 — ①-②: 你必须额外攻击怪物牌堆一次. ③-④: loot 3. ⑤-⑥: 获得 +1 treasure.
+g2-imp|攻击方每次攻击掷骰为 ③, 直到回合结束本怪物 +1 dc.
+fsp2-isaac|每次本怪物受到 damage, 行动玩家选一名活着的玩家, 本怪物对他造成 1 damage.
+p-it_lives|一名玩家获得这张 soul 时, 选一名 soul 最多(并列也算)的玩家, 他获胜.
+b2-keeper_head|每次本怪物对一名玩家造成战斗伤害, 该玩家失去 2 ¢.
+anni-keepers_resting_place|本牌进场时, 行动玩家秘密地把它放回怪物牌堆, 至少距顶 3 张. 若本局第二次结算名为 Keeper's Resting Place 的牌, 本牌改为变成一张 soul, 由行动玩家取得.
+g2-knight|攻击掷骰为 1 时, 攻击方也会对本怪物造成战斗伤害.
+soi-krampus|每回合开始时, 每名玩家投票 "淘气" 或 "听话". 若 "淘气" 赢, 行动玩家本回合必须攻击. 同一回合里攻击方连续两次攻击掷骰结果相同时, 本怪物对其余每只怪物各造成 1 damage.
+aa-larry_jr|本怪物处于 2 hp 或以下时拥有 +1 atk.
+b2-leaper|攻击掷骰为 1 时, 本怪物造成的战斗伤害翻倍.
+aa-little_horn|每回合结束时, 若本回合没被攻击, 就在本怪物上放一个 counter. 每回合开始时, 本怪物造成等于其上 counter 数的 damage, 由行动玩家分配给他指定的任意名玩家.
+box-loki|攻击方每次攻击掷骰为 1, 怪物槽位 +1.
+challenge-lord_of_the_flies-comp|¢ 弃一张 loot 牌: 掷骰 — 若结果加上行动玩家控制的 soul 数大于 4, 就从你的角色上移除一个 蜂群 counter, 再在它上面放一个 苍蝇 counter. 玩家本该受到 damage 时, 可以从自己的角色上移除任意个 苍蝇 counter, 防止的 damage 等于移除的数量.
+r-lust_for_blood|选一名玩家, 你必须额外攻击他一次. 他因这次攻击拥有 4+ dc. 本回合他死亡时, 把本该因死亡惩罚毁灭的那件item交给行动玩家.
+challenge-masquerade-comp|怪物处于 1 hp 时 +2 dc. 每当一名玩家宣布攻击, 在挑目标之前掷骰 — ①: 他必须攻击另一名玩家, 该玩家拥有 4+ dc. ②: 他必须攻击怪物牌堆. ③-④: 他必须攻击怪物槽位或 小怪槽位里随机一只怪物. ⑤-⑥: 他必须攻击最终 boss.
+aa-mega_fatty|每当一名玩家掷出 ①, 直到回合结束本怪物 +2 hp.
+r-mega_satan|Indomitable\n玩家可以被攻击, 并且拥有 4+ dc. 每回合结束时, 若行动玩家是唯一活着的玩家, 他获胜.
+aa-min_min|每次对本体掷完攻击骰, 把结果记下来直到回合结束. 行动玩家每次掷出被记下的点数, 就受到 1 damage.
+challenge-mischievous_the_haunt-hard|本牌进场时带 14 个 把戏 counter. 本牌上的 把戏 counter 多于所有玩家控制的 soul 总数时, 不能宣布攻击本牌, 它也不吃 damage. 每当一名玩家受到 damage, 就在他身上放一个 恐惧 counter. 行动玩家身上每有 2 个 恐惧 counter, 怪物 +1 dc. 每当一只怪物死亡, 行动玩家掷骰 — ④-⑥: 从一名玩家身上移除一个 恐惧 counter.
+aa-mom|其他怪物 +1 hp. 有人宣布攻击本怪物时, 怪物槽位 +1.
+b2-moms_dead_hand|本怪物死亡时, 行动玩家可以夺取另一名玩家控制的一件非 eternal item.
+b2-moms_eye|本怪物死亡时, 行动玩家可以查看一名玩家的手牌.
+b2-moms_hand|攻击方攻击掷骰为 ⑥ 时, 取消所有尚未结算的事并结束回合.
+fsp2-moms_heart|一名玩家获得这张 soul 时, 选一名 soul 最多(并列也算)的玩家, 他获胜.
+aa-monstro|本怪物死亡时, 行动玩家掷骰 — ①-③: 随机毁灭他控制的一件非 eternal item.
+fsp2-monstro_ii|每次本怪物造成战斗伤害, 行动玩家掷骰 — ①-③: 对你右边的玩家造成 1 damage. ④-⑥: 对你左边的玩家造成 1 damage.
+r-mother|每次本怪物受到 damage, 直到回合结束它 +1 dc. 本怪物死亡时, 怪物槽位 +2.
+challenge-motherly_love|每当一名玩家死亡, 把 treasure 牌堆顶的一张牌放到 Mom 牌堆顶. 每当一只 Mom's Eye 死亡, 行动玩家可以查看 Mom 牌堆顶的牌. 每当一只 Mom's Hand 死亡, 行动玩家取得它下面的所有item, 并可以把 Mom 牌堆顶的牌放到牌堆底. 每当一名玩家获得 soul, 他取得 Mom 牌堆顶的牌.
+b2-mulliboom|本怪物死亡时, 行动玩家对一名玩家造成 3 damage.
+b2-mulligan|本怪物死亡时, 怪物槽位 +1.
+soi-mulligoon|每次本怪物受到 damage, 若能, 取消一次对它的攻击. 行动玩家 loot 1, 并把本怪物移到另一个怪物槽位. 本怪物每回合结束时不会回血.
+r-mushroom|每次本怪物对攻击方造成战斗伤害, 它对每名其他玩家各造成 1 damage.
+g2-parabite|每次本怪物受到战斗伤害, 攻击方本回合下一次攻击掷骰 -1.
+anni-patch_notes|随机选三名不同的玩家: 第一名在他控制的一件非 eternal item上放一个 hp counter, 第二名在他控制的一件非 eternal item上放一个 atk counter, 第三名在他控制的一件item上放一个 eternal counter.
+r-peeping_fatty|本怪物死亡时, 查看 loot 牌堆顶 5 张牌, 再以任意顺序放回.
+p-pestilence|本怪物死亡时, 行动玩家对任意只怪物或玩家造成 2 damage, 分配由他定.
+aa-pin|攻击掷骰为 5 或 6 时, 本怪物不吃战斗伤害.
+soi-police_lineup|所有非行动玩家一起秘密商定, 直到回合结束, 哪一名非行动玩家有罪. 然后行动玩家选一名非行动玩家: 若选中的人有罪, 他死亡, 行动玩家获得 +1 treasure; 否则有罪的那名玩家获得 +1 treasure, 行动玩家跳过他的下个回合.
+g2-polycephalus|每次本怪物受到 damage, 本回合下一次攻击掷骰 -2.
+b2-portal|本怪物死亡时, 行动玩家必须额外攻击一次.
+b2-psy_horf|本怪物死亡时, 行动玩家为他控制的每件item充能.
+p-rag_man|本怪物死亡时, 取得reward之后, 行动玩家掷骰 — ① 或 ⑥: 把本牌放到怪物牌堆顶.
+r-rag_mega|有人宣布攻击本怪物时, 每名非行动玩家各弃一张 loot 牌. 本怪物死亡时, 行动玩家杀死至多 3 名其他玩家.
+b2-rage_creep|本怪物对行动玩家造成的 damage, 也对行动玩家左边的玩家造成.
+g2-ragling|本怪物死亡时, 取得reward之后, 行动玩家掷骰 — ① 或 ⑥: 把本牌放到怪物牌堆顶.
+r-red_ghost|每次本怪物受到 damage, 行动玩家选另一名玩家, 他受到 1 damage.
+challenge-resurrected_rag_man-hard|本怪物本该死亡时, 改为掷骰 — 若结果加上所有玩家控制的 soul 总数不超过 10, 本怪物 hp 回满, 行动玩家取得它的reward, 取消他的攻击, 然后把随机一张非事件怪物牌从弃牌堆放进一个小怪槽位; 否则本怪物死亡. 场上每有一只小怪, 本怪物 +1 dc; 每有 2 只小怪, 本怪物 +1 hp.
+challenge-resurrection_day-normhard|一只怪物死亡时, 取得reward之后, 行动玩家掷骰 — ① 或 ⑥: 把那张怪物牌放进一个小怪槽位. 一名玩家死亡时, 把随机一张非事件怪物牌从弃牌堆放进一个小怪槽位.
+g2-round_worm|每次本怪物造成战斗伤害, 攻击方本回合下一次攻击掷骰 +1.
+fsp2-roundy|每次本怪物造成战斗伤害, 它对其余每只怪物各造成 1 damage.
+aa-satan|每回合中第三次有玩家掷出 ⑥ 时, 杀死所有玩家. 每当一名玩家要掷出 5, 把结果改成 6.
+aa-secret_room|掷骰 — ①-②: 受到 3 damage. ③-④: loot 2. ⑤: loot 4. ⑥: 重掷你控制的一件item, 并获得 +1 treasure.
+aa-shop_upgrade|怪物槽位、商店槽位和 room 槽位各 +1. 本回合行动玩家可以额外攻击一次.
+soi-shopkeeper|Indomitable\n玩家本该为死亡惩罚毁灭一件item时, 改为把它放进一个商店槽位. 本怪物不能被攻击.
+r-sisters_vis|有人宣布攻击本怪物时, 行动玩家选另一名玩家. 这次攻击里行动玩家每掷一次攻击骰, 该玩家也要跟着对本怪物掷一次. 本回合本怪物若死亡, 该玩家获得 +1 treasure.
+fsp2-spiked_chest|掷骰 — ①-②: 受到 1 damage. ③-④: 受到 1 damage, loot 1. ⑤-⑥: 受到 1 damage, 获得 +1 treasure.
+g2-steven|攻击方每次攻击掷骰为 ②, 他受到 2 damage. 攻击方每次攻击掷骰为 ⑥, 取消所有尚未结算的事并结束回合.
+b2-stoney|怪物 +1 dc. 本怪物不能被攻击. 另一只怪物死亡时, 本怪物也死亡.
+fsp2-sucker|本怪物死亡时, 对每名玩家各造成 1 damage.
+fsp2-swarmer|本怪物死亡时, 怪物槽位 +2.
+challenge-swarming_the_duke_of_flies-hard|本牌进场时带 14 个 苍蝇 counter. 本牌上的 苍蝇 counter 多于所有玩家身上 苍蝇 counter 的总数时, 不能宣布攻击本牌, 它也不吃 damage. 每当一只怪物要受到 damage, 行动玩家掷骰 — ①: 防止这份 damage, 并从本牌上移除一个 苍蝇 counter. 每回合开始时, 把一群苍蝇放进一个小怪槽位. 每轮结束时, 按每只小怪的 hp 数在本牌上放 苍蝇 counter, 然后把每只小怪移出游戏.
+soi-tainted_mulligan|有人宣布攻击本怪物时, 直到回合结束, 行动玩家手里每有一张 loot 牌, 本怪物 +1 hp.
+anni-tainted_spitty|攻击方本该对本体掷攻击骰时, 改为掷 x 个骰子, x 是他控制的 soul 数 +1, 取最小的作为结果.
+tw-tapeworm_monster|本怪物死亡时, 在行动玩家身上放一个 蛋 counter. 身上有 蛋 counter 的玩家死亡、而本牌在弃牌堆里时, 移除他的 蛋 counter, 并把本牌放回一个活跃的怪物槽位.
+box-teratoma|每次本怪物受到 damage, 就在它上面放一个 蜘蛛 counter. 本怪物死亡时, 行动玩家对任意只玩家造成 X damage, 分配由他定, X 是本怪物上的 蜘蛛 counter 数.
+soi-the_adversary|每回合开始时, 每名玩家按回合顺序各自选一个 1 到 6 之间互不相同的数. 直到回合结束, 每当有人掷出某玩家选的数, 该玩家受到 1 damage.
+aa-the_beast|Indomitable\n本怪物死亡时, 每名玩家毁灭自己控制的每张 soul, 然后每名玩家各获得 +2 treasure 并 loot 6.
+soi-the_bloat|每当一只怪物死亡, 本怪物对其余每只怪物和每名玩家各造成 1 damage.
+aa-the_duke_of_flies|本怪物死亡时, 怪物槽位 +2.
+fsp2-the_fallen|本怪物死亡时, 查看怪物牌堆顶 5 张牌, 再以任意顺序放回.
+aa-the_lamb|本怪物死亡时, 行动玩家可以选 2 名其他玩家, 他们各自毁灭自己控制的一张 soul.
+r-the_rainmaker|每当一名玩家掷出 ①, 他 loot 1. 本怪物死亡时, 在怪物牌堆里搜一张 curse 牌, 放进一个未被攻击的怪物槽位, 然后洗怪物牌堆.
+r-the_scourge|本怪物本该受到 damage 时, 每名活着的玩家投票 "鞭打" 或 "落空" — 若 "鞭打" 赢, 防止这份 damage, 且每名非行动玩家各受到 1 damage; 若 "落空" 赢或平票, 行动玩家 loot 1.
+r-the_siren|行动玩家可以攻击其他玩家. 被攻击的玩家拥有 4+ dc.
+g2-trap_door|掷骰 — ①-③: 查看怪物牌堆顶 3 张牌, 以任意顺序放回, 本回合你可以额外攻击一次. ④-⑥: 受到 1 damage.
+fsp2-troll_bombs|受到 2 damage!
+fsp2-tumor|每次本怪物受到 damage, 它对每名非行动玩家各造成 1 damage.
+r-turdlings|只有攻击掷骰为 2 时, 本怪物才吃战斗伤害. 攻击方本回合掷出第二次攻击骰、战斗伤害结算之后, 取消这次攻击.
+box-tv_static|把每只怪物都放入弃牌堆, 然后怪物槽位 +1. 本回合行动玩家可以额外攻击一次.
+aa-twitchy|每回合结束时, 行动玩家把本怪物移到另一个怪物槽位.
+r-ultra_greed|行动玩家每次对本怪物掷完攻击骰, 其余每名玩家按回合顺序也各对本怪物掷一次. 杀死本怪物的玩家取得它的reward.
+p-ultra_pride|每当一名玩家死亡, 就在本怪物上放 2 个 counter. 本怪物每个 counter 让它 +1 atk. 本怪物有 6 个及以上 counter 时, 只要能, 行动玩家的回合必须攻击它.
+challenge-unrelenting_delirium-comp|正在被攻击时, 本怪物拥有行动玩家控制的每张 soul、以及行动玩家每个 delirium 槽位里每只怪物的能力. 行动玩家控制的 soul 少于 3 张时, 不能宣布攻击本怪物.
+soi-war|每回合开始时, 在随机选中的另一只怪物上放一个 atk counter.
+r-whipper|每当一名玩家宣布攻击, 行动玩家掷骰 — ①-②: 本怪物对该玩家造成 1 damage.
+soi-widow|每回合开始时, 在随机选中的一名角色上放一个 蜘蛛 counter. 然后, 行动玩家按自己角色上的每个 蜘蛛 counter 各掷一次 — ①-③: 受到 1 damage. 身上有 蜘蛛 counter 的角色获得 "TAP: 从本角色上移除一个 蜘蛛 counter."
+b2-wizoob|本怪物死亡时, 行动玩家选一名玩家, 他毁灭自己控制的一张 soul.
+anni-wrath_of_the_lamb|每名玩家给另一名玩家投票. 得票最多的玩家可以从另一名玩家那里夺取一张 soul. 若并列最多, 由行动玩家从并列者中挑一名.

@@ -1,0 +1,3 @@
+b2-cain|若游戏开始时你控制本牌, 由你先出牌.
+r-eden|游戏开始时, 查看 treasure 牌堆顶 3 张牌并挑一张. 它成为你的起始item并获得 eternal. 其余放到 treasure 牌堆底部.
+g2-the_lost|回合结束时, 为至多 1 名角色充能.
